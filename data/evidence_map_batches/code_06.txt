@@ -1,0 +1,50 @@
+R02681|-|U|U|U|0|-|Linear regression theft and defective meter detection; no abstract
+X14|IND|H|-|U|0|-|Raspberry Pi theft detector; no abstract
+R00451|IND|H|-|L|0|0|IoT live-wire tampering detection
+R00628|EGY|U|U|O|0|-|SVM NTL detection, Alexandria distribution company
+R00664|-|S|Y|S|0|-|ANN energy theft detection in AMI
+R00858|-|N|Y|S|0|-|GTHI group-testing malicious user inspection
+R00972|-|S|Y|O|0|-|MIC + CFSFDP combined detection on load profiles
+R01014|-|U|U|O|0|-|MODWPT + RUSBoost NTL detection
+R01064|MYS|H|Y|L|0|-|AMI lab test rig comparing LR/LP frameworks
+R01095|-|N|Y|S|0|-|ABSI binary-splitting meter inspection
+R01101|COL|M|U|O|0|-|SOM/ARIMA/ANN system, Colombian Caribbean utility data
+R01222|-|X|-|C|0|-|Overview of ML for theft detection in AMI
+R01240|BRA|U|N|O|0|-|K-means/K-medoids for commercial loss pre-selection
+R01260|-|S|U|O|0|-|AdaBoost-SVM and GRNN stealing-period identification
+R01505|-|N|Y|S|0|-|Multi-timescale state estimation with PMUs
+R01588|-|S|U|O|0|-|Outlier detection algorithms on real consumption data
+R01621|-|S|Y|S|0|-|Privacy-preserving state-estimation theft detection
+R01634|-|N|Y|S|0|-|State estimation + geometric tests, IEEE feeders
+R01684|-|S|U|O|0|-|Multi-view stacking ensemble on real-world data
+R01701|ESP|S|R|O|0|-|Endesa smart meters, 57,000 on-field inspections; model in use in campaign
+R01780|URY|M|R|O|0|-|UTE neighbourhood features, monthly consumption, inspected customers
+R01789|IRL|S|Y|S|0|-|GRU-RNN on public data of 200 customers with attacks
+R01800|-|N|Y|S|0|-|Hook-theft detection via BPL in overhead LV grids
+R01815|-|U|R|O|0|-|Committee semi-supervised learning for fraud detection
+R01857|BRA|U|R|O|0|-|Bias reduction in irregular power usage data; deployed software
+R01990|IND|H|-|C|0|0|IoT add-on for theft and fault identification
+R01994|-|S|Y|S|0|-|PCA reconstruction + relative entropy
+R02062|GRC|S|Y|O|0|-|Unsupervised NTL detection on HEDNO smart meter data with simulated frauds
+R02087|-|S|Y|S|0|-|Semi-supervised generative GMM
+R02122|CHN|U|U|O|0|-|PCA + LOF abnormal mode detection
+R02160|IRL+USA|S|Y|S|0|-|Optimal attack vectors for theft and DER fraud
+R02173|CHN|S|U|O|0|-|Multi-feature fusion unsupervised anomaly detection
+R02197|PAK|H|-|L|0|0|Anti-theft distribution prototype burning illegal load
+R02218|NGA|H|-|L|0|0|RF wireless metering and billing
+R02239|IRL|S|Y|S|0|-|Customer-specific DNN, public data of 5,000 customers with attacks
+R02301|BRA|U|U|O|0|-|Probabilistic OPF for NTL
+R02362|-|S|Y|S|0|-|PCA + Mahalanobis with attack scenarios
+R02380|-|S|Y|S|0|-|ANN profiling on public smart meter data
+R02457|-|N|Y|S|0|-|IEEE 123-bus NTL test database
+R02469|-|S|Y|S|0|-|Statistical distance theft detectors
+R02492|CHN|U|R|O|0|-|Ensemble decision tree on Spark
+R02493|IND|H|-|S|0|0|Prepaid-postpaid meter model in Simulink
+R02532|IND|H|-|L|0|0|Overload and theft detection prototype
+R02562|-|N|Y|S|0|-|Voltage-deviation NTL localisation on European LV feeder
+R02571|-|U|U|U|0|-|Comparison of ML techniques for theft
+R02628|-|U|U|U|0|-|Big data analytics for NTL; no abstract
+R02638|-|N|Y|S|0|-|Anomaly framework with loss factor and error term
+R02686|CHN|S|R|O|0|-|Multi-scale DenseNet on sequential data (SGCC probable ?)
+R02689|-|U|U|U|0|-|DIET attack IDS; no abstract
+R02832|-|U|U|U|0|-|Detecting/mitigating theft in smart metering; no abstract

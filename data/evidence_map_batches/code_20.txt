@@ -1,0 +1,50 @@
+R00692|USA|S|Y|S|0|-|SMOTE-enhanced ML on OEDI theft dataset
+R00696|PER|M|U|O|0|-|ARIMA + XGBoost BI model for NTL, North Lima utility registries
+R00717|-|S|R|O|0|-|Sample-weighted loss on real-world datasets
+R00736|-|S|Y|S|0|-|Unsupervised LSTM-RNN + rule-based policy
+R00746|-|S|Y|S|0|-|Distillation attack against adversarial training in FL
+R00748|-|S|U|O|0|-|Encoder-decoder wide & deep CNN
+R00775|-|S|Y|S|0|-|Poisoning attack mitigation in privacy-preserving FL
+R00834|-|S|Y|S|0|-|XAI-based DAE+OCSVM anomaly detector robust to evasion
+R00836|-|S|Y|S|0|-|One-class classification ensemble on benign data
+R00839|-|U|U|O|0|-|15 ML techniques and balancing methods comparison with SHAP
+R00848|ECU|S|U|O|0|-|K-means + dense NN on EEASA special customers' telemetering curves
+R00851|CHN|S|R|O|0|-|LSTM-TCN + DCNN dual-time fusion on SGCC
+R00862|CHN|S|U|O|0|-|Contrastive predictive coding + SVDD on State Grid data
+R00868|-|S|Y|S|0|-|Backdoor attacks on ANN-based ETD and feature attention distillation defence
+R00878|-|S|Y|S|0|-|Stacking model for PV power theft
+R00881|IND|N|-|C|0|0|PLC/GOT power theft and cyber-physical protection system
+R00896|IND|H|-|L|0|0|IoT power theft identification with ML
+R00898|-|S|Y|S|0|-|Hoeffding D correlation between theft loss and consumption
+R00925|PAK|U|U|O|0|-|SVM kernels on Pakistani utility consumption dataset (granularity unclear ?)
+R00933|-|S|U|O|0|-|Sequential decentralised FL with channel pruning; edge deployment
+R00965|-|S|U|O|0|-|SNGAN oversampling + CNN
+R00975|-|S|Y|S|0|-|Smart home appliance-level theft detection with real and synthetic attacks
+R00982|NGA|S|U|O|0|-|LSTM + fuzzy inference confirmation for four consumers
+R00988|CHN|S|R|O|0|-|Blending ensemble for station-area theft; inspection scope reduced 79.17% in real examples
+R01001|CHN|S|U|O|0|-|LSTM anomaly detection on grid time-series
+R01034|-|H|-|C|0|0|Monitoring and deterrence system design for grid theft
+R01052|CHN|N|Y|S|0|-|MIC-IF line-loss anomaly perception with PV, 20 simulated areas
+R01063|IRQ|H|-|L|0|0|Arduino GSM/Zigbee theft detection
+R01070|-|S|U|O|0|-|Practical privacy-preserving detection with gamma noise
+R01076|-|S|U|O|0|-|Tsfresh + WOA + ensemble classifier, 600 users 583 days
+R01078|-|S|U|O|0|-|Meta-learner ensemble with search economics
+R01102|-|S|U|O|0|-|CEEMDAN-CNN-ViT detection
+R01107|-|S|Y|S|0|-|Attack location prediction + GAN theft detector
+R01140|-|S|Y|S|0|-|Trojan attack on federated learning and defences
+R01146|IND|H|-|L|0|0|IoT current comparison on poles (city installation claimed ?)
+R01162|CHN|S|R|O|0|-|MLP-GRU with k-means SMOTE on Chinese grid (SGCC) data
+R01170|-|S|Y|S|0|-|Supervised vs anomaly detectors for zero-day attacks
+R01171|IND|H|-|L|0|0|Arduino theft detection and alert system
+R01178|IND|H|-|L|0|0|ESP32 smart meter with theft detection
+R01188|CHN|S|U|O|0|-|DL-dominated stacked ML/DL detector
+R01190|ESP|N|R|O|0|-|Energy-balance NTL curves + RF trained on real NTL cases; tampered meter identification
+R01201|IND|H|U|L|0|0|ML energy management with LSTM demand prediction and SVM theft detection
+R01227|CHN|N|Y|S|0|-|State-estimation error + fuzzy clustering theft detection (simulation)
+R01247|CHN|S|U|O|0|-|Multi-head graph attention anomaly detection
+R01254|CHN|S|R|O|0|-|Sample adaptive transfer to new cities with few labels
+R01283|CHN|S|R|O|0|-|Two-stage features + GBM on SGCC
+R01296|CHN|S|U|O|0|-|Robust regression + CNN for MV theft types; simulated and measured data
+R01332|-|S|U|O|0|-|Deep CNN theft detection (overlaps R01776 ?)
+R01353|CHN|S|R|O|0|-|Transfer learning for small-sample theft detection
+R01357|GRC|H|-|L|0|0|Harmonic injection detection of neutral loss, islanding and tampering

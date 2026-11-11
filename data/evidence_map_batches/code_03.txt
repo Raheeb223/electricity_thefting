@@ -1,0 +1,50 @@
+R02911|-|U|U|U|0|-|SVM NTL detection for metered customers; no abstract
+R01384|-|S|Y|S|0|-|SVM on consumption patterns with simulated theft forms
+R01944|-|S|U|S|0|-|Hybrid NN and encoding for load-profile classification
+R02065|ESP|M|U|O|0|-|Endesa data mining with variability/trend estimators
+R02311|MYS|U|R|F|0|-|TNB SVM-FIS; inspection hit rate 60% to 72%
+R02471|CHN|N|-|S|0|-|State-estimation anti-stealing method
+R02517|-|U|U|O|0|-|Evolutionary feature selection, industrial/commercial profiles
+R02631|ESP|M|R|O|0|-|Endesa Pearson/Bayesian/trees on real customers; system in operation
+R02961|ESP|M|R|O|0|-|Endesa integrated expert system with inspection results; test phase
+R00320|CHN|N|-|L|0|0|GPRS transformer monitoring anti-stealing; installed at Linyi, no outcomes
+R00566|USA|X|-|C|0|0|Aerial infrared thermography for theft
+R00985|-|X|Y|S|0|-|Game-theory theft detection in AMI
+R01673|-|S|U|S|0|-|Encoding + SVM, 92% accuracy
+R01791|-|S|U|O|0|-|Autoregressive prediction for LV theft
+R01856|-|H|-|C|0|0|GSM smart distribution architecture
+R01987|BRA|H|-|L|0|0|Low-cost IED meter prototype with payback analysis
+R02109|-|S|U|S|0|-|Rule engine on encoded load profiles
+R02193|-|S|Y|S|0|-|Grid parameter identification for double-feeding theft
+R02381|BRA|U|U|O|0|-|WEKA classifiers on industrial consumer profiles
+R02460|CHN|S|U|S|0|-|PV-aware NTL features
+R02513|-|N|Y|S|0|-|DSE-based irregularity search
+R02655|-|U|U|U|0|-|HPC for theft detection; no abstract
+R02710|-|U|U|U|0|-|Evaluating theft detectors in smart grids; no abstract
+R03083|URY|M|U|O|0|-|UTE class-imbalance fraud detection on historical kWh
+R00090|VEN|Q|-|Q|0|-|Delphi variables for fraud inspection planning (Spanish/English)
+R00705|MYS|H|Y|L|0|-|Consumer load prototype to simulate theft
+R00721|MYS|H|Y|L|0|-|AR model on prototype load data
+R01006|PAK|H|-|C|0|0|Microprocessor mismatch detection concept
+R01196|-|S|Y|S|0|-|CONSUMER attack and hybrid IDS
+R01369|USA|S|Y|S|0|-|Privacy-preserving P2P theft detection
+R01569|TWN|N|Y|O|0|-|TPC feeder data, state estimation + ANOVA, simulated theft
+R01718|-|S|Y|S|0|-|AMIDS information fusion
+R01977|-|N|-|O|0|-|Energy-flow localisation; checked against utility energy audits
+R02002|CAN|S|-|O|0|-|BC Hydro secondary topology/voltage estimation for theft detection
+R02032|BGD|H|-|L|0|0|Smart meter prototype; DPDC load-shedding data
+R02167|BRA|U|U|O|0|-|MLP trained by charged system search, Brazilian utility data
+R02189|IND|M|R|O|0|-|APSPDCL fuzzy clustering vs theft records (monthly data probable ?)
+R02403|BRA|U|R|F|0|-|ANN KDD for inspection targeting; >50% improvement at utility (field probable ?)
+R02567|BRA|X|-|C|0|-|Overview of utility NTL identification methods
+R02579|CHN|N|-|C|0|-|Line-loss grading + abnormal use scheme (Chinese)
+R02625|-|U|U|U|0|-|Smart meter data analysis for theft; no abstract
+R02697|-|U|U|U|0|-|Framework for NTL detection; no abstract
+R02913|-|H|-|U|0|-|Smart prepaid metering to control theft; no abstract
+R01086|-|X|-|C|0|0|Communication networks and UAV NTL control framework
+R01746|CHN|S|U|O|0|-|One-class SVM in AMI; real example
+R01993|-|N|Y|S|0|-|WLS state estimation theft detection, IEEE test feeders
+R02214|-|N|Y|S|0|-|Fuzzy Petri nets, IEEE 30-bus
+R02358|IND|X|-|C|0|0|Energy-efficient equipment cost-benefit
+R02414|BRA|H|-|Q|0|-|Forensic investigation of tampered electronic meters
+R02451|-|S|U|O|0|-|Meter analytics change detection, 6,000 real meters

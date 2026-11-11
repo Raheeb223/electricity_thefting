@@ -1,0 +1,50 @@
+R01153|IND|H|-|L|0|0|Raspberry Pi meter monitoring and tamper detection
+R01182|CHN|S|U|O|0|-|CWGAN + SCDAE + LightGBM power-stealing detection
+R01202|TCD|N|Y|S|0|-|Hierarchical WSN clustering with SNE, OMNeT++ simulation
+R01230|BRA|Q|R|O|0|-|CPFL census-sector fraud scores with historical inspections
+R01248|CHN|N|U|O|0|-|Outlier detection and line-loss monitoring; actual cases
+R01253|COL|U|U|O|0|-|Nine ML models, coastal Colombian DSO data with socio-demographics
+R01269|-|S|Y|S|0|-|Anomaly pattern detection on real data with artificial attacks
+R01284|-|N|Y|S|0|-|Hamming-code TL/NTL detection and correction
+R01287|CHN|S|U|O|0|-|K-SMOTE + RF theft detection
+R01298|ZAF|U|U|O|0|-|Classifier selection framework, South African municipality data
+R01320|-|S|Y|S|0|-|ANFIS power theft detection
+R01336|-|S|Y|S|0|-|Hidden theft via multiple pricing; countermeasures
+R01345|-|S|U|O|0|-|Multidimensional deep learning on weekly/daily 2-D load patterns
+R01386|CHN|S|R|O|0|-|EMD + KNN on SGCC
+R01398|IDN|H|-|L|0|0|ARM transformer-side device with NN prediction (PLN context)
+R01412|-|S|U|O|0|-|LSTM theft detection on real consumer case data
+R01431|-|M|R|O|0|-|RF/KNN/SVM on ~80,000 monthly consumption records, 14 metrics
+R01466|IND|N|-|F|0|1|PLC-based ETDPS; implemented in MSEDCL Nagpur smart city pilot
+R01477|-|H|-|L|0|0|5-Hz distribution system to deter meter bypass
+R01587|-|S|Y|S|0|-|Deep learning for DG generation-side theft
+R01599|CHN+IRL|S|R|O|0|-|TextCNN on Chinese and Irish datasets
+R01646|-|S|U|O|0|-|SMOTE-KPCA-SVM pipeline on real data
+R01663|IND|H|-|L|0|0|IoT smart meter theft detection prototype
+R01674|-|S|U|O|0|-|DANN-ETD attention network
+R01727|CHN|S|R|O|0|-|Ensemble deep CNN on SGCC (42,000 customers)
+R01741|CHN|N|U|O|0|-|Feeder-level abnormal loss detection with control charts, real data
+R01761|IND|H|Y|L|0|-|LC-trap high-frequency injection detection
+R01782|BRA|U|R|F|0|-|CPFL customer-journey model; field test 2.2x inspection success; implemented
+R01809|CHN|S|Y|S|0|-|CNN-GAN augmentation + DT-SVM
+R01813|CHN|S|U|O|0|-|Graph convolution outlier detection on grid company data
+R01821|-|S|U|O|0|-|ETD-DBRNN on real datasets
+R01905|CHN|S|U|O|0|-|FFT-CNN-LightGBM suspicion model, Zhejiang data
+R01911|COL|M|R|O|0|-|SOM-GA/ARIMA-ANN/RF, Colombian Caribbean data; 82.9% vs utility's 68%
+R02008|IND|H|-|L|0|0|Arduino GSM theft detection and metering
+R02018|IND|H|-|L|0|0|IoT smart home theft detection
+R02034|-|S|U|O|0|-|Missing-value pattern CNN for NTL
+R02041|IND|N|-|C|0|0|uPMU + LoRa integrated pilferage and fault system
+R02125|-|S|Y|O|0|-|Data-driven theft detection in partial smart grids; two case studies
+R02155|IND|H|-|S|0|0|Modular PLC smart meter retrofit in Simulink
+R02202|-|S|Y|S|0|-|Adversarial measurements against ML theft detectors
+R02207|-|S|Y|S|0|-|VAE stealth cyber-attack detection
+R02220|-|S|Y|S|0|-|Wide & deep CNN + MIC ensemble
+R02268|-|S|Y|S|0|-|CNN-LSTM forecasting-based detector
+R02290|-|S|U|O|0|-|Residual network on weekly 2-D samples
+R02302|HUN|N|Y|S|0|-|NTL at unregistered points via GA
+R02310|IND|N|Y|S|0|-|SMS load-flow theft location, rural networks
+R02312|RUS|H|-|L|0|0|ESP8266 smart meter for theft control
+R02328|BRA|N|Y|S|0|-|Load-flow QV-bus NTL location
+R02350|MEX|S|U|S|0|-|Edge-fog ML fraud detection model
+R02385|ESP|U|R|O|0|-|Knowledge-based NTL segmentation (Naturgy framework)

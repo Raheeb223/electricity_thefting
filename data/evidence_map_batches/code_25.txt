@@ -1,0 +1,50 @@
+R01030|RUS|S|U|O|0|-|Sampling strategies + balanced RF on AMI data; commercial loss reduction estimate
+R01033|CHN|S|Y|S|0|-|QRNN for small-amount theft by dedicated transformer users
+R01049|-|S|Y|O|0|-|Green-Internet of Fuzzy Things multi-class anomaly classification on real smart meter data
+R01054|CHN|N|Y|S|0|-|Improved DBSCAN with spatiotemporal features on IEEE-33 bus hybrid dataset
+R01056|BRA|H|Y|L|0|-|Service-line theft detection via voltage step responses; open-air lab tests (13,700 tests)
+R01065|THA|S|Y|O|0|-|Weight-based balancing + 1D-CNN on PEA Khon Kaen load profiles
+R01072|-|H|-|S|0|0|IoT single-phase meter theft detection (Proteus, 11 scenarios)
+R01098|CHN|S|R|O|0|-|DAFNet and MEAL-DAFNet active learning on SGCC
+R01116|CHN|S|U|O|0|-|Improved ML for three-phase four-wire miswiring/theft
+R01118|-|S|Y|S|0|-|CNN-LSTM + LOF-NN hybrid on simulated smart home
+R01121|CHN|S|Y|O|0|-|SSA-DELM for fraudulent PV capacity expansion; simulation and real network data
+R01125|-|S|Y|S|0|-|Hierarchical FL against gradient inversion attacks
+R01151|-|S|U|O|0|-|Self-optimising wide/deep/periodic hybrid on 2,000-customer dataset
+R01154|-|S|U|O|0|-|Lightweight federated MLP with differential privacy
+R01163|IND|H|-|L|0|0|ESP32-CAM theft surveillance with prepaid metering
+R01168|-|S|Y|S|0|-|Model-agnostic XAI for fraud start/end times
+R01169|-|S|U|O|0|-|Customised histogram gradient boosting with SMOTE-ENN
+R01177|-|S|U|O|0|-|CNN with SMOTEENN on real consumption data
+R01193|-|U|U|O|0|-|Stacking and weighted ML models for fraud detection
+R01195|-|S|U|O|0|-|Hierarchical federated learning for theft detection
+R01211|CHN|S|U|O|0|-|CNN-Mamba + SSA-optimised AdaBoost-RF
+R01219|-|S|Y|S|0|-|DCN-Transformer ensemble with environmental features
+R01232|IDN|S|U|O|0|-|Multiclass RF on PLN UP3 Bandengan AMI instantaneous data
+R01237|-|S|Y|S|0|-|Unsupervised KNN/GMM/MI ensemble against FDIAs
+R01238|IND|H|-|L|0|0|ESP32 IoT smart meter with rule-based theft detection
+R01239|TUR|U|Y|O|0|-|CNN/LSTM on 2-D matrices for voltage/current leakage types
+R01251|CHN|S|U|O|0|-|STL decomposition + Att-LSTM/1D-CNN/fractal features
+R01264|VNM|S|R|O|0|-|Hybrid sampling ratio selection for ensembles on 22M EVN smart meter records
+R01278|-|N|Y|S|0|-|Deterministic DG theft detection on 118-bus RDS
+R01281|IND|S|U|O|0|-|IoT + LightGBM theft detection on household smart meter case study
+R01289|-|S|U|O|0|-|DeepBlendNet and ActiveBlendNet
+R01309|-|H|U|L|0|0|AI-enabled IoT smart metering framework for theft and anomalies
+R01313|IND|H|-|L|0|0|FPGA-based theft detection system
+R01314|-|S|U|O|0|-|DING diffusion-based multi-step framework for imbalanced and missing data
+R01322|CHN|S|R|O|0|-|Hybrid CNN-LSTM on SGCC
+R01364|-|S|U|O|0|-|AI + federated learning theft detection on real and synthetic data
+R01366|-|S|U|O|0|-|GridShield ML + cybersecurity real-time theft detection
+R01371|-|S|U|O|0|-|Temporal Fusion Transformer anomaly detection on utility streams
+R01388|CHN|S|R|O|0|-|Semi-supervised domain adaptation with minimax entropy across regions
+R01396|-|S|U|O|0|-|EEMDAN + PE + LSSVR/RELM/MHA-BiGRU hybrid
+R01435|IND|H|U|S|0|0|AI-assisted IoT real-time theft monitoring (simulations)
+R01464|CHN|S|U|O|0|-|Two-layer ensemble with Extra-Trees for theft, default and metering anomalies
+R01473|IND|H|-|L|0|0|ESP32 pole vs meter comparison theft detection
+R01479|PHL|N|Y|S|0|-|XGBoost pilferage detection/localisation with PV, smart and traditional meters (OpenDSS + Ausgrid)
+R01488|IND|H|-|L|0|0|IoT power theft detection with relay and GSM
+R01496|-|S|U|O|0|-|Lightweight DNN with SMO for theft detection
+R01499|-|M|R|F|0|-|kNN/DT/RF/ANN on real distribution data incl. non-smart grids; implementation reduced losses by EUR 45,200 (country not stated ?)
+R01502|-|S|R|O|0|-|ACGAN sample generation + residual network
+R01519|-|S|U|O|0|-|MFDA feature selection + ARRNN-DGRU anomaly detection
+R01525|-|S|U|O|0|-|Decision-tree ensembles on IoT consumption data

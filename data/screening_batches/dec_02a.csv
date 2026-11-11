@@ -1,0 +1,18 @@
+# batch_02 lines 1-125 (S3 Bangladesh 2021-2026; S2 2010-2011)
+DEFAULT,EXC,E1,,Not about electricity theft/NTL (renewables, forecasting, microgrids, rural electrification, other sectors)
+R00953,INC,I5a,BD,Bangladesh distribution losses >10% incl. NTL; ETAP loss analysis
+R02331,EXC,E5,BD,System-loss trends 2001-2024 and policy in Bangladesh; venue not indexed (check for grey/other source)
+R01924,INC,I5c,GV,Non-acceptance of prepaid metering in Bangladesh (WZPDCL data, survey)
+R02880,EXC,E4,GV,Preprint on prepayment and consumption in Bangladesh; check for published version
+R00633,INC,I5c,BD,Smart metering cost-benefit for Bangladesh (deployability cost evidence); check NTL content
+R00114,EXC,E5,BD,Venue not indexed
+R01391,EXC,E5,BD,Venue not indexed
+R00734,EXC,E5,BD,T&D losses South Asia econometrics; venue not indexed
+R02851,INC,I5a,GV,Econometric determinants of illegal connections, Belo Horizonte favelas (Energy Policy)
+R01109,INC,I5b,HW,Harmonic-injection concept against pilfering; check for evaluation
+R01831,INC,I5c,GV,Measures and setbacks for controlling theft in developing countries
+R01384,INC,I5b,DD,SVM classification for theft detection (developing-country utility)
+R00253,EXC,E4,GV,Master's thesis (Conviver programme, Brazil)
+R02317,EXC,E4,GV,SSRN working paper (corruption and theft, Uttar Pradesh); find published version
+R01208,EXC,E5,HW,Prepaid meter; venue not indexed
+R00822,EXC,E2,HW,Architecture proposal without evaluation

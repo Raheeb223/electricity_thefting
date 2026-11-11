@@ -1,0 +1,105 @@
+# batch_03 lines 126-250 (S2 regional 2020-2023)
+DEFAULT,EXC,E1,,Not electricity theft/NTL as main subject (water, access, energy policy, generic metering)
+R02999,INC,I5a,GV,Mixed-effects models of NTL across Brazilian utilities with socio-economic confounders
+R03044,EXC,E1,RV,Smart meter acceptance review; theft not central
+R03062,INC,I5a,GV,Corruption and access to electricity in Africa (Afrobarometer; Energy Policy)
+R03065,INC,I5a,NW,Clandestine connections in loss evaluation of distribution networks; check venue
+R03069,INC,I5a,GV,Review of electrical energy losses in Nigeria (NJT)
+R03095,INC,I5c,GV,RCT registry: smart metering effect on revenue collection (LMIC); find published results
+R00112,EXC,E4,HW,Dissertation (Eskom split meters)
+R00397,EXC,E1,RV,Smart metering projects review
+R00407,INC,I5b,HW,IoT NTL detection and mitigation (Nigeria); check venue indexing
+R00473,INC,I5b,DD,Demand forecasting plus theft detection (Applied Sciences)
+R00482,INC,I5b,DD,Feature-engineered ensemble for fraud in traditional meters (monthly data)
+R00521,INC,I5b,DD,Information retrieval approaches for NTL (IEEE Access)
+R00723,INC,I5a,GV,Causes of losses and management role, City of Tshwane (JESA)
+R00724,INC,I5b,HW,IoT/PLC/SCADA metering to identify illegal use
+R00740,INC,I5b,HW,Distribution board remote switch control against theft (Malaysia)
+R01071,EXC,E4,HW,Dissertation
+R01074,INC,I5b,DD,Classic vs DNN NTL detection on labelled 311k-customer dataset (ISGT 2021)
+R01090,EXC,E4,GV,Book chapter
+R01156,INC,I5b,HW,IoT power quality and theft detection (Pakistan)
+R01203,INC,I5b,DD,Unsupervised clustering for NTL (CIRED/IET)
+R01261,INC,I5b,DD,Multivariate Gaussian fraud detection for developing-country utilities (IEEE Access)
+R01285,INC,I5c,HY,Maximising financial return of NTL management (IEEE TPWRS)
+R01299,INC,I5b,HW,IoT power theft detection Pakistan (BEEI)
+R01379,INC,I5b,HW,Controller for detecting various power thefts
+R01428,EXC,E4,DD,Portuguese regional conference
+R01545,INC,I5b,DD,Gradient boosting + SHAP fraud detection (ITEES)
+R01618,INC,I5a,GV,Self-connecting as counter-conduct, Umlazi Durban (J British Academy)
+R01665,INC,I5b,DD,Neural network locating NTL in satellite images (Brazil irrigation)
+R01751,EXC,E1,GV,Blockchain consensus protocols; theft only as motivation
+R02022,INC,I5b,DD,ANN/DL for NTL at rural irrigation consumers (Brazil CIRED)
+R02070,INC,I5b,DD,Weather inputs for NTL detection
+R02107,EXC,E5,HW,No indexed venue
+R02114,INC,I5b,DD,ML for deviant consumer behaviour (J Global Information Management)
+R02168,INC,I5b,HW,IoT control/monitoring of power theft
+R02258,EXC,E5,HW,Venue doubtful
+R02266,INC,RV,RV,Bibliometric analysis of NTL (IEEE LATAM) for T1
+R02435,EXC,E1,HW,Generic smart metering
+R02436,INC,I5b,HW,Smart system detecting theft (J Phys Conf Ser)
+R02468,INC,I5c,GV,Regulatory evaluation of NTL in Brazil (CIRED)
+R02788,INC,I5b,DD,Data-driven approach to reduce theft in developing countries (Utilities Policy 2021)
+R02855,EXC,E4,RV,Book chapter review (India)
+R02868,EXC,E5,HW,Venue not indexed
+R02994,EXC,E1,GV,Productivity of Pakistani discos; theft not central
+R03050,INC,I5a,GV,Perceptions and acceptability of theft, conjoint experiment (World Development)
+R00064,EXC,E4,GV,Dissertation
+R00105,EXC,E4,GV,Dissertation
+R00131,EXC,E4,GV,Dissertation
+R00338,EXC,E4,DD,Dissertation
+R00408,EXC,E5,HW,Venue not indexed
+R00465,EXC,E4,GV,Repository item (same thesis as R00105)
+R00485,INC,I5a,GV,Prevalence of theft among Lagos households (NJT)
+R00674,EXC,E2,HW,Generic monitoring
+R00706,INC,I5b,HW,IoT theft detection in three-phase lines
+R00751,INC,I5a,GV,Non-technical electricity losses: wide perspective (Energies 2022)
+R00893,INC,I5b,HW,Two-point measuring hardware NTL detection, SA prepayment
+R00946,EXC,E4,DD,Portuguese regional conference
+R01179,INC,I5b,DD,MLP-GRU with synthetic theft augmentation (Sustainability)
+R01183,EXC,E4,DD,Dissertation
+R01295,INC,RV,GV,Brazil NTL interviews (IJEEP) - empirical governance; also T1
+R01565,EXC,E1,BD,Smart grid India overview
+R01619,INC,RV,RV,Taxonomy review (JAS 2022) for T1
+R01952,EXC,E5,GV,Venue not indexed
+R01964,INC,I5b,NW,Monitoring TL and NTL in a DRC feeder
+R02031,EXC,E5,HW,Venue not indexed
+R02148,EXC,E5,HW,Venue not indexed
+R02181,EXC,E5,DD,Venue not indexed
+R02215,EXC,E5,HW,Venue not indexed
+R02228,EXC,E5,HW,Venue not indexed
+R02344,INC,I5a,GV,Electricity market and governance in Lubumbashi incl. illegal access (Energy Reports)
+R02813,EXC,E4,GV,SSRN preprint (Haryana)
+R02854,EXC,E4,HY,SSRN preprint (smart meter viability Pakistan)
+R02936,INC,I5a,GV,Barriers to smart grid acceptance in India (theft as driver)
+R03066,INC,I5b,HW,Tamper-proof smart metering (Sri Lanka)
+R00104,EXC,E1,HW,Smart transformer generic
+R00124,EXC,E5,NW,Zenodo
+R00188,EXC,E1,HW,Unified water/energy metering
+R00219,INC,I5a,GV,Energy access and illegal connections in SA informal settlements; check theft content
+R00235,EXC,E5,GV,Venue not indexed
+R00361,INC,I5b,DD,Explainable AI for NTL with network/contextual data (IEEE Access)
+R00388,INC,I5c,GV,Smart meters and theft law in India (legal study); check venue
+R00452,EXC,E1,HW,Smart meter prospects Pakistan
+R00488,EXC,E5,HW,Venue not indexed
+R00498,INC,I5b,DD,Extremely randomised trees for theft (MLWA)
+R00511,EXC,E5,RV,Venue not indexed
+R00523,INC,I5a,GV,Prepaid meter issues in Ghana; check venue
+R00595,INC,I5b,DD,Binary-class imbalanced classification for theft
+R00618,INC,I5a,GV,Mapping electricity access modes incl. illegal, Lubumbashi (Energy Reports)
+R00686,INC,I5a,GV,Informal electricity access and coping in Kampala (ERSS)
+R00702,EXC,E5,HW,Venue not indexed
+R00785,EXC,E5,HW,Venue not indexed
+R00850,INC,I5b,DD,Deep meta-learner for theft detection (Frontiers)
+R00875,INC,I5b,HW,Smart meter for theft prevention/detection in Pakistan (Sustainability)
+R00918,EXC,E5,DD,Venue not indexed
+R00920,INC,I5c,GV,Regulatory NTL targets via panel model selection (Energies)
+R00941,INC,I5b,DD,HyMOTree hyperparameter tuning for NTL on low-frequency data (Energies)
+R00984,EXC,E5,DD,Venue not indexed
+R01147,EXC,E4,GV,Portuguese regional conference (see R01213)
+R01158,EXC,E4,GV,Portuguese regional conference
+R01213,INC,I5a,GV,Socio-economic variables and NTL in LV systems (UPEC)
+R01275,EXC,E1,DD,Irrigation consumption estimate (supporting only)
+R01303,INC,I5b,DD,AI to detect NTL at irrigation consumers (Energies; pilot)
+R01426,EXC,E5,DD,Venue not indexed
+R01539,INC,I5c,HW,Metering infrastructure upgrade against theft, KwaZulu-Natal (IEEE Access)

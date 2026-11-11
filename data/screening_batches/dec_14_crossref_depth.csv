@@ -1,0 +1,55 @@
+idx,ta_decision,ta_code,ta_note
+0,EXC,E4,Preprint (posted content) review
+1,EXC,E5,Venue not indexed (IJARSCT)
+2,EXC,E5,Venue not indexed (IJRISS)
+3,EXC,E4,Preprint without abstract
+4,INC,I5b,Algorithms 2026: four models on SGCC and half-hourly data; dataset vs architecture
+5,EXC,E4,SSRN preprint
+6,EXC,E6,Duplicate of R03100 found during R3 coding (robust PCA detection; ITEES 2020)
+7,EXC,E4,Preprint without abstract
+8,EXC,E4,Preprint scientometric analysis
+9,EXC,E1,Crop theft alarm
+10,EXC,E5,Venue not indexed (Devotion); qualitative village theft study (Indonesia)
+11,EXC,E1,ATM theft
+12,EXC,E1,Water theft
+13,EXC,E3,Portuguese-language abstract and paper
+14,INC,I5b,Raspberry Pi theft detector (CTCEEC 2017); no abstract
+15,EXC,E1,Car theft
+16,EXC,E1,Identity theft
+17,INC,I5c,GSM theft detector with alarm (HNICEM 2020); no abstract
+18,INC,I5c,Smart meter with theft detection (AIP Conf Proc 2025); no abstract
+19,EXC,E4,Book chapter
+20,INC,I5c,Smart meter with theft detection and app (ICISS 2026); no abstract
+21,INC,I5b,CNN theft detection (LNEE 2024); no abstract
+22,INC,I5b,IET RPG 2023: DNN comparison for energy prediction and theft detection in IoT meters
+23,INC,I5b,AMNS 2024: BP network with sine chaotic GA; venue to audit in R8
+24,EXC,E1,Water theft
+25,INC,I5b,BDCC 2026: federated detection with differential privacy accounting
+26,EXC,E1,Burglar alarm
+27,INC,I5c,Automated meter reading and theft detection framework (LNNS 2018); no abstract
+28,EXC,E1,Vehicle theft
+29,EXC,E1,Identity theft and deepfakes
+30,EXC,E1,Property theft camera
+31,INC,I5b,Anomaly and theft detection (LNEE 2025); no abstract
+32,INC,I5c,IJECE 2019: prepaid meter with dual current sensors for bypass detection
+33,EXC,E1,Physical transformer theft (asset theft not electricity theft)
+34,EXC,E1,Animal theft
+35,EXC,E4,Retraction notice
+36,EXC,E5,Venue (JCTN) discontinued from Scopus
+37,EXC,E4,Book chapter (IIP series)
+38,EXC,E5,Venue not indexed (Granthaalayah)
+39,EXC,E5,Venue not indexed (IJERT)
+40,EXC,E4,Preprint
+41,INC,I5b,Sustainability 2021: ML anomaly detection on smart meter big data
+42,EXC,E1,General fraud analytics book chapter
+43,INC,I5b,Data mining and Bayesian networks for NTL (MICAI 2015); no abstract
+44,EXC,E4,Book chapter (IGI); Turkey low-voltage NTL analysis
+45,EXC,E1,Technical losses only
+46,EXC,E1,Fuel dispenser tampering
+47,EXC,E1,Web parameter tampering
+48,EXC,E1,Web parameter tampering
+49,EXC,E1,Demand-response cyberattack without consumer-theft framing
+50,EXC,E1,Web injection vulnerabilities
+51,EXC,E5,Venue not indexed (IJIRE)
+52,INC,I5b,k-means theft identification (PESA 2022); no abstract
+53,EXC,E5,Venue not indexed (Jurnal Disprotek); meter calibration loss

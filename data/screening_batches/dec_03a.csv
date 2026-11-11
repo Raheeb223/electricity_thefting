@@ -1,0 +1,101 @@
+# batch_03 lines 1-125 (S2 regional 2017-2020)
+DEFAULT,EXC,E1,,Not electricity theft/NTL (water, gas, energy crisis/policy, metering convenience)
+R03087,EXC,E5,HW,No indexed venue
+R00300,INC,I5a,GV,Rebound effect of efficiency policy with energy theft (Energies)
+R00302,EXC,E1,DD,Privacy in micro-grids; theft not addressed
+R00356,EXC,E4,HW,Dissertation (LV visibility, illegal connections)
+R00451,INC,I5b,HW,IoT solution for live-wire tampering (India)
+R00632,EXC,E5,HW,No indexed venue
+R00694,EXC,E1,GV,Gas theft, not electricity
+R00767,EXC,E4,DD,Dissertation (rural NTL ANN)
+R00831,EXC,E5,HW,Venue not indexed
+R01205,EXC,E5,RV,Venue not indexed
+R01240,INC,I5b,DD,Data mining for commercial losses (Brazil SBSE)
+R01293,EXC,E5,HW,Venue not indexed
+R01308,EXC,E5,NW,Loss segregation HESCO; venue indexing doubtful
+R01602,EXC,E1,GV,Energy policy stochastic model; theft not central
+R01616,EXC,E4,DD,Repository item
+R01937,EXC,E5,HY,Zenodo
+R01990,INC,I5b,HW,IoT real-time identification of theft and faults
+R02060,EXC,E5,HW,Venue not indexed (JETIR)
+R02138,EXC,E5,HW,Venue not indexed
+R02197,INC,I5b,HW,Automated anti-theft distribution system (MATEC)
+R02218,INC,I5b,HW,RF wireless metering and billing vs NTL (Cogent Engineering)
+R02330,EXC,E5,GV,Nigeria theft laws; venue not indexed
+R02362,INC,I5b,DD,PCA-based theft detection in AMI
+R02470,INC,I5a,GV,Electricity theft in slums vs regular areas, Montevideo (political economy)
+R02587,INC,I5c,GV,Distributed generation to reduce NTL in low-income areas; check
+R02924,EXC,E5,HW,Venue not indexed
+R02987,INC,I5a,GV,Electricity theft among residential consumers, Rawalpindi/Islamabad (Energy Policy)
+R03052,INC,I5a,GV,Contributory factors of theft in Ghana (Energy Policy)
+R00376,EXC,E5,HW,Venue not indexed
+R00410,EXC,E5,HW,Venue not indexed
+R00600,INC,I5b,DD,ML classifiers for NTL (IEEE Access)
+R00763,INC,I5b,HW,Electrical tamper detection system (IECON)
+R00793,INC,I5c,GV,Self-administered (prepaid) meters for low-income customers reduce NTL (CIRED)
+R01004,INC,I5b,DD,Rule-based classification of theft in load profiles (IET Smart Grid)
+R01029,EXC,E5,GV,Venue not indexed
+R01096,INC,I5b,DD,Naive Bayes for unusual consumption, APSPDCL India
+R01114,INC,I5a,HW,TL and NTL in single-phase metering, Sri Lanka
+R01198,INC,I5b,DD,Ensemble bagged trees for NTL, MEPCO Pakistan (Electronics)
+R01277,INC,I5b,HW,Arduino/GSM theft detection
+R01415,EXC,E1,HW,Generic smart meter
+R01476,EXC,E5,GV,Venue not indexed
+R01512,EXC,E5,HY,Zenodo (Lebanon AMI)
+R01520,EXC,E1,HW,Prepaid billing portal
+R01604,EXC,E5,HW,Venue not indexed
+R01928,INC,I5a,GV,Factors encouraging theft, Lubumbashi DR Congo; check indexing
+R01953,INC,I5b,HY,Theft detection/prevention through load profiling (Pakistan)
+R02011,INC,I5b,DD,Rule-based theft detection India
+R02015,INC,I5c,GV,Electricity theft as reason for smart grid in South Africa; check venue
+R02146,INC,I5b,DD,Compressed sensing theft detection
+R02427,INC,I5b,DD,XGBoost and Isolation Forest fraud prediction (Brazil)
+R02473,INC,I5b,HW,Detection/mitigation of theft via ground-surface conductors (SAIEE ARJ)
+R02478,INC,I5a,NW,NTL on injected energy, entry meters Rio de Janeiro; check venue
+R02540,EXC,E5,DD,Venue not indexed
+R02572,EXC,E5,NW,Venue not indexed
+R02593,EXC,E5,RV,Venue not indexed
+R02682,INC,I5a,GV,Principal-agent-client model for limiting theft in developing countries (Energy Policy)
+R02801,INC,I5a,GV,Socio-economic predictors of theft, India (ESD 2019)
+R02951,EXC,E1,BD,Nepal energy crisis review; theft not central
+R02952,EXC,E1,HW,Self-reading meter digits
+R03016,INC,I5a,NW,Loss segregation method, Sri Lanka distribution
+R03053,EXC,E5,HW,Venue not indexed
+R00052,EXC,E4,GV,Dissertation
+R00073,EXC,E5,GV,Venue not indexed
+R00421,INC,I5b,DD,Boosted C5.0 for NTL (Energies)
+R00565,INC,I5c,HW,Smart meters for loss reduction in South African distribution
+R00682,INC,RV,RV,Review India (T1); duplicate DOI of gap-check entry
+R00687,INC,I5b,DD,Viability of smart meter installation to prevent NTL (Nigeria); check venue
+R00788,EXC,E1,HW,GSM metering reliability
+R01013,EXC,E5,DD,Venue not indexed
+R01038,EXC,E1,HW,Energy management security features
+R01249,INC,I5a,GV,Ethnography of electricity bills and citizenship in Rio favelas
+R01252,EXC,E5,DD,Venue (JCTN) discontinued from Scopus
+R01298,INC,I5b,DD,Framework to select classifier for fraud detection (S Afr J Sci)
+R01355,EXC,E5,HW,Venue doubtful
+R01386,INC,I5b,DD,EMD + KNN theft detection (Pakistan)
+R01429,EXC,E5,HW,Venue not indexed
+R01466,INC,I5b,HY,Online theft detection and prevention for smart cities (IET Smart Cities)
+R01477,INC,I5b,HW,5-Hz distribution system against meter bypass (Frontiers)
+R01511,EXC,E5,HY,Zenodo
+R01530,EXC,E4,GV,Preprint (Brazil regulatory econometrics)
+R01629,INC,I5c,GV,Clarifying theft offence and private prosecution, South Africa (Obiter)
+R01761,INC,I5b,HW,Power theft detection LV network (India)
+R01764,INC,I5c,GV,Stochastic frontier model for regulatory NTL targets, Brazil (Energies)
+R01782,INC,I5b,DD,Customer journey mapping in CPFL fraud models (Brazil)
+R01838,EXC,E1,DD,Generic anomaly detection
+R01895,EXC,E5,HW,Venue doubtful
+R01938,EXC,E5,DD,Venue not indexed
+R02008,INC,I5b,HW,Arduino GSM theft detection
+R02052,EXC,E4,GV,Preprint (Brazil NTL regulation indicators)
+R02155,INC,I5b,HW,Modular smart meter locating theft via PLC
+R02310,INC,I5b,NW,Load-flow monitoring for theft location (rural India)
+R02342,INC,RV,RV,NTL review conference (T1 candidate)
+R02356,EXC,E5,HW,Venue not indexed
+R02446,INC,I5b,HW,Low-frequency control scheme against hooking (Bangladesh)
+R02461,EXC,E1,HW,Load management
+R02556,INC,I5b,DD,Electricity-theft behaviour via multi-source data (WWW 2020)
+R02853,EXC,E5,GV,Venue not indexed
+R02914,EXC,E4,GV,Preprint (Indian discoms)
+R02939,EXC,E1,HW,Meter image segmentation

@@ -1,0 +1,116 @@
+# batch_09 lines 126-250 (S1 2023-2024)
+DEFAULT,EXC,E1,,Not consumer electricity theft/NTL (EV charging behaviour, topology ID, generic IoT metering, water, legal non-English, retractions)
+R01524,INC,RV,RV,Stracqualursi 2023 systematic review (RSER) T1
+R01536,EXC,E4,HW,Retracted
+R01541,INC,I5b,DD,EDA techniques (PCC, FCM, DPMM) for power theft in residential grids
+R01551,INC,I5b,DD,Decentralised privacy-preserving ETD for DSOs (IEEE TSG)
+R01555,INC,I5c,HY,Reduced NTL via AMI and GHG impact, PLN Indonesia (JEK); check venue
+R01556,EXC,E1,DD,Meter testing
+R01558,INC,I5b,NW,Autoencoder + PMU theft detection
+R01570,INC,I5b,DD,Cloud + CNN theft detection system (IJIES)
+R01578,INC,I5b,DD,Optimised DL model ETD
+R01584,INC,I5b,DD,Feature extraction for theft and defective meters in AMR (PEA Thailand)
+R01594,INC,I5b,DD,PCA + CNN power theft detection
+R01600,INC,I5b,DD,Improved fuzzy C-means stealing detection without many labels
+R01639,EXC,E5,HW,Venue not indexed
+R01640,INC,I5b,DD,Explainable attention maps for theft on daily data (YCRE)
+R01657,INC,I5b,DD,VAE-GAN for imbalanced theft data (Energies)
+R01660,INC,I5b,DD,Deep active learning cost-effective ETD (IEEE TII) - labelling cost
+R01672,INC,I5b,DD,Unsupervised BLSTM with contaminated training data (ACM TCPS) - no labels
+R01691,INC,I5b,DD,Fraud anomaly analysis for smart and non-smart grids - BD-relevant
+R01695,EXC,E5,HW,Venue doubtful
+R01698,INC,I5b,DD,Multivariate detection scheme for theft attacks
+R01706,INC,I5b,DD,Hybrid DL + data-driven theft detection
+R01728,INC,I5b,NW,Harmonic state estimation to detect illegal crypto-mining farms
+R01732,INC,I5b,DD,Federated learning ETD
+R01737,INC,I5b,DD,Consumer load profile anomalies (EUROCON)
+R01745,EXC,E4,DD,Preprint
+R01748,EXC,E1,DD,DSM microgrid
+R01770,INC,I5b,DD,Self-learning dual NN adaptive theft detection (IEEE TII)
+R01787,INC,I5b,DD,AlexNet ETD (Frontiers)
+R01796,EXC,E5,HW,Venue doubtful
+R01798,INC,I5b,DD,Simple data augmentation tricks for ETD (IEEE TIA)
+R01799,INC,I5b,DD,Shewhart chart of variance theft detection
+R01819,INC,I5b,HW,IoT smart grid theft detection and remote power redirection
+R01847,INC,I5b,HW,IoT smart meter with theft detection
+R01855,INC,I5b,HW,Low-cost IoT smart meter with theft detection
+R01863,INC,I5b,DD,Dynamic graph + GAT ETD (IEEE TII)
+R01872,EXC,E4,DD,Book chapter
+R01878,INC,I5b,DD,Theft period determination on SGCC (IJIS)
+R01893,INC,I5b,NW,Dynamical evaluation of NTL in LV networks (CIRED)
+R01925,INC,I5b,DD,IoT + ML energy theft prevention system (JoCCASA)
+R01926,EXC,E1,RV,Anomaly detection review (general)
+R01934,INC,I5a,GV,Impact of electricity loss on GDP in Nigeria (RePEc); check venue
+R01948,EXC,E1,HW,Billing
+R01956,INC,I5b,NW,Model-less NTL detection with smart meter data (IEEE TPWRD)
+R01982,INC,I5b,DD,Improving deployed NTL system through explainability (DMKD; Naturgy)
+R02024,INC,I5b,DD,Convolution-non-convolution parallel network (Sustainability)
+R02044,INC,I5b,HW,Machine vision for meter operation errors against theft
+R02057,INC,I5b,DD,Fuzzy logic suspicious consumption (ISGT Europe)
+R02066,INC,I5b,HW,LoRa pilferage detection
+R02088,INC,I5b,DD,TCN + self-attention ETD
+R02089,EXC,E5,HW,Venue not indexed
+R02094,INC,I5b,DD,Wasserstein distance on LSTM residuals (TPEC)
+R02100,INC,I5b,DD,Federated learning ETD
+R02112,EXC,E4,HW,Book chapter
+R02169,INC,I5b,DD,Multitask learning for intermittent theft
+R02183,INC,I5b,NW,CNN detection and location of theft in distribution (PES GM)
+R02204,EXC,E4,DD,Preprint
+R02245,INC,RV,RV,Smart meter analytics review (PowerTech) partial
+R02246,INC,I5b,HW,IoT detection of collusive stealing
+R02269,INC,I5b,DD,ISSA-DELM
+R02289,INC,I5c,HY,AMI cost-benefit analysis for Dhaka City (IJSER?); check venue - BD
+R02322,INC,I5b,DD,MLP-GRU anomaly detection NTL
+R02324,INC,I5b,DD,SMOTE + logistic regression ETD
+R02346,INC,I5c,GV,Non-penal efforts against theft at PLN West Sumatra (law journal); check
+R02353,INC,I5b,DD,CNN+LSTM fraud detection Dominican Republic; check venue
+R02379,INC,I5b,DD,DL NTL detection (IJPEDS)
+R02387,INC,I5b,HW,IoT energy theft detection meter
+R02393,INC,I5b,NW,Granger analysis for theft in high-loss zones
+R02420,INC,I5b,DD,DL fraud detection models; check venue
+R02433,INC,I5b,DD,Xavier initialisation theft model
+R02442,INC,I5b,DD,Isolation Forest atypical billings (ISGT LA; Brazil)
+R02454,INC,I5b,DD,Improved CNN with holiday periodicity
+R02458,INC,I5b,HW,Cloud power theft detection with notification
+R02480,INC,I5b,DD,1D and 2D CNN thieves detection (RIA)
+R02491,INC,I5b,HW,Meter and power theft monitoring system
+R02495,INC,I5b,DD,Data mining for consumption anomaly
+R02504,INC,I5b,NW,TL and NTL analysis in LV networks
+R02522,INC,I5b,DD,Industry 4.0 analytics framework for NTL (CCAC Colombia)
+R02528,INC,I5b,HW,IoT advanced theft detection
+R02534,INC,I5b,HY,Hybrid NTL identification with smart meter and grid data (CIRED)
+R02535,EXC,E5,DD,Venue off-topic (education journal)
+R02561,EXC,E5,DD,Zenodo
+R02595,INC,I5b,DD,Multi-agent systems NTL detection with smart metering
+R02639,INC,I5b,DD,Two-stage DL ETD in AMI (IJEPES)
+R02644,INC,I5b,DD,Detection framework against intermittent theft (IJEPES)
+R02660,INC,I5b,DD,Hybrid adaptive sampling + pipeline ML (MTAP)
+R02672,INC,I5b,DD,ML power theft detection (AISC)
+R02693,INC,I5b,DD,Multi-view broad learning system (Applied Energy)
+R02695,INC,I5b,DD,Data-driven intelligent ETD (IJEPES)
+R02709,INC,I5b,DD,Deep semi-supervised ETD in AMI (SEGAN)
+R02714,INC,I5b,DD,Feature extraction/selection + ML (SN CS)
+R02731,INC,I5b,DD,Lightweight intrusion + theft detection (LNEE)
+R02737,EXC,E4,DD,Book chapter
+R02748,INC,I5b,DD,Anomaly transformer theft detection (CCIS)
+R02820,INC,I5b,DD,LITE-FORT lightweight three-stage theft detection (EPSR)
+R02835,INC,I5b,DD,GAN-based covert attack against detectors (LNICST)
+R02844,EXC,E4,DD,SSRN preprint
+R02860,INC,I5a,GV,Criminal/forensic characteristics of electricity theft offences (KSM); check
+R02869,INC,I5a,GV,Electricity consumers and theft in Edo State Nigeria; check venue
+R02873,EXC,E5,HW,Venue not indexed
+R02875,EXC,E1,DD,CCTV crime detection
+R02895,EXC,E4,DD,Corrigendum
+R02902,EXC,E4,HW,Book item
+R02904,EXC,E5,DD,Venue doubtful
+R02932,EXC,E1,GV,Mozambique corporate liability (appliance damage)
+R02937,INC,I5b,DD,Federated anomaly detection (IEEE Access)
+R02949,EXC,E5,HW,Venue not indexed
+R03006,EXC,E1,RV,Energy dataset review (general)
+R03040,INC,I5b,NW,Abnormal metering data of large users and line loss
+R03074,INC,I5b,HW,IoT + Power BI theft detection
+R03079,INC,I5b,DD,Satellite-detected buildings matched to registered consumers to find theft (SEPOC; Brazil) - no AMI needed
+R03129,EXC,E4,DD,No venue
+R03156,EXC,E4,DD,No venue
+R03167,EXC,E4,DD,No venue
+R00039,EXC,E4,DD,Dissertation (Greek)

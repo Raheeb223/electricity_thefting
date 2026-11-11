@@ -1,0 +1,50 @@
+R01009|CHN|S|R|F|0|-|Bitcoin-mining stealing via Pearson correlation with line loss; 16 suspects inspected, 10 confirmed (62.5%)
+R01011|-|S|Y|S|0|-|Deep seq2seq autoencoders (AEA) anomaly detection
+R01015|-|U|U|O|0|-|Typical/anomalous pattern identification requested by a DSO
+R01022|-|S|R|O|0|-|Sampling-frequency effect: down-sampling to weekly/monthly reduces detection performance
+R01028|-|S|Y|S|0|-|GrAb LSTM + SVM theft scheme
+R01050|-|S|U|O|0|-|FedDP federated voting classifier
+R01057|IND|H|-|L|0|0|IoT smart meter with fault and theft detection
+R01079|CHN|H|U|O|0|-|Boruta-XGBoost on electric energy parameters
+R01089|-|S|U|O|0|-|p2Detect homomorphic encryption ETD
+R01111|-|S|U|O|0|-|XGBoost on smart meter data
+R01120|NGA|S|U|O|0|-|SVM + ELUCI interface for NTL monitoring
+R01167|PHL|H|-|L|0|0|Streetlight monitoring computer with theft detection
+R01173|-|S|Y|S|0|-|Observer meters + wavelet + FCM unsupervised detection
+R01179|PAK|S|Y|S|0|-|MLP-GRU on PRECON with six synthetic theft attacks
+R01194|CHN|S|R|O|0|-|CNN-GRU with cuckoo search on SGCC
+R01214|IRL|S|Y|S|0|-|LFPR-DNN low false positive rate on Irish data
+R01224|URY|M|R|O|0|-|Multi-resolution DL for monthly and 15-min meters, UTE real fraud data
+R01271|IND|H|-|L|0|0|IoT mobile application for power theft detection
+R01306|-|S|U|O|0|-|ConvLSTM quarterly-reshaped consumption
+R01316|CHN|S|U|C|0|-|Anti-stealing comprehensive diagnosis model from marketing data
+R01321|-|N|Y|S|0|-|Hierarchical WSN algorithm (OMNeT++)
+R01348|-|S|Y|S|0|-|Regression-tree PV generation theft
+R01375|-|N|Y|S|0|-|Co-simulation synthetic data for theft scenarios
+R01385|NGA|H|-|L|0|0|Cloud load monitoring for conventional-grid theft
+R01402|CHN|S|R|O|0|-|Stacking ensemble with ADASYN-TomekLink on SGCC
+R01432|-|S|Y|S|0|-|Correlation-based detection of group fixed-ratio thieves (village fraud)
+R01436|CHN|S|Y|O|0|-|NICE augmentation for PV electricity theft
+R01463|-|S|Y|S|0|-|Multi-domain feature fusion with six simulated theft types
+R01474|-|S|Y|S|0|-|Novel FDI techniques + attention-LSTM-Inception
+R01547|-|S|U|O|0|-|CNN-XGBoost on 1-D and 2-D data
+R01559|-|S|Y|S|0|-|Fine-tree regression theft confidence
+R01620|POL|S|N|O|0|-|SARIMA/LSTM anomaly detection in road lighting system
+R01636|BRA|U|R|O|0|-|BiGRU-CNN on actual supplier data for inspection targeting
+R01659|CHN|H|-|L|0|-|VMD-WTD denoising for anti-stealing device signals
+R01680|-|S|U|O|0|-|BERT + GAN NTL detection
+R01708|-|S|U|O|0|-|GCN + CNN theft detection
+R01710|-|S|Y|S|0|-|Load-shape dictionary adaptive detection
+R01734|-|H|-|L|0|0|Anti-theft transformer disconnection detection device
+R01740|-|H|Y|L|0|-|Hardware demonstration of Hamming-code metering system
+R01759|CHN|S|U|O|0|-|Outlier + clustering analysis on information collection system data
+R01768|CHN|S|R|O|0|-|Classifier comparison on power company theft data
+R01776|-|S|U|O|0|-|Deep CNN smart meter theft detection
+R01781|-|S|Y|S|0|-|CNN-LSTM detection and localisation with main meter
+R01786|CHN|U|U|O|0|-|BFO-PSO feedforward network, four years of city consumption data
+R01788|-|S|Y|S|0|-|DL detector for generation-domain theft
+R01822|-|S|U|O|0|-|CNN-BiLSTM-Attention with LWGAN-GP
+R01827|-|S|Y|S|0|-|Robustness to combined FDIA types
+R01852|CHN|S|Y|O|0|-|LOF + MIC + CFSFDP anti-stealing on smart meter data
+R01858|BRA|N|Y|S|0|-|Regression R2-based LV NTL location
+R01877|IND|S|U|S|0|-|Analytical study of anomaly detection in smart meters

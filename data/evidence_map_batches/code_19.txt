@@ -1,0 +1,50 @@
+R02714|-|U|U|U|0|-|Feature extraction/selection + ML theft classification; no abstract
+R02731|-|U|U|U|0|-|Lightweight intrusion and theft detection; no abstract
+R02748|-|U|U|U|0|-|Anomaly Transformer theft detection; no abstract
+R02820|-|U|U|U|0|-|LITE-FORT three-stage forecasting-based detection; no abstract
+R02835|-|U|Y|U|0|-|GAN real-time covert theft attack; no abstract
+R02937|-|S|U|O|0|-|Federated learning anomaly detection on standard datasets
+R03040|CHN|N|-|C|0|-|Instantaneous data characteristics of wrong-wiring theft for large users
+R03074|IND|H|-|L|0|0|IoT + Power BI real-time theft monitoring
+R03079|BRA|X|-|O|0|-|AI-detected buildings vs registered consumer units from satellite imagery; real data application
+X22|-|S|U|O|0|-|IoT DNN comparison for energy prediction and theft detection
+R00129|-|S|U|O|0|-|Master meter zones + XGBoost/K-means
+R00166|-|S|U|O|0|-|HeteroFL federated learning with CKKS encryption
+R00169|CHN|S|R|O|0|-|Evasion attacks on CNN-AdaBoost (SGCC)
+R00185|-|S|U|O|0|-|Omni-Scale CNN + AutoXGB with SMOTEENN
+R00201|-|S|Y|S|0|-|ConvLSTM with inner product functional encryption
+R00209|-|S|U|O|0|-|ML with transformer reliability and supply interruptions
+R00215|LBR|U|R|O|0|-|GAHA-SVM on 7,270 labelled LEC consumption rows (granularity unclear ?)
+R00228|-|S|U|O|0|-|Stacked ML with Borderline SMOTE and PCA
+R00245|-|S|Y|S|0|-|Hybrid CNN + ML classifiers with six attack vectors
+R00259|NGA|M|R|O|0|-|PSO-SVM on EEDC prepaid meter recharge data (labels probable ?)
+R00270|IND|S|-|C|0|0|Smart meter technology to combat theft overview
+R00284|-|S|Y|S|0|-|CAT AMI predictor + one-class detector
+R00303|-|S|U|O|0|-|QKD + XGBoost/COA secure detection framework
+R00328|-|S|U|O|0|-|Resampling + stacked ML/DL meta-classifiers
+R00353|CHN|S|U|O|0|-|CNN-DBSCAN intermittent theft in high-loss station areas
+R00355|-|M|U|O|0|-|ANN/ANFIS/autoencoder/K-means on real distribution data with statistical indicators
+R00366|IND|S|U|O|0|-|CNN, wide & deep CNN and forecasting comparison
+R00377|-|S|Y|S|0|-|Blockchain P2P honesty coefficients (LUD algorithms)
+R00380|TUR|N|Y|S|0|-|Telemetry/ML classification of illegal irrigation motors on simulated pilot feeder
+R00390|-|S|Y|S|0|-|Federated deep autoencoder anomaly detection for zero-day attacks
+R00400|CHN|S|U|O|0|-|Active + incremental SVDD theft behaviour analysis
+R00422|IND|S|U|O|0|-|Wide & deep CNN on 2-D data
+R00440|CHN|S|U|O|0|-|High-LowDAAE adversarial autoencoder
+R00449|-|S|Y|S|0|-|ChebGCN with multi-energy loads in integrated energy systems
+R00454|DZA|M|R|O|0|-|LSTM + robust Holt-Winters, ~2,000 Bejaia economic customers, 14 years monthly (same data as R01454)
+R00466|-|N|Y|S|0|-|Enhanced fuzzy clustering theft node location (33-node, Simulink)
+R00472|THA|M|R|O|0|-|PEA electrical profiles (kWh, electronic, TOU, AMR meters) + physical data; normal/risk/theft (granularity mixed ?)
+R00478|TUR|S|R|O|0|-|Rule-based ML on UEDAS smart business data with theft tracking
+R00492|CHN|S|U|O|0|-|Ensemble LSTM autoencoders with KDE adaptive threshold
+R00507|-|S|R|S|0|-|Iterative AI framework modelling rounds of on-site inspections (power and water)
+R00522|-|S|Y|S|0|-|Federated stacking ensemble GRU for theft and cyberattack classification
+R00524|NAM|M|N|O|0|-|K-means and isolation forest on prepaid purchase data, Windhoek informal settlements 2016-2022
+R00528|CHN|S|U|O|0|-|LOF + short-term sequential hot-user identification
+R00536|CHN|S|U|O|0|-|Multi-scale convolution + CNN-SENet parallel model
+R00545|CHN|S|R|O|0|-|CNN-AdaBoost on SGCC
+R00558|CHN|S|U|O|0|-|Weighted LOF stealing detection for large-scale users
+R00605|-|S|U|O|0|-|Stacked ensemble with KPCA and LoRAS
+R00615|IND|H|-|L|0|0|IoT energy management and theft detection
+R00642|CHN|S|R|O|0|-|MSDM cross-scenario detection on benchmarks and real-world data
+R00648|-|S|U|O|0|-|RNN-BiLSTM-CRF with 1-D and 2-D data

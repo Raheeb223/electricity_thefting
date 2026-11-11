@@ -1,0 +1,120 @@
+{
+ "identified_total_hits": 12041,
+ "identified_by_source": {
+  "arxiv": 45,
+  "crossref": 5000,
+  "openalex": 3613,
+  "semanticscholar": 3383
+ },
+ "identified_by_file": {
+  "arxiv_S1.json": 45,
+  "crossref_q00_electricity_theft_detection.json": 200,
+  "crossref_q01_energy_theft_detection.json": 200,
+  "crossref_q02_power_theft_detection.json": 200,
+  "crossref_q03_electricity_pilferage_detection.json": 200,
+  "crossref_q04_power_pilferage_detection.json": 200,
+  "crossref_q05_non_technical_loss_detection.json": 200,
+  "crossref_q06_non_technical_losses_detection.json": 200,
+  "crossref_q07_nontechnical_losses_detection.json": 200,
+  "crossref_q08_non_technical_losses_detection.json": 200,
+  "crossref_q09_meter_tampering_detection.json": 200,
+  "crossref_q10_electricity_theft_policy.json": 200,
+  "crossref_q11_energy_theft_policy.json": 200,
+  "crossref_q12_power_theft_policy.json": 200,
+  "crossref_q13_electricity_pilferage_policy.json": 200,
+  "crossref_q14_electricity_theft_bangladesh.json": 200,
+  "crossref_q15_electricity_theft_india.json": 200,
+  "crossref_q16_electricity_theft_pakistan.json": 200,
+  "crossref_q17_electricity_theft_africa.json": 200,
+  "crossref_q18_electricity_theft_brazil.json": 200,
+  "crossref_q19_electricity_theft_nepal.json": 200,
+  "crossref_q20_system_loss_electricity_distribution_ban.json": 200,
+  "crossref_q21_prepaid_meter_bangladesh.json": 200,
+  "crossref_q22_easy_bike_charging_bangladesh_electricit.json": 200,
+  "crossref_q23_battery_rickshaw_charging_electricity.json": 200,
+  "crossref_q24_e_rickshaw_charging_grid_india.json": 200,
+  "openalex_S1.json": 2647,
+  "openalex_S2.json": 548,
+  "openalex_S3.json": 264,
+  "openalex_S4.json": 154,
+  "semanticscholar_S1.json": 2484,
+  "semanticscholar_S2.json": 567,
+  "semanticscholar_S3.json": 215,
+  "semanticscholar_S4.json": 117
+ },
+ "removed_no_title": 5,
+ "removed_outside_2010_2026": 0,
+ "removed_ineligible_record_type": 264,
+ "removed_by_automation_search_logic": 3917,
+ "removed_by_automation_search_logic_by_source": {
+  "crossref": 2799,
+  "semanticscholar": 789,
+  "openalex": 326,
+  "arxiv": 3
+ },
+ "duplicates_removed": 4678,
+ "records_screened": 3177,
+ "records_by_string": {
+  "S1": 2699,
+  "S2": 557,
+  "S3": 232,
+  "S4": 133
+ },
+ "records_review_like": 170,
+ "ta_included": 1644,
+ "ta_excluded": 1533,
+ "tightening": [
+  {
+   "t_decision": "BACKGROUND",
+   "t_code": "BG_review",
+   "n": 19
+  },
+  {
+   "t_decision": "EXC_T",
+   "t_code": "T1",
+   "n": 867
+  },
+  {
+   "t_decision": "EXC_T",
+   "t_code": "T2",
+   "n": 640
+  },
+  {
+   "t_decision": "EXC_T",
+   "t_code": "T4",
+   "n": 43
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P1_bangladesh_e3w",
+   "n": 16
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P2_governance_lmic",
+   "n": 19
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P3_datadriven",
+   "n": 22
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P4_network",
+   "n": 7
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P5_hardware",
+   "n": 6
+  },
+  {
+   "t_decision": "RETRIEVE",
+   "t_code": "P6_hybrid_cost",
+   "n": 5
+  }
+ ],
+ "sought_for_retrieval": 75,
+ "background_reviews": 19
+}

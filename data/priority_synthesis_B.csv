@@ -1,0 +1,157 @@
+record_id,CTY,GR,LB,VL,E3W,GOVM,note,code_file,code_source,ta_code,excluded_duplicate,probable_duplicate_of,is_review,C1_BGD,C2_E3W,C3_FIELD,C4_MON_REAL,C5_GOV_LMIC,C6_DRIVERS_LMIC,priority,needs_fulltext_check
+R02212,BGD,Q,-,Q,0,1,Chittagong prepaid metering case; theft eliminated,code_01.txt,abstract,GREY,,,False,F,,,,F,,firm,False
+R02285,BGD,N,-,O,1,-,E3W charging effect on national load curve,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R02485,BGD,Q,-,C,1,0,DSM proposal for easy-bike charging; survey,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R00347,BGD,Q,-,Q,1,0,Khulna e-rickshaw policy (fuzzy QFD),code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R01422,BGD,X,-,S,1,-,E3W charging stations as storage (HOMER),code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R00874,BGD,X,-,C,1,0,E3W prospects and policy overview,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R02400,BGD,H,-,C,1,0,Smart easy-bike charger design; pilot planned,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R01016,BGD,X,-,S,1,-,E3W load optimisation,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R00979,IND,X,-,C,1,0,E3W charging infrastructure India,code_01.txt,abstract,I4,,,False,,F,,,,,firm,False
+R00330,BGD,Q,-,Q,1,-,Economic and environmental impact of auto-rickshaws,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R01440,BGD,H,-,F,1,1,RFID-LoRa charging authentication; 12-day field trial at 3 stations,code_01.txt,full text,I4,,,False,F,F,F,,F,,firm,False
+R01968,BGD,N,-,S,1,-,E3W impact on Dhaka local grid,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R02859,IND,U,-,U,1,-,Delhi e-rickshaw charging preferences; no abstract,code_01.txt,abstract,I4,,,False,,F,,,,,firm,False
+R00240,BGD,H,-,O,1,-,Field survey of 55 E3W chargers in Dhaka garages,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R00590,BGD,Q,-,Q,1,-,Easy-bike socio-technical field assessment,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False
+R00295,TUR,Q,-,Q,0,0,Illegal use in Turkey; policy proposals,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02851,BRA,Q,-,Q,0,1,Favela econometrics; subsidy effect on illegality estimated,code_01.txt,abstract,I5a,,,False,,,,,F,F,firm,False
+R01703,IDN,Q,-,Q,0,0,Un-subscribers under two subsidy regimes,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02255,TUR,Q,-,Q,0,-,Econometric causes of theft,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00626,PAK,Q,-,Q,0,1,DISCO panel; effects of detection and fines estimated,code_01.txt,abstract,I5a,,,False,,,,,F,F,firm,False
+R02874,TUR,Q,-,Q,0,1,Privatisation effect on distribution losses,code_01.txt,abstract,I5a,,,False,,,,,F,F,firm,False
+R02987,PAK,Q,-,Q,0,-,IESCO consumer survey,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03052,GHA,Q,-,Q,0,-,Ashanti theft factors,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01928,COD,Q,-,Q,0,-,Lubumbashi household survey,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02478,BRA,Q,-,Q,0,-,Fraud types Rio de Janeiro,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02801,IND,Q,-,Q,0,-,UP district socio-economic predictors,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00960,MULTI,Q,-,Q,0,-,91-country panel of loss factors,code_01.txt,abstract,I5a,,,False,,,,,,P,probable,True
+R01249,BRA,Q,-,Q,0,0,Ethnography of bill and regularisation,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03055,BRA,Q,-,Q,0,-,Light concession NTL social analysis,code_01.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03062,MULTI,Q,-,Q,0,-,Afrobarometer corruption and access,code_01.txt,abstract,I5a,,,False,,,,,,P,probable,True
+R00723,ZAF,Q,-,Q,0,0,Tshwane employee survey on loss causes,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00779,JAM,Q,-,Q,0,-,Remittances and power losses (VECM),code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01618,ZAF,Q,-,Q,0,-,Umlazi self-connection ethnography,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02316,COL,Q,-,Q,0,-,Colombia loss factors econometrics,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03050,IND,Q,-,Q,0,-,Conjoint experiment on theft acceptability UP,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00485,NGA,Q,-,Q,0,-,Lagos household theft prevalence survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01833,IND,Q,-,Q,0,-,Haryana customer attitude survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02344,COD,Q,-,Q,0,-,Lubumbashi electricity market surveys,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02936,IND,Q,-,Q,0,-,Smart grid acceptance barriers India,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03056,UGA,Q,-,Q,0,-,Kampala transgression and illegal connections,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00219,ZAF,Q,-,Q,0,-,Energy justice informal settlements,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00523,GHA,Q,-,Q,0,0,Prepaid meter failure impacts survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00618,COD,Q,-,Q,0,-,Lubumbashi access mode mapping survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00686,UGA,Q,-,Q,0,-,Kampala coping strategies fieldwork,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01934,NGA,Q,-,Q,0,-,Electricity loss and GDP (VAR),code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01973,ZAF,Q,-,Q,0,-,KwaXimba illegal connections interviews,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02056,MULTI,Q,-,Q,0,-,Rule of law and T&D losses panel,code_02.txt,abstract,I5a,,,False,,,,,,P,probable,True
+R02339,PAK,Q,-,Q,0,1,"Service-quality effect on theft, 8 DISCO panel",code_02.txt,abstract,I5a,,,False,,,,,F,F,firm,False
+R02869,NGA,Q,-,Q,0,-,Edo State consumer survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02238,BRA,Q,-,Q,0,-,NTL vs socio-economic variables N/NE Brazil,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00171,IND,Q,-,Q,0,-,Rural/urban surveys on theft and power quality,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00226,IND,Q,-,Q,0,0,Informal governance IAD Malihabad,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00374,TZA,Q,-,Q,0,-,Dar es Salaam unruly access,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00953,BGD,N,-,S,0,0,Tongi DESCO substation loss reduction (ETAP),code_02.txt,abstract,I5a,,,False,F,,,,,,firm,False
+R00994,UGA,Q,-,Q,0,0,Kampala participatory action research solutions,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01144,COD,Q,-,Q,0,-,Kinshasa household theft determinants (logit),code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01180,PAK,Q,-,Q,0,-,Peshawar PESCO officials survey,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R02401,IND,Q,-,Q,0,-,Governance capacity and AT&C losses state panel,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R03077,COD,Q,-,Q,0,-,Lubumbashi theft and service quality,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00156,IND,Q,-,Q,0,-,Collectivism and household theft (national survey),code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R01423,KEN,Q,-,Q,0,-,Mathare electrical hazards from illegal connections,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False
+R00876,MYS,S,R,F,0,-,TNB large-consumer NTL detection; pilot onsite inspections 55% hit rate,code_02.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R02311,MYS,U,R,F,0,-,TNB SVM-FIS; inspection hit rate 60% to 72%,code_03.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R02032,BGD,H,-,L,0,0,Smart meter prototype; DPDC load-shedding data,code_03.txt,abstract,I5b,,,False,F,,,,,,firm,False
+R02189,IND,M,R,O,0,-,APSPDCL fuzzy clustering vs theft records (monthly data probable ?),code_03.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R02403,BRA,U,R,F,0,-,ANN KDD for inspection targeting; >50% improvement at utility (field probable ?),code_03.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R00927,BGD,H,-,L,0,0,GSM CT network to prevent pilferage,code_04.txt,abstract,I5b,,,False,F,,,,,,firm,False
+R02035,BGD,H,-,L,0,0,Pole-vs-premise energy comparison system; cost analysis,code_04.txt,abstract,I5b,,,False,F,,,,,,firm,False
+R02300,URY,M,R,F,0,-,UTE-UDELAR abnormal consumption classifiers; field tests,code_04.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R02232,ESP,M,R,F,0,-,Supervised fraud detection with field checks; improved over previous checks,code_05.txt,full text,I5b,,,False,,,F,,,,firm,False
+R00722,BRA,M,R,O,0,-,"Covariate shift in inspection data, 3.6M customers, 820K inspection results (same Brazilian dataset as R02958, monthly series; tail-scan)",code_05.txt,full text,I5b,,,False,,,,F,,,firm,False
+R00882,BRA,M,R,O,0,-,"Holographic visualisation of NTL predictions, 3.6M customers; being deployed in commercial software, no outcomes (tail-scan)",code_05.txt,full text,I5b,,,False,,,,F,,,firm,False
+R01899,ESP,M,R,F,0,-,Endesa inspection targeting; success rate x3,code_05.txt,full text,I5b,,,False,,,F,,,,firm,False
+R01198,PAK,M,R,O,0,-,MEPCO ensemble bagged tree on consumer usage (monthly and labels probable ?),code_07.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R00421,PAK,M,R,O,0,-,"MEPCO monthly data, boosted C5.0 classification",code_08.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R01466,IND,N,-,F,0,1,PLC-based ETDPS; implemented in MSEDCL Nagpur smart city pilot,code_09.txt,abstract,I5b,,,False,,,F,,F,,firm,False
+R01782,BRA,M,R,F,0,-,CPFL customer-journey model; field test 2.2x inspection success; implemented,code_09.txt,full text,I5b,,,False,,,F,F,,,firm,False
+R01911,COL,M,R,O,0,-,"SOM-GA/ARIMA-ANN/RF, Colombian Caribbean data; 82.9% vs utility's 68%",code_09.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R02446,BGD,H,-,S,0,0,Low-frequency distribution scheme against hooking in Bangladesh,code_10.txt,full text,I5b,,,False,F,,,,,,firm,False
+R02556,CHN,S,R,F,0,-,"Multi-source hierarchical model; applied by State Grid in Hangzhou, 15% precision in on-site investigation",code_10.txt,full text,I5b,,,False,,,F,,,,firm,False
+R00337,ECU,M,U,F,0,-,Data analytics to find meter errors; validated in a real Ecuadorian utility project (field probable ?),code_10.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R01203,BRA,M,R,O,0,-,"SOM-DCT clustering + classifiers, Ceara 149,000 customers (monthly probable ?)",code_11.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R01489,CHN,S,U,F,0,-,HCM clustering for PV generation theft; applied in Haidong (outcome qualitative ?),code_11.txt,full text,I5b,,,False,,,F,,,,firm,True
+R01808,-,S,U,F,0,-,Knowledge-based fraud detection distinguishing anomalies; validated in real-life scenarios (?),code_11.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R01850,-,M,R,F,0,-,Cost-driven synthetic control on low-resolution data; utility test ~75% precision on new NTL cases,code_12.txt,full text,I5b,,,False,,,F,,,,firm,False
+R01009,CHN,S,R,F,0,-,"Bitcoin-mining stealing via Pearson correlation with line loss; 16 suspects inspected, 10 confirmed (62.5%)",code_14.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R02516,ECU,M,R,F,0,-,Detect Deviating Cells on Guayaquil utility data; new flags confirmed by later inspections,code_15.txt,abstract,I5b,,,False,,,F,F,,,firm,False
+R02997,TUN,M,R,O,0,-,SQL feature engineering on Tunisian conventional-meter fraud data,code_15.txt,full text,I5b,,,False,,,,F,,,firm,False
+R00525,COL,U,R,F,0,-,Geospatial analytics fraud detection; implemented in a NATURAL GAS utility (re-screen: off-topic E1 ?),code_16.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R00595,BGD?,S,U,O,0,-,"Imbalanced classification on 56,618 records 2017-2020; Bangladesh motivation, data source unclear (check ?)",code_16.txt,full text,I5b,,,False,P,,,,,,probable,True
+R00660,IDN,M,R,O,0,-,KNN/LR + SMOTE on PLN customer data (monthly probable ?),code_16.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R00875,PAK,H,-,F,0,0,Smart meter case study with PESCO over 15 km2 (theft outcomes not reported ?),code_16.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R00941,BRA,M,R,F,0,-,HyMOTree on CPFL monthly data; field inspections guided by model 76% accuracy,code_16.txt,abstract,I5b,,,False,,,F,F,,,firm,False
+R01303,BRA,M,R,F,0,-,"AI tool for irrigant consumers; pilot area application, 63% accuracy, 78% search-area reduction",code_17.txt,abstract,I5b,,,False,,,F,F,,,firm,False
+R01454,DZA,M,R,O,0,-,"Robust Holt-Winters fraud detection, ~2,000 Algerian clients, 14 years monthly (labels probable ?)",code_17.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R01570,-,S,U,F,0,-,Cloud CNN theft detection system tested under real-life conditions (vague ?),code_17.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R02393,CHN,S,R,F,0,-,Granger causality in high-loss zones; validated by field inspection,code_18.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R02406,BRA,M,R,F,0,-,Isolation forest on monthly billing; preliminary field tests 91.7% assertiveness (inspection probable ?),code_18.txt,abstract,I5b,,,False,,,F,F,,,firm,True
+R02442,BRA,M,R,F,0,-,"DUPLICATE content of R02406 (same platform, 91.70%); possible E6 ?",code_18.txt,abstract,I5b,,R02406,False,,,F,F,,,probable,True
+R00259,NGA,M,R,O,0,-,PSO-SVM on EEDC prepaid meter recharge data (labels probable ?),code_19.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R00454,DZA,M,R,O,0,-,"LSTM + robust Holt-Winters, ~2,000 Bejaia economic customers, 14 years monthly (same data as R01454)",code_19.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R00472,THA,M,R,O,0,-,"PEA electrical profiles (kWh, electronic, TOU, AMR meters) + physical data; normal/risk/theft (granularity mixed ?)",code_19.txt,full text,I5b,,,False,,,,F,,,firm,True
+R02425,ZAF,M,R,O,0,-,"Tree models etc. on South African prepaid buying data, honest vs dishonest",code_22.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R00304,ESP,S,-,F,0,0,Self-diagnostic PLC AMI deployed in a Spanish LV network segment; NTL detection module (outcomes qualitative ?),code_23.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R00365,IDN,M,R,O,0,-,"PLN traditional-meter postpaid 450 VA customers, monthly usage, Target Operation lists",code_23.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R00430,IDN,M,R,O,0,-,"SVM on PLN conventional-meter monthly data 2019-2023, industrial/business, confirmed theft (P2TL targets)",code_23.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R00538,PAK,M,R,O,0,-,Siamese network with triplet loss on labelled MEPCO data,code_24.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R00547,CHN,N,R,F,0,-,"AI + digital substation theft monitoring; industrial park deployment: line loss 8.7% to 3.2%, 1.23M yuan recovered",code_24.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R00596,CUB,M,R,O,0,-,"XGBoost on monthly manually read residential consumption, Cuba; web app (labels probable ?)",code_24.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R00647,IDN,M,R,O,0,-,15 classifiers on PLN on-site inspection records 2019-2023 (6.7M rows) with consumption pattern and geography (monthly probable ?),code_24.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R00765,PER,M,R,O,0,-,Isolation forest + XGBoost on real Peruvian utility consumption with fraud labels,code_24.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R01499,-,M,R,F,0,-,"kNN/DT/RF/ANN on real distribution data incl. non-smart grids; implementation reduced losses by EUR 45,200 (country not stated ?)",code_25.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R01607,BRA,S,U,F,0,-,TCN with limited data; 2023 Sao Paulo pilot: 19% NTL reduction in 6 months (claims to verify ?),code_26.txt,abstract,I5b,,,False,,,F,,,,firm,True
+R01651,IDN,M,R,O,0,-,BiLSTM on PLN consumption sequences vs traditional 4.16% precision (monthly probable ?),code_26.txt,abstract,I5b,,,False,,,,F,,,firm,True
+R01743,BRA,M,R,O,0,-,GA-optimised inspection routes with moving-average theft energy estimates,code_26.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R01920,BGD?,M,-,O,0,-,Tariff category (residential vs commercial) misassignment classification from conventional-meter seasonal usage; venue ECCE (Chittagong?) - check country,code_26.txt,abstract,I5b,,,False,P,,,,,,probable,True
+R02101,BRA,M,R,O,0,-,RF/GB for defective meters with reading notes and registration data; 72% precision,code_26.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R02103,URY,S,R,F,0,-,DeepDAICE multimodal (low- and high-resolution) vs UTE deployed model; field inspections validate,code_26.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R00480,IDN,M,R,F,0,-,"PLN West Java monthly manual-reading data, 2.36M consumers; 12,407 field inspections 72.0% vs 15.3%",code_28.txt,full text,I5b,,,False,,,F,F,,,firm,False
+R00744,BRA,M?,R,O,0,-,"33,850 inspection records from a Brazilian utility; RF/XGBoost with economic analysis",code_28.txt,abstract,I5b,,,False,,,,P,,,probable,True
+R00864,THA,M,R,O,0,-,PEA Khon Kaen monthly manually-read meters; three-class theft/defect,code_28.txt,full text,I5b,,,False,,,,F,,,firm,False
+R01458,ZAF,M?,R,O,0,-,"Pietermaritzburg prepaid purchase data, ~42,000 customers 2019-2024, audit outcomes plus survey; RF",code_29.txt,abstract,I5b,,,False,,,,P,,,probable,True
+R01544,IRN,S,-,F?,0,-,"AMI-based alarm for theft of network wires/transformers; IEEE 33-bus simulation; implemented in Isfahan since 2021; scope: infrastructure theft not electricity theft, re-screen",code_29.txt,abstract,I5b,,,False,,,P,,,,probable,True
+R01647,BRA,U,R,F,0,-,"Satellite imagery plus computer vision for hook connections in Para; >10,000 inspected sites, 83% accuracy (GR: satellite imagery)",code_30.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R01715,PHL,M,R,O,0,-,"Meralco monthly kWh, >8M accounts, >100,000 confirmed pilferage cases; DAG-IQR-SVM",code_30.txt,abstract,I5b,,,False,,,,F,,,firm,False
+R02979,IDN,S,R,F,0,-,"PLN ULP Kupang AMR operating-hour and load-profile screening of 415-420 large customers with field inspection; 310,219.8 kWh recovered (anomalies were CT/VT faults)",code_31.txt,abstract,I5b,,,False,,,F,,,,firm,False
+R01331,ITA,S,R?,F?,0,0,Enel AMI revenue protection experience since 2005 and SHAPE platform; track record described qualitatively,code_31.txt,abstract,I5c,,,False,,,P,,,,probable,True
+R02370,IRN,S,-,F,0,1,Mashhad residential and commercial AMI pilots; loss reduction from field measurements and simulation,code_31.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R00793,ARG,M,-,F?,0,1?,"Edenor self-administered (prepaid) meters for low-income users, >150,000 installed; NTL outcomes not quantified in abstract",code_31.txt,abstract,I5c,,,False,,,P,,P,,probable,True
+R02453,BGD,M,-,Q,0,1?,Impact of prepaid metering in Bangladesh distribution: revenue collection and system loss,code_31.txt,abstract,I5c,,,False,F,,,,P,,firm,False
+R00565,ZAF,Q,-,Q,0,1?,Survey of 334 respondents on Eskom smart prepaid split meter effectiveness,code_31.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R01764,BRA,X,-,Q,0,1?,"Stochastic frontier panel (41 utilities, 10 years) for ANEEL NTL targets; notes targets did not reduce NTL",code_31.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R01790,BGD,M,-,Q,0,1,Dhaka post- to prepaid switch: payment and recharge data over three years; delinquency reduced,code_31.txt,abstract,I5c,,,False,F,,,,F,,firm,False
+R02887,ROU?,S,-,F?,0,0,Metering error minimisation model tested at a distribution company; 4% improvement in own technological consumption,code_31.txt,abstract,I5c,,,False,,,P,,,,probable,True
+R03051,MULTI,X,-,Q,0,1?,South American NTL solutions compared with World Bank-based indicator and supply-quality correlation,code_31.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R01285,BRA,M?,R,F,0,0,"Financial-return inspection targeting on 261,489 Brazilian consumers; 338 new field inspections; return up to 11.5x",code_31.txt,abstract,I5c,,,False,,,F,P,,,firm,False
+R01631,GHA,M,-,Q,0,1,"Smart prepaid meter replacement programme 2019; customer billing panel, difference-in-differences; reported consumption +13.2%",code_32.txt,abstract,I5c,,,False,,,,,F,,firm,False
+R02468,BRA,M?,R,O,0,0,Regulatory NTL evaluation using real inspection dataset with Kriging and power flow,code_32.txt,abstract,I5c,,,False,,,,P,,,probable,True
+R02931,NGA,X,-,Q,0,1,NERC Disco data 2015-2020: each 1% metering increase linked to 0.8% lower ATC&C loss,code_32.txt,abstract,I5c,,,False,,,,,F,,firm,False
+R00633,BGD,X,-,S,0,0,Smart metering cost-benefit analysis for Chittagong; BCR 1.36 (modelled),code_32.txt,abstract,I5c,,,False,F,,,,,,firm,False
+R03026,-?,S,-,F,0,0,Sectorisation with substation smart meters and efficiency audits; real studies over two years on distribution networks; country to confirm,code_32.txt,abstract,I5c,,,False,,,F,,,,firm,False
+R00920,BRA,X,-,Q,0,1?,"Automatic model selection for ANEEL NTL target panel regressions, 62 utilities 2007-2017",code_32.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R01555,IDN,S,-,Q,0,1,"PLN Bali AMI rollout 2023: positive effect on NTL, insignificant on total losses; GHG conversion",code_32.txt,abstract,I5c,,,False,,,,,F,,firm,False
+R02289,BGD,X,-,S,0,0,AMI cost-benefit (NPV) for Dhaka incl. NTL reduction; modelled,code_32.txt,abstract,I5c,,,False,F,,,,,,firm,False
+R00981,CHN,M?,R,O,0,0,Power supply company A marketing audit theft data 2020-2023; K-means and Apriori,code_32.txt,abstract,I5c,,,False,,,,P,,,probable,True
+R01115,IRQ,S,-,F,0,1,"Akre district analogue-to-smart meter transition: losses -17.1%, theft incidents -96.4%",code_32.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R03063,IND,N,-,F,0,1,"RDSS evaluation: IEEE 33-bus plus Nehalpora feeder (J&K) ABC cables and smart meters, AT&C ~60% to ~15%",code_32.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R00663,THA,M,R?,O,0,0,"SVM NTL detection plus NPV for targeted smart-meter replacement, PEA Khon Kaen",code_32.txt,abstract,I5c,,,False,,,,P,,,probable,True
+R01165,IDN,Q,-,Q,0,1?,PLN AMI programme since 2020: customer behaviour and satisfaction predictive model; NTL outcomes not measured,code_32.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R02090,KOR,S,R,F,0,0,KEPCO AMI algorithm shortlisting high-voltage customers with metering errors; validated by on-site inspections,code_32.txt,abstract,I5c,,,False,,,F,,,,firm,False
+R00034,MMR,S,-,F,0,1,Yangon AMI deployment in 22 townships FY2023-24; revenue recovery MMK 13.38 billion; loss variation across townships,code_32.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R00342,IDN,M,R,Q,0,1,"PLN ULP Tebing Tinggi monthly 2024-2025: prepaid share vs P2TL violations, no significant correlation",code_32.txt,abstract,I5c,,,False,,,,F,F,,firm,False
+R00447,NGA,Q,R,F,0,1,"Project Network Comb field audit: 9,708 premises, 8,723 field loss points and 3,526 back-end infractions",code_32.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R00966,ZAF,X,-,Q,0,1?,"Review of SA smart grid policy and regulation and revenue; NTL reduction stated, measurement basis unclear",code_32.txt,abstract,I5c,,,False,,,,,P,,probable,True
+R01137,BRA,S,-,F,0,1,"Solar Pilar pilot, Rio de Janeiro low-income community: PV with storage and smart metering; bills -70%/-50%, NTL recovery",code_32.txt,abstract,I5c,,,False,,,F,,F,,firm,False
+R01924,BGD,Q,-,Q,0,0,Non-acceptance of prepaid meters: survey and WZPDCL/Faridpur PBS data; barriers,code_32.txt,abstract,I5c,,,False,F,,,,,,firm,False

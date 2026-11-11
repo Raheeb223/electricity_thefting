@@ -1,0 +1,50 @@
+R01951|BRA|Q|R|O|0|-|Feature selection + SOM for theft areas, Florianopolis fraud cases
+R01959|-|X|-|C|0|-|Survey of electricity theft techniques in smart grids
+R01969|CHN|S|U|O|0|-|LOF + KM-IMI + AEGRU-ACGANs in LV station case
+R01972|-|S|Y|S|0|-|VMD-MIC + Informer integrated energy theft detection
+R01988|-|S|U|O|0|-|MICE + PAA + LightGBM ensemble
+R02001|IDN|S|N|O|0|-|K-means on AMR data for theft customers (PLN)
+R02004|GRC|H|-|L|0|0|Goertzel impedance-based fault/tamper detection device
+R02023|-|M|U|O|0|-|Neural Turing machines on utility data with manual meter reading issues
+R02053|IND|H|-|L|0|0|Automatic load sharing and power theft management design
+R02093|BRA+FRA|X|-|O|0|-|NTL-Unet Sentinel-2 urban segmentation to flag areas outside utility coverage
+R02110|IND|H|-|L|0|0|IoT energy analyser and tamper detection
+R02129|-|S|Y|S|0|-|Semi-supervised outlier detection with 22 features and bagging
+R02133|CHN|S|U|O|0|-|User behaviour analysis with external factors and DL
+R02136|-|S|U|O|0|-|Naive Bayes and ensemble ML for theft with market demand trends
+R02141|CHN|S|Y|S|0|-|NILM-based consumption pattern indicators + chi-square test
+R02166|GRC|M|R|O|0|-|ML on HEDNO data from traditional metering; CatBoost best
+R02170|CHN|S|R|O|0|-|LSTM-CNN on SGCC
+R02186|CHN|S|R|O|0|-|Time-series segmentation + ensemble on SGCC
+R02187|IND|U|U|O|0|-|Random forest vs KNN (overlaps R01889 design ?)
+R02196|CHN|S|U|O|0|-|Multi-source fusion + improved SVM in LV station areas
+R02205|IDN|H|-|L|0|0|LoRa theft detection prototype using SAD method
+R02293|-|S|Y|S|0|-|Spearman correlation of master and smart meter readings
+R02295|BRA|U|U|O|0|-|SVM/MLP/fuzzy ARTMAP comparison for NTL
+R02337|-|S|Y|O|0|-|Statistical/temporal features + consumption data on actual data with fraud types
+R02341|AUS|S|Y|O|0|-|Behind-the-meter PV disaggregation + unsupervised fraud detection, Ausgrid data
+R02376|IND|H|-|L|0|0|IoT unlawful usage surveillance with SMS alarm
+R02425|ZAF|M|R|O|0|-|Tree models etc. on South African prepaid buying data, honest vs dishonest
+R02437|PAK|H|-|L|0|0|Smart meters to locate and eliminate unauthorised users (GSM/NRF)
+R02448|-|N|Y|S|0|-|GA-optimised ANN on simulated power system mechanisms
+R02452|-|S|U|O|0|-|Highway network on public consumption datasets
+R02455|CHN|S|Y|S|0|-|Grey relational analysis for user-area identification and theft detection
+R02472|CHN|N|Y|S|0|-|Temperature-dependent technical loss model for bypass detection
+R02475|CHN|S|U|O|0|-|Federated learning privacy-protected theft detection
+R02483|PAK|H|-|L|0|0|DUPLICATE text of R02437 (possible E6 ?)
+R02499|CHN|S|U|O|0|-|K-means + per-cluster classifiers on Shandong residential data
+R02501|BRA|U|R|O|0|-|Decision trees on consumption of ~523,000 people; high scorers confirmed fraudsters (?)
+R02581|-|H|-|L|0|-|Ultra-wideband logarithmic detector circuit for theft detection
+R02604|-|U|U|U|0|-|RoGRUT hybrid model (abstract truncated)
+R02651|-|U|U|U|0|-|Multi-objective evolutionary hybrid DL; no abstract
+R02708|-|U|U|U|0|-|Multiscale feature engineering model; no abstract
+R02711|BRA|U|U|U|0|-|HyMO-RF hyperparameter tuning; no abstract
+R02713|-|H|-|U|0|-|GIS-based IoT fraud detection; no abstract
+R02718|CHN|U|U|U|0|-|PV theft multi-classification; no abstract
+R02719|CHN|U|U|U|0|-|Theft detection under sample imbalance; no abstract
+R02723|-|U|U|U|0|-|Location identification with ML and Walsh-Hadamard; no abstract
+R02726|-|U|U|U|0|-|EWMA control chart scheme; no abstract
+R02739|-|U|U|U|0|-|Two-stage generalisable approach for new regions; no abstract
+R02744|-|U|U|U|0|-|Self-decision ant colony clustering; no abstract
+R02745|-|H|-|U|0|-|Advanced smart metering for theft detection; no abstract
+R02766|CHN|U|U|U|0|-|FCM-LR cross theft detection with user profiles; no abstract

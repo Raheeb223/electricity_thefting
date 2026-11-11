@@ -1,0 +1,86 @@
+record_id,doi,title,reason
+R00093,10.3390/en19163877,Machine Learning Techniques for Electricity Theft Detection in Smart Grids: A Comprehensive Review,STOP: host doi.org returned 403/block page
+R00176,10.3390/app15073912,Methodological Validation of Machine Learning Models for Non-Technical Loss Detection in Electric Power Systems: A Case Study in an Ecuadorian Electricity Distributor,host doi.org blocked earlier
+R00212,10.3390/en13184727,Detection of Non-Technical Losses in Power Utilities—A Comprehensive Systematic Review,STOP: host www.mdpi.com returned 403/block page
+R00226,10.1016/j.erss.2025.104056,From linesmen to local leaders: How does informal governance influence India's electricity policy outcomes?,host doi.org blocked earlier
+R00240,10.46610/ijreeps.2026.v02i02.004,Measuring What Matters: Field Data on E-Rickshaw Chargers in Greater Dhaka Expose a Measurement-Basis Gap and Bound Potential Energy Savings,no open-access copy found
+R00311,10.1016/j.energy.2025.137763,How effective are synthetic attack models to detect real-world energy theft?,host doi.org blocked earlier
+R00337,10.3390/en14040958,Innovative Methodology to Identify Errors in Electric Energy Measurement Systems in Power Utilities,host www.mdpi.com blocked earlier
+R00347,10.1108/ijssp-07-2020-0315,E-rickshaws on urban streets: sustainability issues and policies,no open-access copy found
+R00365,10.1109/access.2025.3526764,Electricity Theft Detection Using Machine Learning in Traditional Meter Postpaid Residential Customers: A Case Study on State Electricity Company (PLN) Indonesia,host doi.org blocked earlier
+R00430,10.1109/access.2025.3529295,Classification Based on the Support Vector Machine for Determining Operational Targets for Controlling Electricity Usage With Conventional Meters: A Case Study of Industrial and Business Tariff Customers From PT PLN (Persero) Indonesia,host doi.org blocked earlier
+R00431,10.1016/j.rineng.2025.104478,A novel framework to detect electricity theft in regions with traditional metering; applying a hybrid machine learning-based approach to low-sampling-rate data,host doi.org blocked earlier
+R00590,10.1016/j.esd.2026.102055,Operational challenges and energy consumption of informal electric tricycles (“Easy Bikes”) in Bangladesh: A field-based socio-technical assessment,host doi.org blocked earlier
+R00626,10.30541/v53i3pp.239-254,An Empirical Study of Electricity Theft from Electricity Distribution Companies in Pakistan,host doi.org blocked earlier
+R00633,10.1109/iciset54810.2022.9775844,Prospects of Smart Metering System in Bangladesh: Cost Benefit Analysis,no open-access copy found
+R00638,10.1109/jproc.2021.3139754,Detection Methods in Smart Meters for Electricity Thefts: A Survey,no open-access copy found
+R00667,10.3390/electricity5020017,Electricity Theft Detection and Prevention Using Technology-Based Models: A Systematic Literature Review,host doi.org blocked earlier
+R00678,10.3390/technologies14090568,Comparing Machine and Deep Learning for Electricity Theft Detection from Monthly Billing Data in an Emerging Energy Market,host doi.org blocked earlier
+R00682,10.1080/03772063.2020.1787881,Detection of Power Theft in Low Voltage Distribution Systems: A Review from the Indian Perspective,no open-access copy found
+R00686,10.1016/j.erss.2023.103395,"“Don't cook or iron with it”: Heterogeneities and coping strategies for accessing and using electricity in the informal settlements of Kampala, Uganda",host doi.org blocked earlier
+R00691,10.3390/en16062852,Review of the Data-Driven Methods for Electricity Fraud Detection in Smart Metering Systems,host www.mdpi.com blocked earlier
+R00874,10.3390/su15010149,"Affordable Electric Three-Wheeler in Bangladesh: Prospects, Challenges, and Sustainable Solutions",host www.mdpi.com blocked earlier
+R00875,10.3390/su15064868,Prevention and Detection of Electricity Theft of Distribution Network,host www.mdpi.com blocked earlier
+R00994,10.1016/j.erss.2025.104143,"“Then electricity theft would end, nobody loves stealing”: Community-based solutions for improving electricity access in informal settlements in Kampala, Uganda",host doi.org blocked earlier
+R01017,10.1109/tii.2017.2785963,Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids,no open-access copy found
+R01022,10.1049/sil2.12155,On the effect of sampling frequency on the electricity theft detection performance,STOP: host onlinelibrary.wiley.com returned 403/block page
+R01066,10.1109/tnnls.2018.2890663,Utilizing Unlabeled Data to Detect Electricity Fraud in AMI: A Semisupervised Deep Learning Approach,no open-access copy found
+R01109,10.1109/pes.2010.5590033,A conceptual design using harmonics to reduce pilfering of electricity,no open-access copy found
+R01144,10.3390/en18133566,"Bridging the Energy Divide: An Analysis of the Socioeconomic and Technical Factors Influencing Electricity Theft in Kinshasa, DR Congo",host www.mdpi.com blocked earlier
+R01198,10.3390/electronics8080860,Ensemble Bagged Tree Based Classification for Reducing Non-Technical Losses in Multan Electric Power Company of Pakistan,host www.mdpi.com blocked earlier
+R01224,10.1109/tsg.2022.3148817,Fraud Detection on Power Grids While Transitioning to Smart Meters by Leveraging Multi-Resolution Consumption Data,STOP: host www.colibri.udelar.edu.uy returned 403/block page
+R01254,10.1109/tpwrs.2024.3375939,Sample Adaptive Transfer for Electricity Theft Detection With Distribution Shifts,no open-access copy found
+R01285,10.1109/tpwrs.2021.3107602,Maximizing the Financial Return of Non-Technical Loss Management in Power Distribution Systems,no open-access copy found
+R01295,10.32479/ijeep.12614,"Non-technical Losses in Brazil: Overview, Challenges, and Directions for Identification and Mitigation",host doi.org blocked earlier
+R01414,10.1109/tpwrs.2019.2928276,Fraud Detection in Electric Power Distribution: An Approach That Maximizes the Economic Return,no open-access copy found
+R01422,10.3390/en13226119,Electric Rickshaw Charging Stations as Distributed Energy Storages for Integrating Intermittent Renewable Energy Sources: A Case of Bangladesh,host www.mdpi.com blocked earlier
+R01449,10.1109/tsg.2019.2892595,Energy Theft Detection Using Gradient Boosting Theft Detector With Feature Engineering-Based Preprocessing,no open-access copy found
+R01524,10.1016/j.rser.2023.113544,Systematic review of energy theft practices and autonomous detection through artificial intelligence methods,host doi.org blocked earlier
+R01562,10.1109/tsg.2016.2574714,Detecting and Locating Non-Technical Losses in Modern Distribution Networks,host doi.org blocked earlier
+R01569,10.1109/tpwrs.2012.2224891,Non-Technical Loss Detection Using State Estimation and Analysis of Variance,no open-access copy found
+R01631,10.3390/en14071852,The Impact of Smart Prepaid Metering on Non-Technical Losses in Ghana,host www.mdpi.com blocked earlier
+R01632,10.1016/j.heliyon.2024.e35167,Deep learning-based electricity theft prediction in non-smart grid environments,host doi.org blocked earlier
+R01647,10.1016/j.epsr.2026.112769,A geospatial approach to detect and prioritize regularization of hook-based non-technical losses,host doi.org blocked earlier
+R01660,10.1109/tii.2023.3249212,Deep Active Learning-Enabled Cost-Effective Electricity Theft Detection in Smart Grids,no open-access copy found
+R01690,10.3390/bdcc10090297,A Comprehensive Systematic Meta-Survey of Energy Theft Detection: From Traditional Methods to Generative AI,host doi.org blocked earlier
+R01701,10.1109/tsg.2018.2807925,Detection of Non-Technical Losses Using Smart Meter Data and Supervised Learning,no open-access copy found
+R01764,10.3390/en13123227,A Stochastic Frontier Model for Definition of Non-Technical Loss Targets,host www.mdpi.com blocked earlier
+R01790,10.1109/tensymp50017.2020.9230814,"Does Electric Prepaid Meters Decrease Payment Delinquency? Evidence from Data Centric Analysis of Electricity Consumption in Dhaka, Bangladesh",no open-access copy found
+R01804,10.1109/tsg.2015.2425222,Electricity Theft Detection in AMI Using Customers’ Consumption Patterns,no open-access copy found
+R01918,10.3390/en17123057,Data-Driven Approaches for Energy Theft Detection: A Comprehensive Review,host doi.org blocked earlier
+R01924,10.1109/qpain69676.2026.11546171,Factors Affecting Non-Acceptance of Prepaid Energy Metering in Bangladesh and Ways to Move Towards Adoption,no open-access copy found
+R01968,10.1109/icrest63960.2025.10914410,Impact of Battery Operated Three Wheeler on Local Grid System,no open-access copy found
+R02006,10.1109/tsg.2019.2896381,A Hybrid Method for Non-Technical Loss Detection in Smart Distribution Grids,no open-access copy found
+R02093,10.3390/s24154924,NTL-Unet: A Satellite-Based Approach for Non-Technical Loss Detection in Electricity Distribution Using Sentinel-2 Imagery and Machine Learning,host doi.org blocked earlier
+R02266,10.1109/tla.2021.9447584,Non-technical losses in electricity distribution: a bibliometric analysis,no open-access copy found
+R02285,10.1109/peeiacon48840.2019.9071938,Energy Consumption Analysis of Electric Three Wheelers in Bangladesh,no open-access copy found
+R02339,10.35536/lje.2023.v28.i1.a4,The Impact of Services Quality on Electricity Theft Reduction: An Empirical Analysis of Electricity Distribution Utilities in Pakistan,host doi.org blocked earlier
+R02370,10.1049/oap-cired.2017.0500,Distribution loss reduction in residential and commercial pilots by using AMI system,host doi.org blocked earlier
+R02400,10.1049/icp.2022.2717,How to charge Easy Bikes in Bangladesh the smart way,no open-access copy found
+R02409,10.1109/saupec60914.2024.10445075,Electricity Theft in Sub-Saharan Africa: A review,no open-access copy found
+R02446,10.1109/sti50764.2020.9350450,Reducing Electricity Theft by Low Frequency Control Scheme in Bangladesh,no open-access copy found
+R02453,10.1109/cepe.2019.8726848,Analytical Study Of Impact Of Prepaid Metering System In Power Distribution Sector In Bangladesh,no open-access copy found
+R02485,10.1109/eict48899.2019.9068796,Bangladesh Power System Peak Demand Shaving through Demand Side Management of the Battery Operated Easy Bike Load,no open-access copy found
+R02488,10.1109/tim.2021.3127649,Performance Analysis of Electricity Theft Detection for the Smart Grid: An Overview,no open-access copy found
+R02557,10.1049/oap-cired.2017.0825,Non-technical losses: detection methods and regulatory aspects overview,host doi.org blocked earlier
+R02619,10.1016/j.rser.2017.05.193,Solutions for detection of non-technical losses in the electricity grid: A review,STOP: host www.sciencedirect.com returned 403/block page
+R02624,10.1016/j.enpol.2010.11.037,"Electricity theft: Overview, issues, prevention and a smart meter based approach to control theft",no open-access copy found
+R02632,10.1016/j.measurement.2020.107840,Monitoring technical losses to improve non-technical losses estimation and detection in LV distribution systems,no open-access copy found
+R02645,10.1016/j.ijepes.2019.04.005,A novel approach to detection and prevention of electricity pilferage over power distribution network,no open-access copy found
+R02649,10.1016/j.rser.2017.01.100,Non-technical loss analysis and prevention using smart meters,no open-access copy found
+R02663,10.1016/j.epsr.2021.107415,A review of non-technical loss attack models and detection methods in the smart grid,no open-access copy found
+R02666,10.1016/j.rser.2017.10.040,Review of various modeling techniques for the detection of electricity theft in smart grid environment,no open-access copy found
+R02682,10.1016/j.enpol.2019.02.035,Policy considerations for limiting electricity theft in the developing countries,no open-access copy found
+R02728,10.1016/j.ijepes.2021.107523,Non-technical loss detection in limited-data low-voltage distribution feeders,not a PDF (HTTP 200); landing page only
+R02734,10.1016/j.enpol.2017.08.032,"Overview, issues and prevention of energy theft in smart grids and virtual power plants in Indian context",no open-access copy found
+R02736,10.1016/j.enpol.2016.02.048,The determinants of electricity theft: An empirical analysis of Indian states,no open-access copy found
+R02801,10.1016/j.esd.2018.12.006,Socio-economic predictors of electricity theft in developing countries: An Indian case study,no open-access copy found
+R02824,10.1016/j.esd.2011.11.002,"Electricity theft as a relational issue: A comparative look at Zanzibar, Tanzania, and the Sunderban Islands, India",no open-access copy found
+R02851,10.1016/j.enpol.2010.04.037,"An econometric study of illegal electricity connections in the urban favelas of Belo Horizonte, Brazil",not a PDF (HTTP 200); landing page only
+R02852,10.1016/j.erss.2015.08.006,Of pilferers and poachers: Combating electricity theft in India,no open-access copy found
+R02859,10.1016/j.cstp.2025.101485,"Electric rickshaw drivers’ charging preferences and charging infrastructure design: A case study of Delhi, India",no open-access copy found
+R02911,10.1109/tpwrd.2009.2030890,Nontechnical Loss Detection for Metered Customers in Power Utility Using Support Vector Machines,no open-access copy found
+R02987,10.1016/j.enpol.2018.04.023,Electricity theft among residential consumers in Rawalpindi and Islamabad,no open-access copy found
+R03009,10.1109/tsg.2019.2961136,Electricity Theft Pinpointing Through Correlation Analysis of Master and Individual Meter Readings,no open-access copy found
+R03050,10.1016/j.worlddev.2020.105301,Perceptions and acceptability of electricity theft: Towards better public service provision,not a PDF (HTTP 202); landing page only
+R03052,10.1016/j.enpol.2018.09.019,Electricity theft: Analysis of the underlying contributory factors in Ghana,no open-access copy found

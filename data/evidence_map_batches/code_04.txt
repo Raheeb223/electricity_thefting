@@ -1,0 +1,50 @@
+R02465|-|N|Y|S|0|-|PLC carrier-signal theft detection, MATLAB simulation
+R02467|-|S|U|S|0|-|ANN on fine-grained smart meter data
+R02505|-|U|R|O|0|-|Expert labels vs inspection labels for learning
+R02554|-|S|Y|S|0|-|NFD billing vs consumed difference scheme
+R02566|-|N|Y|S|0|-|Non-cooperative game NTL screening
+R02573|CHN|S|U|C|0|-|Online monitoring grading of suspected stealers
+R02889|-|S|U|O|0|-|ELM + GA NTL detection case study
+R02993|ESP|M|R|O|0|-|Endesa knowledge-based system with inspector expertise
+R00233|-|N|Y|S|0|-|FRTU placement by dynamic programming
+R00927|BGD|H|-|L|0|0|GSM CT network to prevent pilferage
+R01175|NGA|H|-|L|0|0|Multichannel meter for partitioned apartments
+R01200|-|N|Y|S|0|-|Kalman-filter privacy-preserving theft detection
+R01351|IND|N|Y|S|0|-|Microgrid wireless theft detection algorithm
+R01671|-|M|U|O|0|-|DCT + OPF on monthly kWh series
+R01804|-|S|U|O|0|-|Consumption-pattern detector with transformer meters, 5,000 customers
+R01820|IND|N|-|C|0|0|Conceptual anti-theft metering
+R01979|CHN|S|Y|S|0|-|PV subsidy-meter stealing identification
+R01995|-|H|-|L|0|0|ARM GSM theft-control meter
+R02026|-|N|Y|S|0|-|BCGI grouping inspection algorithm
+R02035|BGD|H|-|L|0|0|Pole-vs-premise energy comparison system; cost analysis
+R02061|BRA|N|Y|S|0|-|OPF + DSE on IEEE 123-bus with Brazilian consumer profiles
+R02071|-|S|Y|S|0|-|Clustered cumulative meter-reading analysis
+R02092|BRA|U|R|O|0|-|Spatial-temporal NTL maps vs utility inspections (78% in inspected subareas)
+R02209|ITA|S|U|C|0|-|SHAPE platform NTL module, Enel smart meters
+R02243|-|N|Y|S|0|-|AMI+SCADA integrated DSE theft detection
+R02264|-|S|U|S|0|-|Decision-tree profiling of normal consumption
+R02300|URY|M|R|F|0|-|UTE-UDELAR abnormal consumption classifiers; field tests
+R02411|CHN|N|U|O|0|-|DG-aware anti-stealing management case study
+R02417|-|H|-|L|0|0|ZigBee AMR theft detection prototype
+R02530|-|S|Y|S|0|-|Temperature-dependent predictive model with transformer data
+R02543|-|S|U|U|0|-|Multi-user anomaly detection with partial context
+R02552|COL|U|-|C|0|-|EDEQ NTL analysis/visualisation software prototype
+R02584|IND|H|-|L|0|0|LT pole current monitoring framework
+R02585|-|X|Y|S|0|-|Game-theoretic AMI theft detection models
+R02750|-|U|U|U|0|-|Social-spider SVM theft detection; no abstract
+R02843|-|U|U|U|0|-|Fraud detection in registered time series; no abstract
+X43|MEX|U|U|U|0|-|Data mining + Bayesian networks NTL framework; no abstract
+R00560|-|S|U|O|0|-|Structure&Detect spectral periodic patterns, real traces
+R00725|HTI|S|Y|O|0|-|525-home microgrid Haiti, model vs data-driven NTL with synthetic NTL
+R00900|-|M|R|O|0|-|Neighbourhood features, 700K customers, 400K inspections (monthly readings implied ?)
+R00903|-|H|-|L|0|0|GUI-based smart metering NTL platform
+R01133|KOR|S|U|O|0|-|Conditional abnormality detection on AMI data
+R01210|MYS|H|Y|L|0|-|NARX load prediction on prototype data
+R01221|-|U|U|C|0|-|Big data design pattern for inspection selection
+R01280|-|N|Y|S|0|-|Cooperative game inference, micro-distribution simulation
+R01312|-|N|Y|S|0|-|Stochastic Petri net theft localisation in microgrids
+R01413|-|S|Y|S|0|-|F-DETA KL divergence, FDI on real smart meter data
+R01533|-|N|Y|S|0|-|SDP state estimation for LV theft
+R01562|BRA|N|Y|O|0|-|Multivariate control chart + A* on real distribution network
+R01564|-|S|Y|S|0|-|DT + SVM top-down theft detection

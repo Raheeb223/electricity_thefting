@@ -1,0 +1,111 @@
+# batch_04 lines 126-250 (S2 2026; S1 2010-2013)
+DEFAULT,EXC,E1,,Not electricity theft/NTL as main subject (water, fire, cyber-only, generic metering/security)
+R00447,INC,I5c,GV,Field network audit to cut commercial/collection losses, Nigerian utility; check venue
+R00533,EXC,E5,DD,Venue not indexed
+R00542,EXC,E5,GV,Venue not indexed
+R00573,EXC,E1,RV,General distribution issues review
+R00608,INC,I5b,HW,Cardless prepaid/postpaid smart meter vs theft (AIP)
+R00729,EXC,E4,GV,Preprint (cable theft)
+R00744,INC,I5b,DD,RF vs XGBoost for NTL with imbalance mitigation and economic analysis
+R00966,INC,I5c,GV,Smart grid policy/regulation and revenue, South Africa (Scientific African)
+R00967,INC,I5b,HW,Lightweight CNNs detecting line hooking on microcontrollers
+R01137,INC,I5c,GV,PV + storage + smart metering for low-income community, Brazil (Solar Pilar; NTL outcomes)
+R01185,INC,I5b,HW,IEC 62056 smart metering for Indian utilities (AT&C losses)
+R01418,INC,RV,RV,Theft detection and prevention review (conference) T1 candidate
+R01425,EXC,E5,GV,Zenodo
+R01458,INC,I5b,HY,Community engagement + audit analytics + ML for theft (SAIEE ARJ 2026)
+R01647,INC,I5b,DD,Geospatial detection/prioritisation of hook-based NTL without AMI (EPSR 2026) - key
+R01715,INC,I5b,DD,Load-type clustering + SVM for theft, Meralco Philippines
+R01750,INC,I5b,DD,GIS computer vision on satellite images for distribution monitoring (EPSR)
+R01851,EXC,E4,DD,Code package for a submitted article (Pakistan roadmap); note
+R01860,EXC,E5,NW,Venue not indexed
+R01869,EXC,E1,NW,SCADA economic dispatch
+R01961,INC,I5b,DD,Anomaly-based theft detection and reporting system
+R02201,EXC,E5,RV,Venue not indexed
+R02367,INC,I5b,DD,ANN fraud detection on smart meter dataset (SAUPEC)
+R02404,EXC,E5,DD,Venue not indexed
+R02877,EXC,E4,GV,Preprint (COVID-19 and NTL in Brazil)
+R02960,INC,I5b,HW,Anti-theft transformer monitoring for rural Africa (IPTEK)
+R03049,EXC,E4,GV,Education conference
+R00295,INC,I5a,GV,Techno-economic analysis of illegal usage in Turkey and policy proposals; check venue
+R00732,INC,I5a,GV,Security economics of electricity metering (incentives, theft)
+R00768,EXC,E4,GV,Dissertation (Spanish)
+R00876,INC,I5b,DD,NTL detection for large consumers, TNB Malaysia
+R01225,EXC,E1,HW,Prepaid controller design
+R01333,EXC,E1,HW,AMI penetration testing
+R02210,INC,I5b,DD,Optimum-Path Forest for NTL (IEEE TPWRS 2010)
+R02251,INC,I5c,HY,Smart grids reducing cost of NTL (EEM)
+R02466,INC,I5b,DD,Text mining + neural networks for NTL (MELECON)
+R02541,EXC,E5,DD,Venue not indexed in Scopus
+R02624,INC,RV,RV,Depuru 2011 Energy Policy overview (seminal; T1)
+R02626,INC,I5a,HW,Energy theft in AMI (attack trees; LNCS)
+R02678,EXC,E4,DD,Book
+R02911,INC,I5b,DD,SVM NTL detection for metered customers (IEEE TPWRD 2010; Nagi) - seminal
+R03143,EXC,E4,HW,Patent
+R03158,EXC,E4,HW,Patent
+R00031,EXC,E4,GV,Dissertation (water)
+R01703,INC,I5a,GV,Identifying electricity un-subscribers under subsidy regimes, Indonesia; check venue
+R01944,INC,I5b,DD,Hybrid NN with encoding for consumption classification (PES GM)
+R02065,INC,I5b,DD,Rule induction NTL framework, Spanish utility (IEEE TPWRS)
+R02188,EXC,E5,HW,No indexed venue
+R02311,INC,I5b,DD,SVM + fuzzy inference NTL (IEEE TPWRD; TNB)
+R02471,INC,I5b,NW,Anti-stealing via state estimation
+R02517,INC,I5b,DD,Evolutionary feature selection for NTL (IEEE TPWRD)
+R02539,EXC,E5,DD,Venue doubtful
+R02631,INC,I5b,DD,Pearson, Bayesian networks, decision trees for NTL (IJEPES)
+R02961,INC,I5b,DD,Integrated expert system for NTL (ESWA)
+R03138,EXC,E4,HW,Patent
+R00320,INC,I5b,HW,GPRS transformer monitoring with anti-stealing (CICED)
+R00322,EXC,E6,DD,Conference version of R01369
+R00985,INC,I5b,DD,Game theory for theft detection and privacy in AMI (Allerton)
+R01027,INC,RV,RV,Review of TL/NTL reduction approaches (conference)
+R01480,EXC,E1,HW,AMI intrusion detection requirements
+R01645,EXC,E4,GV,Report
+R01673,INC,I5b,DD,Encoding technique for abnormal usage (NAPS)
+R01719,EXC,E6,HY,Conference version of R01718
+R01791,INC,I5b,DD,Autoregressive theft prediction LV (IIUM); check venue
+R01844,EXC,E1,GV,Tanzania grid visions
+R01862,EXC,E4,GV,World Bank chapter
+R02081,EXC,E2,HW,Concept
+R02109,INC,I5b,DD,Rule-engine classification of illegal consumption (NAPS)
+R02193,INC,I5b,NW,Parameter identification of unknown radial grids for theft detection (ISGT Europe)
+R02279,EXC,E1,DD,Generic fraud data chapter
+R02381,INC,I5b,DD,NTL identification for industrial consumers (WEKA; IEEE ICIA)
+R02460,INC,I5b,DD,NTL features with customer-side PV (CICED)
+R02487,EXC,E1,DD,Consumption data mining (not theft)
+R02513,INC,I5b,NW,NTL detection with distribution network measurement data (ISGT)
+R02597,EXC,E5,HW,Venue not indexed
+R02655,INC,I5b,DD,High performance computing for theft detection (IJEPES 2012)
+R02699,EXC,E4,DD,Thesis
+R02710,INC,I5b,DD,Evaluating electricity theft detectors in smart grids (LNCS/RAID 2012)
+R03083,INC,I5b,DD,Class imbalance strategies for electric fraud (ICPR)
+R03111,EXC,E4,DD,No venue/abstract
+R03132,EXC,E4,HW,Patent
+R03151,EXC,E4,HW,No venue/abstract
+R03166,EXC,E4,HW,Patent
+R00090,INC,I5b,DD,Variables for fraud detection, Venezuela; check venue
+R00474,EXC,E2,HW,Concept (IED)
+R00705,INC,I5b,HW,Consumer load prototype for theft monitoring (IOP)
+R00721,INC,I5b,DD,AR model for load prediction and theft detection (IIUM)
+R01196,INC,I5b,HY,CONSUMER hybrid intrusion detection for theft (IEEE TETC)
+R01369,INC,I5b,DD,Privacy-preserving theft detection P2P (IEEE JSAC)
+R01569,INC,I5b,NW,NTL detection via state estimation and ANOVA (IEEE TPWRS)
+R01718,INC,I5b,HY,AMIDS multi-sensor theft detection (IEEE JSAC)
+R01760,EXC,E1,NW,Bad data detection (cyber, not consumer theft)
+R01921,EXC,E2,HW,Generic smart metering
+R01932,EXC,E1,HW,AMI mesh networks
+R01977,INC,I5b,NW,Localisation of NTL via energy flow problem
+R02002,INC,I5b,NW,Estimating secondary parameters from smart meter data for theft location (BC Hydro)
+R02030,EXC,E1,HW,Generic
+R02059,EXC,E1,HW,Prepayment protocol cryptanalysis
+R02189,INC,I5b,DD,Unusual consumption profiles APSPDCL (2013)
+R02271,EXC,E1,NW,Bad data injection survey (cyber)
+R02280,EXC,E1,NW,Bad data injection
+R02281,EXC,E1,NW,Bad data injection
+R02502,EXC,E1,HW,Non-repudiation NAN
+R02508,EXC,E5,HW,Venue not indexed
+R02519,EXC,E5,HW,Venue not indexed
+R02579,INC,I5b,NW,Line-loss grading and anomaly filtering for theft (Chinese Smart Grid journal); check
+R02594,EXC,E6,GV,Working-paper version of R02682 (principal-agent-client)
+R02625,INC,I5b,DD,Smart meter data analysis for power theft (LNCS)
+R02697,INC,I5b,DD,Framework for NTL detection (AISC); check

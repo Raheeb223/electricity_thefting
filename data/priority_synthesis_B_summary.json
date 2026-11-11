@@ -1,0 +1,43 @@
+{
+  "variant": "N1",
+  "records_coded": 1660,
+  "reviews_mapped": 66,
+  "confirmed_duplicates_excluded": 1,
+  "priority_firm": 135,
+  "priority_probable": 21,
+  "priority_total_upper": 156,
+  "priority_already_in_current_synthesis": 39,
+  "probable_duplicates_in_priority": 1,
+  "by_criterion_firm": {
+    "C1_BGD": 23,
+    "C2_E3W": 14,
+    "C3_FIELD": 41,
+    "C4_MON_REAL": 33,
+    "C5_GOV_LMIC": 18,
+    "C6_DRIVERS_LMIC": 42
+  },
+  "by_criterion_any": {
+    "C1_BGD": 25,
+    "C2_E3W": 14,
+    "C3_FIELD": 45,
+    "C4_MON_REAL": 39,
+    "C5_GOV_LMIC": 26,
+    "C6_DRIVERS_LMIC": 45
+  },
+  "only_one_criterion_firm": {
+    "C1_BGD": 8,
+    "C2_E3W": 2,
+    "C3_FIELD": 25,
+    "C4_MON_REAL": 25,
+    "C5_GOV_LMIC": 3,
+    "C6_DRIVERS_LMIC": 38
+  },
+  "firm_needing_fulltext_check": 21,
+  "priority_by_ta_code": {
+    "I5b": 65,
+    "I5a": 46,
+    "I5c": 30,
+    "I4": 14,
+    "GREY": 1
+  }
+}

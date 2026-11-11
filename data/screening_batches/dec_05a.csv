@@ -1,0 +1,107 @@
+# batch_05 lines 1-125 (S1 2013-2016)
+DEFAULT,EXC,E1,,Not consumer electricity theft/NTL (cyber/AMI security only, water, generic metering, comms)
+R02735,EXC,E4,DD,Dissertation
+R02892,EXC,E5,HW,Venue not indexed
+R02913,INC,I5b,HW,Smart prepaid metering to control theft (ICPEC 2013); no abstract, check
+R03108,EXC,E4,DD,No venue/abstract
+R03131,EXC,E4,HW,Patent
+R03145,EXC,E4,HW,Patent
+R03157,EXC,E4,HW,No venue/abstract
+R00324,EXC,E4,HW,Dissertation
+R01067,EXC,E5,DD,No indexed venue
+R01331,INC,I5c,HY,Enel revenue-protection experience with AMI (deployed benefits)
+R01374,INC,RV,RV,Energy-theft detection issues for AMI (Tsinghua S&T 2014) T1 candidate
+R01612,EXC,E5,HW,Venue not indexed (GJRE)
+R01746,INC,I5b,DD,SVM abnormality detection in AMI (Chinese journal); check indexing
+R01888,EXC,E5,DD,No indexed venue
+R01936,EXC,E5,HW,Venue not indexed (IOSR)
+R01993,INC,I5b,NW,State estimation for theft detection in microgrids
+R02098,EXC,E5,HW,No indexed venue
+R02214,INC,I5b,DD,Fuzzy Petri nets for NTL and outage detection (IEEE TSG)
+R02227,INC,I5a,GV,Root-cause analysis of stealing losses by accident tree; check venue
+R02303,EXC,E5,DD,Venue not indexed
+R02364,EXC,E5,GV,Venue not indexed
+R02414,INC,I5b,HW,Collusion and fraud detection on electronic meters (forensics, IEEE SPW)
+R02423,EXC,E4,GV,Dissertation
+R02445,EXC,E4,DD,Book chapter (MIDAS project)
+R02451,INC,I5b,DD,Smart meter analytics for revenue protection (POWERCON)
+R02465,INC,I5b,HW,PLC-based line monitoring for theft
+R02467,INC,I5b,DD,ANN smart grid fraud detection
+R02505,INC,I5b,DD,Expert vs inspection labels in NTL learning (ICPR; UTE Uruguay)
+R02509,EXC,E5,HW,No indexed venue
+R02554,INC,I5b,NW,NFD practical NTL fraud detection scheme (ICC)
+R02566,INC,I5b,DD,Non-cooperative game NTL screening (IEEE TSG)
+R02573,INC,I5b,DD,Grading management of theft prevention from online monitoring; check venue
+R02614,EXC,E4,HW,Bachelor thesis (BRAC)
+R02654,EXC,E4,GV,No venue (theft enforcement and corruption); find published version
+R02694,EXC,E5,HW,Venue not indexed
+R02889,INC,I5b,DD,NTL detection method in smart consumption (AMM); check
+R02993,INC,I5b,DD,Knowledge-based system + text mining + NN for NTL (KBS 2014)
+R03098,EXC,E4,HW,Patent
+R03112,EXC,E4,HW,Patent
+R03116,EXC,E4,HW,Patent
+R03148,EXC,E4,HW,Patent
+R00068,EXC,E4,NW,Dissertation (Pemba losses)
+R00098,EXC,E4,DD,Dissertation
+R00111,EXC,E4,NW,Dissertation
+R00186,EXC,E4,DD,Dissertation
+R00210,EXC,E4,HW,Dissertation
+R00233,INC,I5b,DD,Dynamic programming for probabilistic theft detection in smart homes (IEEE TETC)
+R00351,EXC,E4,HW,Dissertation
+R00439,EXC,E5,NW,Venue not indexed
+R00598,EXC,E4,HW,Dissertation
+R01068,EXC,E1,DD,Cyber pricing attacks on smart homes
+R01175,INC,I5b,HW,Multichannel distribution meter for theft prevention (NJT)
+R01200,INC,I5b,NW,Privacy-preserving theft detection in microgrids by state estimation (IEEE TPWRS)
+R01465,EXC,E5,HW,Venue not indexed
+R01581,EXC,E5,HW,Venue not indexed (IJCA)
+R01671,INC,I5b,DD,DCT + OPF NTL detection (NAPS)
+R01804,INC,I5b,DD,Consumption pattern-based theft detector CPBETD (IEEE TSG 2015) - seminal
+R01979,INC,I5b,DD,PV subsidy electricity-stealing identification (least squares)
+R02017,EXC,E5,HW,Venue not indexed
+R02026,INC,I5b,NW,BCGI inspection algorithm for malicious meters (ICC)
+R02071,INC,I5b,DD,Detection of compromised smart meters in AMI
+R02209,INC,I5b,DD,SHAPE NTL module (Enel analytics platform)
+R02243,INC,I5b,NW,Integrated DSSE with AMI and SCADA for theft
+R02264,INC,I5b,DD,Decision tree fraud detection (ICMLA)
+R02273,EXC,E5,NW,No indexed venue
+R02300,INC,I5b,DD,UTE-UDELAR abnormal consumption analysis (Uruguay, deployed)
+R02411,INC,I5b,NW,Anti-stealing management considering DG (line-loss benchmark); check venue
+R02417,INC,I5b,HW,ZigBee monitoring and theft detection
+R02419,EXC,E1,RV,PV subsidy fraud identification status (niche)
+R02421,EXC,E5,HW,Venue not indexed
+R02530,INC,I5b,DD,Temperature-dependent theft detection on smart meter data (ISGT)
+R02542,EXC,E5,HW,Time-domain reflectometer theft detection; no indexed venue
+R02543,INC,I5b,DD,Multi-user anomaly detection with partial context (BuildSys)
+R02552,INC,I5b,DD,NTL identification via information analysis/visualisation, EDEQ Colombia (IEEE LATAM)
+R02569,EXC,E5,HW,Venue not indexed
+R02584,INC,I5b,HW,Theft monitoring over LT poles with hardware framework
+R02585,INC,I5b,DD,Game-theoretic theft detection with AMI (IEEE Control Systems)
+R02696,EXC,E5,DD,Venue not indexed
+R02712,EXC,E5,HW,Venue not indexed
+R02750,INC,I5b,DD,Social-Spider optimised SVM for theft (C&EE)
+R02843,INC,I5b,DD,Fraud detection in registered electricity time series (IJEPES)
+R03102,EXC,E6,DD,Duplicate of R02585
+R03107,EXC,E4,DD,Dissertation duplicate
+R03123,EXC,E4,HW,No venue
+R03133,EXC,E4,DD,No venue
+R03140,EXC,E4,DD,No venue
+R03147,EXC,E4,HW,No venue
+R03155,EXC,E4,HW,No venue
+R00078,EXC,E4,GV,Dissertation (ZESCO prepayment lessons)
+R00082,EXC,E4,DD,Dissertation
+R00237,EXC,E4,DD,Dissertation
+R00560,INC,I5b,DD,Structural periodic patterns in AMI data for NTL (IEEE BigData)
+R00619,EXC,E5,HW,Venue not indexed
+R00903,INC,I5b,HY,Smart metering with GUI NTL detection platform (IET CEAT)
+R01133,INC,I5b,DD,Conditional abnormality detection on AMI data (IET GTD)
+R01135,EXC,E4,DD,Bachelor project
+R01210,INC,I5b,DD,NARX load prediction for theft detection
+R01221,INC,I5b,DD,Big data design patterns to select customers for inspection (T&D)
+R01280,INC,I5b,DD,Cooperative game inference for NTL and blackout (IET GTD)
+R01312,INC,I5b,NW,Theft detection and localisation in grid-tied microgrids (IEEE TSG)
+R01335,EXC,E4,HW,Thesis
+R01413,INC,I5b,DD,F-DETA framework (DSN)
+R01533,INC,I5b,NW,LV theft detection with smart meters and state estimation (ICIT)
+R01562,INC,I5b,NW,Detecting and locating NTL in modern distribution networks (IEEE TSG 2016)
+R01564,INC,I5b,DD,Decision tree + SVM theft detection (IEEE TII 2016)

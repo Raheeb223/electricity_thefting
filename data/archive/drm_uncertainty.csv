@@ -1,0 +1,15 @@
+family,readiness,rank_median,rank_p05,rank_p95,p_top_third
+Rule-based inspection targeting (baseline),2.57,2.0,1.0,5.0,0.979
+Geospatial and remote-sensing screening,2.57,2.0,1.0,5.0,0.968
+Socio-economic risk mapping,2.57,2.0,1.0,5.0,0.968
+Supervised ML on monthly billing data,2.14,6.0,3.0,9.0,0.366
+"Active prevention hardware (harmonics, low frequency, voltage)",2.14,6.0,3.0,9.0,0.353
+Smart prepaid metering,2.14,6.0,3.0,9.0,0.418
+Energy balance and correlation at transformer/master meters,2.14,6.0,3.0,9.0,0.409
+"E3W charging regularisation (licensed hubs, tariff, smart chargers)",2.14,6.0,3.0,9.0,0.38
+Cost-sensitive inspection targeting,2.0,8.0,4.0,11.0,0.154
+"Monitoring meters and sensors (IMM, zero-sequence, remote ID)",1.57,11.0,9.0,13.0,0.001
+Multi-resolution models for mixed meter fleets,1.57,11.0,8.0,13.0,0.004
+State estimation and load-flow methods,1.57,11.0,9.0,13.0,0.001
+"Label-efficient learning (semi-supervised, active, transfer)",1.43,12.0,10.0,13.0,0.001
+Deep learning on high-resolution AMI data,0.86,14.0,14.0,14.0,0.0

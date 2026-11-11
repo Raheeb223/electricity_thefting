@@ -1,0 +1,50 @@
+R01886|PAK|H|-|L|0|0|GSM Arduino three-sensor theft detection (kunda/hooking)
+R01887|-|S|U|S|0|-|Deep reinforcement learning NTL detection
+R01891|-|H|-|L|0|0|ZigBee WSN energy theft detection system
+R01907|-|N|-|O|0|-|INTERPRETER grid-model voltage deviations at LV pilot site; 6 locations for inspection
+R01908|-|S|U|O|0|-|CT-GAN semi-supervised detection
+R01958|-|U|U|O|0|-|ETD framework with SVM/RF/XGBoost/NN
+R01964|COD|N|-|O|0|-|Automated control chart TL/NTL monitoring, Rutsuru feeders
+R01965|-|S|Y|S|0|-|TS-BiResNet with hybrid real + stealing data
+R01978|-|S|U|O|0|-|Iterative interpolation + fusion CNN
+R02000|-|S|U|O|0|-|D-S fusion + IALO-SVM on real datasets
+R02012|-|S|Y|S|0|-|Load + weather features ML theft detection
+R02043|CHN|S|N|O|0|-|Multi-dimensional LOF + rule-of-thumb screening
+R02051|CHN|S|U|O|0|-|Three-layer PV power-theft screening with LSSVM; application system
+R02128|CYP|S|R|O|0|-|Semi-supervised online theft monitoring in Cyprus; deployed via model serving
+R02150|-|S|Y|S|0|-|Label propagation semi-supervised detection
+R02154|-|H|Y|S|0|-|Microgrid EMS with theft detection (GA)
+R02165|CHN|S|U|O|0|-|LSTM-SAE + PSO-SVM on actual grid data
+R02276|NGA|U|U|O|0|-|SVM/C4.5 + MapReduce-ANOVA (overlaps R01783; possible E6 ?)
+R02277|-|H|-|S|0|0|IoT theft location system (Proteus)
+R02283|IND|H|Y|L|0|-|ANN tamper detection for parallel resistive link (MSEDCL context)
+R02284|-|M|R|O|0|-|CNN on yearly series of monthly data with authority-certified thefts
+R02287|CHN|U|U|O|0|-|ReliefF + BP neural network theft detection
+R02323|-|M|U|O|0|-|Indicators on monthly consumption for anomaly and theft detection
+R02332|-|N|Y|S|0|-|Deep RL agent that learns to steal and evade detectors
+R02369|THA|S|U|O|0|-|LSTM on AMR data for metering equipment faults
+R02373|IND|H|-|L|0|0|IoT LoRa CT-based theft detection kit
+R02399|CHN|S|U|O|0|-|Boruta-LightGBM with SMOTEENN
+R02462|CHN|S|U|O|0|-|DBN + ELM abnormal consumption detection
+R02511|CHN|S|U|O|0|-|K-means + Frechet distance, village/town supply stations, 88.9%
+R02516|ECU|M|R|F|0|-|Detect Deviating Cells on Guayaquil utility data; new flags confirmed by later inspections
+R02600|IND|H|-|L|0|0|NodeMcu theft detection and protection
+R02601|IND|H|-|C|0|0|Consumer app with real-time theft detection and management
+R02610|RUS|H|-|C|0|0|Device preventing unregulated connections to street lighting lines
+R02621|-|U|U|U|0|-|ML performance evaluation for NTL; no abstract
+R02690|-|U|U|U|0|-|Pattern-based context-aware theft detection; no abstract
+R02698|-|U|U|U|0|-|Big data + GA theft detection; no abstract
+R02715|CHN|U|U|U|0|-|RNN anti-stealing detection; no abstract
+R02716|-|U|U|U|0|-|Online theft detection framework; no abstract
+R02738|-|U|U|U|0|-|PETD privacy-preserving scheme; no abstract
+R02747|IRN|U|U|U|0|-|Two-stage deep learning fraud detection; no abstract
+R02756|-|U|U|U|0|-|Split learning theft detection; no abstract
+R02763|-|U|U|U|0|-|Conv-attentional transformer theft detection; no abstract
+R02773|-|U|U|U|0|-|Blockchain privacy-preserving NAN theft detection; no abstract
+R02776|-|U|U|U|0|-|Sample augmentation for unbalanced theft detection; no abstract
+R02779|-|U|U|U|0|-|ML/AI power theft detection; no abstract
+R02799|-|U|U|U|0|-|Attention wide & deep CNN with dilated convolutions; no abstract
+R02849|IND|U|U|U|0|-|Dispersive flies algorithm NTL; no abstract
+R02862|-|S|U|O|0|-|TNT Loss generative cooperative loss-type detection; experimental test
+R02997|TUN|M|R|O|0|-|SQL feature engineering on Tunisian conventional-meter fraud data
+R03022|-|M|Y|S|0|-|Clustering threat levels and Gamma model with simulated fraud, monthly readings

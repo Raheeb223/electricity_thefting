@@ -1,0 +1,22 @@
+Year,Entity,Indicator,Reported value,Source
+FY1991,Bangladesh (national),Total system loss,>40%,adb2003cost
+FY1994,Bangladesh (national),Total system loss,37%,adb2003cost
+2000,Rural cooperatives (PBSs),System loss; bill collection,13.9%; ~97%,adb2003cost
+2000,BPDB and DESA,Losses; revenue collected for generated power,>US$100 million/yr; 55% of generation,lovei2000costs
+2001,BPDB,T&D loss,24.9%,adb2003cost
+2001,DESA (Dhaka),T&D loss,36.6%,adb2003cost
+2001-02,National (official series),Distribution; transmission; T&D loss,23.92%; 4.05%; 27.97%,powercell2025systemloss
+2009-10,National (official series),Distribution; transmission; T&D loss,13.49%; 3.08%; 15.73%,powercell2025systemloss
+2015-16,National (official series),Distribution; transmission; T&D loss,10.96%; 2.63%; 13.10%,powercell2025systemloss
+2019-20,National (official series),Distribution; transmission; T&D loss,8.73%; 2.91%; 11.23%,powercell2025systemloss
+2022-23,National (official series),Distribution; transmission; T&D loss,7.65%; 3.07%; 10.33%,powercell2025systemloss
+June 2023,Bangladesh (national),T&D loss,10.33% (33.57% in 1990),alam2024fixing
+2023-24,National (official series),Distribution; transmission; T&D loss,7.25%; 3.13%; 10.06%,powercell2025systemloss
+2023-24,Utilities (official series),Distribution loss,DESCO 5.57%; DPDC 6.04%; BPDB 7.23%; WZPDCO 7.38%; REB 8.01%; NESCO 8.58%,powercell2025systemloss
+2024-25,National (BPDB data via newspaper; no primary source found),System loss,10.13%,bonikbarta2025power
+2025,DESCO and DPDC (Dhaka),Distribution loss (officials),~5.5%,islam2025banglatesla
+FY2027 (projection),National,Distribution loss assumed by BERC technical committee (newspaper report),7.37% (7.38% in FY2025),tbs2026berc
+2025,BPDB; DPDC,Customer-level NTL (utility statements),5-7%,bss2025pdb;bss2025dpdc
+Oct 2025,BPDB,Smart prepaid meters / consumers,"3,298,103 / ~4.2 million",bss2025pdb
+Oct 2025,DPDC,Smart prepaid meters / consumers,"1,066,005 / 1,909,004",bss2025dpdc
+2025,DESCO Tongi 33/11 kV (simulation),Base-case substation loss,12.12%,alam2025optimizing

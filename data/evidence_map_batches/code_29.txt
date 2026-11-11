@@ -1,0 +1,50 @@
+R00902|CHN?|N|Y|S|0|-|Forward stepwise regression on 10 kV line-loss model; fixed-proportion group theft, preset conditions
+R00916|-|S|U|O|0|-|Tensor contrastive distillation; datasets not named
+R00921|-|S|U|O|0|-|LSTM-autoencoder with blockchain logging; dataset not stated
+R00967|-|H|-|L|0|-|Line-hooking image classification on ESP32-S3; 230-image custom dataset
+R00977|-|S|Y|O|0|-|Deceptive theft attack in multi-pricing; synthetic and real data
+R00987|CHN|S|R|O|0|-|IoT-AI framework on SGCC; testbed latency
+R00997|-|S|U|O|0|-|Spiking neural network SSNet; dataset not stated
+R01026|-|S?|R?|O|0|-|Wide-and-deep BiLSTM with customer and billing info; MAP top-100/200; dataset to confirm
+R01031|CHN|S|R|O|0|-|BiLSTM-LADAM-SVM on SGCC
+R01032|CHN|S|R|O|0|-|Classifier plus NeuralProphet fusion on SGCC; false positives -45%
+R01041|CHN|S|R|O|0|-|MTF ResNet-LSTM on SGCC subset 6,000 users
+R01045|-|X|-|C|0|-|Trustworthiness framework for ETD (six dimensions); position paper: RV? re-screen
+R01055|-|S|Y|S|0|-|Dueling DQN inspection policy in transformer area; synthetic 100 users
+R01103|CHN|S|R|O|0|-|DS-TAN with Hyperledger blockchain on SGCC
+R01143|-|S|Y|O|0|-|Evidence fusion on controlled episodes over real backgrounds and TDD2022; authors say field inspections needed
+R01150|IRL+CHN|S|Y|O|0|-|Hellinger distance on ISSDA and SGCC with attack scenarios
+R01152|CHN?|S|R|O|0|-|Few-shot meta-learned Fisher discriminant; national-scale dataset (probably SGCC)
+R01159|-|S|Y?|O|0|-|DDPM unsupervised detection on high-variance data; dataset not named
+R01174|-|S|Y?|O|0|-|NILM plus multi-source fusion; three real-world datasets, theft likely injected
+R01181|-|H|-|L|0|-|ESP32 GSM/GPS current comparison design
+R01185|IND|X|-|C|0|0|IEC 62056/IS 15959 compliance assessment of Indian smart meters; conceptual load profile
+R01215|-|S|U|O|0|-|Hybrid ML for meter faults and tampering; simulated and actual data
+R01216|-|U|U|L|0|-|LightGBM compression on Raspberry Pi; dataset not stated
+R01220|-|H|-|L|0|-|Arduino GSM prepaid meter with differential current; experimental validation
+R01229|-|S|U|O|0|-|Voting classifier with LIME on public smart-meter dataset
+R01233|-|S|U|O|0|-|FA-TA-BiLSTM with dynamic threshold and online learning; dataset not stated
+R01245|GRC|M?|R|O|0|-|HEDNO traditional-meter consumption with confirmed NTL cases; CatBoost and SHAP
+R01272|CHN|S|R|O|0|-|TSFPTD temporal-spectral fusion on SGCC
+R01273|-|S|U|O|0|-|CNN-Mamba cross-enhancement; real-world datasets not named
+R01290|-|S|R?|O|0|-|GAN-LSTM on LEAD building anomaly dataset; anomalies not theft-specific
+R01315|PER|M?|N|O|0|-|Northern Lima consumption from open data and Osinergmin; ARIMA/XGBoost anomaly estimation
+R01338|USA|S|Y|O|0|-|TDD2022/OEDI electricity and gas with synthetic theft
+R01361|-|S|U|O|0|-|Blockchain federated learning with dual verification against poisoning
+R01372|-|H|-|L|0|-|TRIAC embedded load injection for partial bypass; LTSPICE and experiment
+R01377|TUR|S|Y|O|0|-|Dicle AMR hourly data, 400 meters; rule-assisted labels, no inspection records
+R01383|CHN?|S|U|O|0|-|ST-HGNN with dynamic ensemble; transformer-area topology; dataset not named
+R01394|-|S|Y|O|0|-|CNN-BiLSTM forecasting with theft scenarios on household data
+R01401|-|H|-|L|0|-|ESP32 GPS geo-integrated monitoring design
+R01410|COL|S?|R?|O|0|-|Aguachica distribution company, 44,231 users, 365 variables per record; CNN-LSTM-DNN with resampling; granularity and label source to confirm
+R01446|-|S|Y|O|0|-|IoT-edge-cloud hybrid classification and clustering with simulated fraud
+R01458|ZAF|M?|R|O|0|-|Pietermaritzburg prepaid purchase data, ~42,000 customers 2019-2024, audit outcomes plus survey; RF
+R01478|-|S|Y?|O|0|-|Isolation Forest vs autoencoder on UCI household data
+R01516|-|S|Y?|O|0|-|Same study as R01478 (identical abstract): duplicate E6?
+R01544|IRN|S|-|F?|0|-|AMI-based alarm for theft of network wires/transformers; IEEE 33-bus simulation; implemented in Isfahan since 2021; scope: infrastructure theft not electricity theft, re-screen
+R01549|IRL|S|Y|O|0|-|XAI-driven federated learning on Irish CER data
+R01590|CHN?|S|Y|O|0|-|CVAE-GAN theft data augmentation on ZJED dataset
+R01592|-|U|U|O|0|-|CNN-LSTM plus Isolation Forest with IoT; dataset not stated
+R01595|-|S|U|O|0|-|MeterGuard XGBoost multi-class with AES; dataset not stated
+R01601|-|U|U|O|0|-|GA-optimised RF on benchmark billing datasets
+R01614|CHN|S|Y|O|0|-|Provincial grid 100,000 users; CNN-LSTM with cGAN anomalies; deployment only proposed

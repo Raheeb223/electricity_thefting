@@ -1,0 +1,50 @@
+R02212|BGD|Q|-|Q|0|1|Chittagong prepaid metering case; theft eliminated
+R02285|BGD|N|-|O|1|-|E3W charging effect on national load curve
+R02485|BGD|Q|-|C|1|0|DSM proposal for easy-bike charging; survey
+R00347|BGD|Q|-|Q|1|0|Khulna e-rickshaw policy (fuzzy QFD)
+R01422|BGD|X|-|S|1|-|E3W charging stations as storage (HOMER)
+R00874|BGD|X|-|C|1|0|E3W prospects and policy overview
+R02400|BGD|H|-|C|1|0|Smart easy-bike charger design; pilot planned
+R01016|BGD|X|-|S|1|-|E3W load optimisation
+R00979|IND|X|-|C|1|0|E3W charging infrastructure India
+R00330|BGD|Q|-|Q|1|-|Economic and environmental impact of auto-rickshaws
+R01440|BGD|H|-|F|1|1|RFID-LoRa charging authentication; 12-day field trial at 3 stations
+R01968|BGD|N|-|S|1|-|E3W impact on Dhaka local grid
+R02859|IND|U|-|U|1|-|Delhi e-rickshaw charging preferences; no abstract
+R00240|BGD|H|-|O|1|-|Field survey of 55 E3W chargers in Dhaka garages
+R00590|BGD|Q|-|Q|1|-|Easy-bike socio-technical field assessment
+R00295|TUR|Q|-|Q|0|0|Illegal use in Turkey; policy proposals
+R00732|-|X|-|C|0|0|Security economics of metering
+R02626|-|U|-|U|0|-|Energy theft in AMI; no abstract
+R02851|BRA|Q|-|Q|0|1|Favela econometrics; subsidy effect on illegality estimated
+R01703|IDN|Q|-|Q|0|0|Un-subscribers under two subsidy regimes
+R02824|TZA+IND|U|-|U|0|-|Theft as relational issue; no abstract
+R02255|TUR|Q|-|Q|0|-|Econometric causes of theft
+R00626|PAK|Q|-|Q|0|1|DISCO panel; effects of detection and fines estimated
+R02227|CHN|X|-|C|0|-|Accident-tree root causes
+R02852|IND|U|-|U|0|-|Combating theft in India; no abstract
+R01462|IND|X|-|C|0|-|Power theft overview India
+R02365|IND|X|-|C|0|-|Meter tampering methods India
+R02407|-|X|-|C|0|-|Theft techniques and hazards
+R02736|IND|U|-|U|0|-|Determinants across Indian states; no abstract
+R02440|PAK|X|-|C|0|0|GIS management concept Karachi
+R02856|-|U|-|U|0|-|Theft impact on regulated company; no abstract
+R00300|TUR|X|-|S|0|-|CGE rebound with theft
+R02470|URY|Q|-|Q|0|-|Montevideo slums losses and politics
+R02874|TUR|Q|-|Q|0|1|Privatisation effect on distribution losses
+R02987|PAK|Q|-|Q|0|-|IESCO consumer survey
+R03052|GHA|Q|-|Q|0|-|Ashanti theft factors
+R01114|LKA|X|-|S|0|-|Meter loss models
+R01451|-|X|-|C|0|-|Threat-source framework
+R01928|COD|Q|-|Q|0|-|Lubumbashi household survey
+R02478|BRA|Q|-|Q|0|-|Fraud types Rio de Janeiro
+R02682|-|X|-|C|0|0|Principal-agent-client model
+R02801|IND|Q|-|Q|0|-|UP district socio-economic predictors
+R03016|LKA|N|-|O|0|-|Loss segregation Gampaha
+R03070|-|X|-|S|0|-|Fuzzy cognitive map with experts
+R00960|MULTI|Q|-|Q|0|-|91-country panel of loss factors
+R01249|BRA|Q|-|Q|0|0|Ethnography of bill and regularisation
+R02565|-|X|-|C|0|-|Theft and control overview
+R02999|BRA|Q|-|O|0|-|NTL mixed-effects prediction, 59 utilities
+R03055|BRA|Q|-|Q|0|-|Light concession NTL social analysis
+R03062|MULTI|Q|-|Q|0|-|Afrobarometer corruption and access

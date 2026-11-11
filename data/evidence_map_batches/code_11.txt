@@ -1,0 +1,50 @@
+R00700|CHN|S|R|O|0|-|EnsembleNTLDetect on SGCC
+R00713|-|S|U|O|0|-|CNN + RUSBoost-MRFO/BSA
+R00724|IND|H|-|L|0|0|IoT PLC/SCADA smart metering with theft detection
+R00730|-|S|Y|S|0|-|Net-metering false-reading detection
+R00740|MYS|H|-|L|0|0|Distribution board remote switch for safe disconnection (TNB context)
+R00806|-|N|Y|S|0|-|CUSUM/Shewhart detector for small-amount theft
+R00866|-|S|U|O|0|-|CNN-LSTM with black widow/blue monkey optimisers
+R00908|CHN|S|R|O|0|-|SMOTE-NearMiss + ResNet + trees on SGCC
+R01008|-|S|U|O|0|-|Stacked ML + TCN ensemble
+R01021|CHN|H|-|L|0|0|Voltage detection for stealing and leakage (PV stations)
+R01074|URY|M|R|O|0|-|UTE 311k inspected customers; classic vs DNN (monthly probable ?)
+R01124|-|S|U|S|0|-|Quantum ML initial investigation
+R01156|PAK|H|-|L|0|0|IoT power quality and theft detection sensors
+R01203|BRA|M|R|O|0|-|SOM-DCT clustering + classifiers, Ceara 149,000 customers (monthly probable ?)
+R01246|-|U|U|O|0|-|Class imbalance treatment on real NTL dataset
+R01261|-|M|R|O|0|-|Multivariate Gaussian with social class and weather; manually collected data, inspection-verified
+R01276|-|S|Y|S|0|-|Regression-tree detection of PV generation theft
+R01299|PAK|H|-|L|0|0|IoT GSM power theft detection model
+R01304|BRA|N|Y|S|0|-|Bad-data analysis on real 34-bus and 1,682-bus systems
+R01341|-|S|Y|S|0|-|Ensemble detector robust to evasion attacks
+R01368|-|H|Y|L|0|-|Isolation forest on hardware testbed
+R01370|IND|S|Y|S|0|-|Paillier-encrypted theft classification
+R01379|IND|N|Y|S|0|-|Controller for theft detection and clearing (Simulink)
+R01393|-|S|Y|S|0|-|Crow-search clustering + stacking with artificial attacks
+R01404|MYS|S|N|O|0|-|LSTM load prediction anomaly points, one industrial consumer
+R01409|-|N|Y|S|0|-|CNN-RNN NTL detection on realistic simulated dataset
+R01438|-|S|U|O|0|-|ConvGRU + K-means
+R01459|-|S|Y|S|0|-|SVM malicious node detection
+R01471|CHN|S|U|O|0|-|DWMCNN + RF at edge data centre, enterprise acquisition data
+R01472|-|S|U|O|0|-|Periodicity detection + tree ensembles (daily/weekly)
+R01489|CHN|S|U|F|0|-|HCM clustering for PV generation theft; applied in Haidong (outcome qualitative ?)
+R01510|-|S|U|O|0|-|Stacked autoencoder + UaRe-RF suspicion levels
+R01515|-|S|U|O|0|-|CNN with blue monkey feature reduction
+R01540|-|S|R|O|0|-|FCNN/CNN/ResNet on daily and weekly real data
+R01545|BRA|U|R|O|0|-|XGBoost + SHAP on CPFL consumption and inspection data
+R01573|CHN|S|R|O|0|-|Combined DWML-CNN/CFSFDP/state estimation on SGCC
+R01605|CHN|S|R|O|0|-|Ensemble classifiers on SGCC
+R01609|CHN|S|R|O|0|-|CNN-SVM on SGCC
+R01622|BRA|S|Y|S|0|-|Data mining feature selection for rural irrigation NTL (simulated)
+R01626|-|S|U|O|0|-|Preprocessing + Bayesian-optimised SVM
+R01643|-|S|Y|S|0|-|ToU window-based theft detection with XGBoost
+R01661|-|N|-|O|0|-|Harmonic signatures to detect illicit crypto-mining farms; field tests
+R01665|BRA|X|-|O|0|-|YOLO satellite imagery buildings vs grid to locate theft
+R01705|-|N|Y|S|0|-|DWT-ANFIS-GSA theft location (Simulink)
+R01713|-|S|Y|S|0|-|Open-source toolbox of attack models and classifiers
+R01739|-|S|U|O|0|-|Adaptive stacking ensemble with GA
+R01756|CHN|H|U|C|0|-|LSTM anti-theft load identification with detection equipment
+R01773|-|S|Y|S|0|-|GRF optimisation theft detection (Simulink)
+R01783|NGA|U|U|O|0|-|SVM and C4.5 on Nigerian customer consumption data
+R01808|-|S|U|F|0|-|Knowledge-based fraud detection distinguishing anomalies; validated in real-life scenarios (?)

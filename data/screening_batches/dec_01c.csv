@@ -1,0 +1,13 @@
+# batch_01 lines 171-250 (S3 Bangladesh 2014-2021)
+DEFAULT,EXC,E1,,Bangladesh energy topic but not theft/NTL/system-loss evidence (renewables, rural electrification, generation)
+R02035,INC,I5b,HW,Embedded system detecting unauthorised tapping on Bangladesh distribution lines
+R02212,INC,GREY,GV,Case study: prepaid meters eliminated theft in Chittagong (BPDB); grey literature (KDI case)
+R02453,INC,I5c,GV,Impact of prepaid metering in Bangladesh distribution (tampering, billing)
+R01790,INC,I5c,GV,Prepaid meters and payment delinquency, Dhaka consumption data
+R02441,EXC,E1,BD,Smart-grid prospects in Bangladesh; background candidate only
+R02252,EXC,E1,BD,Smart grid adaptation Bangladesh; background candidate only
+R02602,EXC,E4,BD,World Bank project paper (system loss reduction); grey candidate
+R00008,EXC,E4,BD,World Bank South Asia power sector report chapter; grey candidate
+R02550,EXC,E4,BD,World Bank note (financial model)
+R02496,EXC,E4,BD,Expert briefing
+R01406,EXC,E5,BD,Power sector losses; venue not indexed

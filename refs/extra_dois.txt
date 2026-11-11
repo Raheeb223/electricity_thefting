@@ -1,0 +1,12 @@
+# Method references, each found by Crossref search on 2026-11-10
+10.1136/bmj.n71  # Page et al. 2021 PRISMA 2020 statement (BMJ)
+10.3233/efi-180221  # Hong et al. 2018 MMAT version 2018
+10.1177/001316446002000104  # Cohen 1960 kappa
+10.1038/d41586-022-00138-y  # Singh Chawla 2022 Nature news on OpenAlex launch
+10.7326/M18-0850  # Tricco 2018 PRISMA-ScR (DOI lookup, 2026-11-10)
+10.1136/bmj.39489.470347.ad  # Guyatt 2008 GRADE
+10.1016/j.jclinepi.2020.10.007  # Garritty 2021 rapid reviews
+10.1080/1364557032000119616  # Arksey 2005 scoping studies
+10.1186/s13643-026-03228-4  # Hilkenmeier 2026 multi-LLM screening
+10.1186/s13750-016-0059-6  # James et al. 2016 systematic mapping methodology (Crossref search 2026-11-11; abstract read)
+10.1186/s13643-016-0204-x  # Miake-Lye et al. 2016 what is an evidence map (Crossref search 2026-11-11; abstract read)

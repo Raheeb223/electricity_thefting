@@ -1,0 +1,50 @@
+R02845|ESP|S|U|O|0|-|SmartFD big data fraud analysis, Spanish consumers
+R02962|-|N|Y|S|0|-|Coded grouping-based inspection algorithms
+R03029|-|S|Y|O|0|-|Gustafson-Kessel clustering novelty detection, real data with 16 NTL types
+R03042|-|S|Y|S|0|-|PNN + Levenberg-Marquardt illegal consumer detection with DG
+R03078|THA|Q|-|O|0|-|PEA loss forecasting with FPA-ELM
+R00192|-|S|Y|S|0|-|PPETD privacy-preserving theft detection
+R00470|-|S|U|O|0|-|CNN-RNN-BiLSTM on smart meter data
+R00579|-|S|U|O|0|-|CNN-LSTM with preprocessing for missing data
+R00583|RUS|N|-|C|0|-|Voltage-drop method for fact/place of losses
+R00594|-|S|U|O|0|-|SVM + PCA theft detection
+R00600|PAK|U|R|O|0|-|15 classifiers on real Pakistani utility dataset
+R00609|USA|S|N|S|0|-|AUD-MTS clustering of US building load profiles
+R00617|-|S|Y|S|0|-|Importance sampling for irregular consumption
+R00763|ZAF|H|Y|L|0|-|SVM tamper detection device on test bench
+R00776|-|N|Y|S|0|-|SAI suspicion-assessment inspection algorithm
+R00828|CHN|S|R|O|0|-|Statistical profile images, semi-supervised detection; tested on field-inspection-verified samples (tail-scan)
+R00854|-|N|Y|S|0|-|Remote illegal consumer identification, Simulink
+R00887|-|S|U|O|0|-|K-means + DNN anomaly detection in AMI
+R00892|USA|S|Y|O|0|-|Physically inspired regression with usage and voltage data
+R01004|IND|S|U|O|0|-|Rule-based classification, Nana Kajaliyala village data
+R01066|-|S|U|O|0|-|MFEFD semi-supervised deep learning
+R01096|IND|M|U|O|0|-|APSPDCL fuzzy c-means + naive Bayes (monthly data probable ?)
+R01097|IND|H|-|L|0|0|Distributor-box vs meter current comparison
+R01104|-|S|Y|S|0|-|SETS smart home theft system
+R01110|DEU|S|Y|S|0|-|Entropy-inspired multi-source meter manipulation detection
+R01142|-|S|Y|S|0|-|Lempel-Ziv universal anomaly detection framework
+R01198|PAK|M|R|O|0|-|MEPCO ensemble bagged tree on consumer usage (monthly and labels probable ?)
+R01212|ITA|S|U|O|0|-|Smart meter + cellular phone data for NTL
+R01231|CHN|S|U|O|0|-|CNN-RF theft detection on smart meter data
+R01277|IND|H|-|L|0|0|Arduino GSM theft detection
+R01414|URY|M|R|O|0|-|UTE economic-return NTL detection, real users (monthly probable ?)
+R01449|-|S|Y|S|0|-|Gradient boosting theft detector with feature engineering
+R01503|CHN|S|U|O|0|-|Semi-supervised deep learning for industrial NTL
+R01537|-|S|Y|S|0|-|Deep learning fraud detection and suspicious relay nodes
+R01546|-|M|N|O|0|-|K-means/DBSCAN on billing, payment and tariff data
+R01567|-|S|N|O|0|-|Unsupervised online abnormality detection on real smart meter data
+R01658|-|S|Y|S|0|-|Higher-order statistics framework for theft attacks
+R01678|PHL|N|Y|S|0|-|Pilferage simulation testbed for MV/LV networks
+R01733|CHN|M|U|O|0|-|ELM ensemble on monthly consumption, State Grid Zhejiang
+R01785|CHN|U|U|O|0|-|SOM + K-means theft user detection
+R01794|THA|S|U|O|0|-|PSO-tuned rule model on 500 AMR meters
+R01868|-|S|U|O|0|-|CNN with Paillier privacy preservation
+R01953|PAK|H|-|C|0|0|Load profiling detection and high-voltage pulse prevention
+R01960|-|S|Y|S|0|-|PCA vs P2P comparison
+R02005|-|N|Y|S|0|-|Model-based fault detection, European LV test feeder
+R02006|-|N|Y|S|0|-|Hybrid sensitivity/optimisation/SVM NTL detection
+R02011|IND|S|U|O|0|-|Rule-based detection on Raipur smart meter data, 94.8% detection rate
+R02016|-|S|Y|S|0|-|Microgrid NTL simulation framework
+R02097|-|N|Y|S|0|-|Enhanced grid sensor placement
+R02108|CHN|M|U|O|0|-|LSTM monthly/seasonal anomaly detection, Chongqing users

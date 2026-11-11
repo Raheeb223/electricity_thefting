@@ -1,0 +1,15 @@
+family,passes_gate_base,readiness,p_pass_gate,rank_median,rank_p05,rank_p95,p_top5
+Geospatial and remote-sensing screening,True,2.5,1.0,2.0,1.0,5.0,0.98
+Socio-economic risk mapping,True,2.5,0.852,2.0,1.0,4.0,0.839
+Supervised ML on monthly billing data,True,2.25,0.721,4.0,1.0,6.0,0.607
+Energy balance and correlation at transformer/master meters,True,2.25,0.85,4.0,1.0,7.0,0.725
+Smart prepaid metering,True,2.25,0.852,4.0,1.0,6.0,0.719
+Cost-sensitive inspection targeting,True,2.12,0.724,5.0,2.0,7.0,0.481
+"Auto-rickshaw charging regularisation (licensed hubs, tariff, smart chargers)",True,2.0,0.623,6.0,3.0,8.0,0.28
+"Label-efficient learning (semi-supervised, active, transfer)",True,1.62,0.522,7.0,5.0,9.0,0.046
+Multi-resolution models for mixed meter fleets,True,1.75,0.618,7.0,5.0,9.0,0.103
+Rule-based inspection targeting (baseline),False,2.62,0.155,1.0,1.0,3.0,0.154
+"Active prevention hardware (harmonics, low frequency, voltage)",False,1.88,0.02,6.0,3.0,8.0,0.01
+State estimation and load-flow methods,False,1.75,0.09,7.0,4.0,9.0,0.015
+"Monitoring meters and sensors (IMM, zero-sequence, remote ID)",False,1.62,0.093,7.0,5.0,9.0,0.01
+Deep learning on high-resolution AMI data,False,1.12,0.012,8.0,6.0,10.0,0.0

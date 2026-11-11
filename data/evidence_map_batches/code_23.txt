@@ -1,0 +1,50 @@
+R02769|CHN|U|U|U|0|-|FUSE federated + split learning framework; no abstract
+R02783|-|U|Y|U|0|-|Theft cyber-attack detection for DG meters; no abstract
+R02791|-|U|U|U|0|-|Minimal gated memory + ADASYN + decision tree; no abstract
+R02804|CHN|U|U|U|0|-|Clustering + improved sparrow search; no abstract
+R02808|-|U|U|U|0|-|Parameter-tuned BiLSTM with pre-trained features; no abstract
+R02810|-|U|U|U|0|-|AutoML preprocessing and balancing effects; no abstract
+R02829|BRA|X|-|U|0|-|AI-detected buildings vs registered units (journal version of R03079); no abstract
+R02831|-|U|U|U|0|-|ETD-SAC auto-correlation detector; no abstract
+R02910|PHL|N|Y|S|0|-|DNN power estimation for pilferage localisation with smart and traditional meters (simulated)
+R02947|NGA|H|-|S|0|0|Smart metering design with anti-tamper sensors (Proteus)
+R02976|AUS|N|Y|S|0|-|Check meter quantity effect with PV and net metering (Ausgrid + OpenDSS)
+R03028|IDN|H|-|L|0|0|Anti-theft smart metering for PLN postpaid conventional meters
+X21|-|U|U|U|0|-|CNN electrical theft detection (LNEE 2024); no abstract
+X23|-|U|U|O|0|-|Sine chaotic GA-optimised BP network, 88% accuracy (venue to audit)
+R00044|PAK+CHN|S|R|O|0|-|DTRF ensemble + XAI on PRECON and SGCC
+R00074|CHN|S|R|O|0|-|Evasion attacks on CNN-AdaBoost ETD
+R00096|-|S|U|O|0|-|Active learning ML for theft detection
+R00100|CHN|S|R|O|0|-|Transfer learning CNN-LSTM/BiGRU-BiLSTM on SGCC
+R00120|-|S|U|O|0|-|SATBlend modular XAI approach with LoRAS
+R00140|-|H|-|L|0|0|IoT dual-sensor theft detection on shared lines
+R00151|-|S|U|O|0|-|Dynamic Siamese networks for meter data
+R00174|-|S|Y|S|0|-|DRL adversarial samples vs ConvLSTM detector
+R00176|ECU|U|R|O|0|-|Ensemble boosting on 266,298 distributor records with 15,013 fraud observations
+R00213|-|S|R|O|0|-|Endpoint detection + STFT + 1D CNN NTL screening with AMR data
+R00220|-|S|U|O|0|-|GAN-based anomaly detection and diagnosis
+R00227|-|S|Y|S|0|-|Clean-ET backdoor attack on ETD models
+R00255|CHN|S|R|O|0|-|CNN-BiLSTM-attention with K-SMOTE/K-ADASYN on SGCC
+R00274|-|S|U|O|0|-|MFFTD semi-supervised multiscale transformer
+R00290|-|S|U|O|0|-|Supervised ML fraud detection framework
+R00297|-|M|R|O|0|-|SVM/DNN/GBRL/Apriori on monthly AMR data of ~15,000 consumers over 3 years (labels probable ?)
+R00304|ESP|S|-|F|0|0|Self-diagnostic PLC AMI deployed in a Spanish LV network segment; NTL detection module (outcomes qualitative ?)
+R00310|-|S|U|O|0|-|GRU features + boosting voting ensemble
+R00311|CHN|S|R|O|0|-|Synthetic attack models vs real-world theft (SGCC): performance drops on real theft
+R00350|IND|H|U|L|0|0|IoT + SVM/LSTM theft and demand prediction
+R00352|-|S|U|O|0|-|2-D transformations (MTF, GASF, RP, STFT, CWT) for CNN NTL detection
+R00365|IDN|M|R|O|0|-|PLN traditional-meter postpaid 450 VA customers, monthly usage, Target Operation lists
+R00387|THA|S|Y|S|0|-|VAE synthesis of crypto-mining load profiles, PEA Khon Kaen AMI data
+R00403|-|S|U|O|0|-|BLS privacy blockchain + Siamese Bi-LSTM
+R00413|-|S|N|O|0|-|HDBSCAN unsupervised theft detection on AMI data
+R00430|IDN|M|R|O|0|-|SVM on PLN conventional-meter monthly data 2019-2023, industrial/business, confirmed theft (P2TL targets)
+R00431|-|M|R|O|0|-|XGBoost framework for low-sampling-rate traditional-meter data, real dataset (labels probable ?)
+R00432|-|S|U|O|0|-|RE4ETD dual-privacy-preserving detection
+R00437|IDN|M|N|O|0|-|K-means + DBSCAN on monthly AMI data of 23,230 900 VA customers vs AMI technical indicator
+R00444|-|U|R|O|0|-|CNN/ML/metaheuristic comparison on all-customer consumption records (fraud vs genuine)
+R00450|-|S|U|O|0|-|GAN-CNN anomaly detection
+R00462|CHN|S|R|O|0|-|Exploratory analysis of latent behaviours in SGCC
+R00497|-|S|Y|S|0|-|CNN-LSTM autoencoder + rules for theft anomalies
+R00500|CHN|S|U|O|0|-|TimeGAN + K-shape + double-layer stacking
+R00505|CHN|S|Y|S|0|-|NILM + multi-feature theft and abnormal date location
+R00520|CHN|S|R|O|0|-|Voting/stacking ensembles on 1,034 customer records 2014-2016 (SGCC subset)

@@ -1,0 +1,50 @@
+R02391|IND|H|-|L|0|0|Miniature advanced hybrid grid with anti-theft alert
+R02412|-|U|Y|O|0|-|Fuzzy-SOM fraud detection with rooftop PV; real network data
+R02446|BGD|H|-|C|0|0|Low-frequency distribution scheme against hooking in Bangladesh
+R02459|CHN|Q|U|C|0|-|Multi-dimensional stealing risk early warning
+R02476|CHN|S|U|S|0|-|Random forest with line-loss and warning indices, numerical case
+R02486|CHN|S|R|O|0|-|Neural architecture search on SGCC
+R02494|-|S|Y|S|0|-|Cubic SVM on open 15-min data with synthetic fraud shares
+R02551|-|S|Y|S|0|-|Tree ensembles on 114 apartments with generated NTL
+R02556|CHN|S|R|F|0|-|Multi-source hierarchical model; applied by State Grid in Hangzhou, 15% precision in on-site investigation
+R02630|-|S|Y|O|0|-|PMU state estimation + SOM/MLP, real data of 5,000 consumers
+R02632|BRA|N|Y|S|0|-|TL monitoring with temperature sensors to locate theft
+R02635|IRL|S|Y|S|0|-|Ensemble ML on 5,000-customer dataset
+R02652|-|U|U|U|0|-|ML theft detection to secure smart grid; no abstract
+R02664|CHN|S|Y|S|0|-|KFCM + 1D-WGAN + DT-KSVM in LV stations
+R02674|CHN|S|U|O|0|-|Stacked sparse denoising autoencoder, Fujian data
+R02691|-|U|U|U|0|-|Data processing + LSTM theft detection; no abstract
+R02717|-|H|-|U|0|-|Fuzzy inference theft prevention against direct tapping; no abstract
+R02781|-|S|Y|S|0|-|VAE-GAN threshold detector in edge data centre
+R02984|ZAF|H|-|C|0|0|ZigBee wireless technique to curb theft (preliminary)
+R03009|-|S|Y|S|0|-|Master/individual meter correlation pinpointing with attacks
+R03015|CHN|U|U|O|0|-|K-means SMOTE/KELM and DWELM, State Grid Zhejiang data
+R03038|-|S|Y|S|0|-|Local matrix reconstruction on open datasets
+R03100|-|U|U|U|0|-|Robust PCA + outlier removal clustering; no abstract
+X06|DUP|-|-|-|0|-|DUPLICATE of R03100 (exclude E6)
+R00122|CHN|S|R|O|0|-|PLSTM-AlexNet-ESNN ensemble on Chinese smart meter data (SGCC)
+R00222|CHN|S|R|O|0|-|CNN anti-stealing early warning on actual steal dataset
+R00267|CHN|S|R|O|0|-|Adaptive TSRNN + SMOTE; 47 real abnormal samples
+R00286|CHN|S|R|O|0|-|SMOTE-ENN/AlexNet/LightGBM and CWGAN-GP models on SGCC
+R00296|IND|N|-|C|0|0|IoT theft detection framework
+R00327|CHN|S|R|O|0|-|CNN-PSO-GRU on SGCC
+R00337|ECU|M|U|F|0|-|Data analytics to find meter errors; validated in a real Ecuadorian utility project (field probable ?)
+R00354|USA|S|Y|S|0|-|PSO-Attention-LSTM on UMass data with theft modes
+R00406|CHN|H|-|L|0|0|Current detection for stealing and omission
+R00407|NGA|H|-|L|0|0|IoT KCL sensor nodes for NTL detection
+R00458|CHN+USA|S|R|O|0|-|Automatic labelling + DE/Jaya-RUSBoost on SGCC and UMass
+R00464|-|S|R|O|0|-|GoogLeNet-GRU with TLSGAN
+R00473|IND|S|U|O|0|-|RNN-GBRT forecasting with theft detection
+R00475|-|U|R|O|0|-|FE-CatBoost with SMOTETomek and SHAP
+R00482|-|M|U|O|0|-|IRFD ensemble for fraud in traditional meters (data source unclear ?)
+R00502|-|S|Y|S|0|-|TL and NTL detection with ML and synthetic data
+R00506|-|S|U|O|0|-|LSTM + RUSBoost
+R00521|BRA|U|R|O|0|-|CNN features + information retrieval, CPFL data
+R00550|-|S|Y|S|0|-|FedDetect federated TCN detection
+R00562|-|S|Y|S|0|-|CAT AMI theft detection, 114 customers with attacks
+R00584|KEN|H|-|L|0|0|ANFIS illegal connection detection model hardware
+R00587|CHN|S|R|O|0|-|CAE + Tr-XGBoost economic return, provincial LV data
+R00601|-|S|N|O|0|-|LSTM autoencoder anomaly detection with weather
+R00629|CHN|S|R|O|0|-|GANCNN and ERNET on SGCC
+R00673|AUS+FRA|S|Y|S|0|-|DRES-based theft detection with weather data
+R00693|IRL|S|Y|S|0|-|Weighted naive Bayes on Irish data

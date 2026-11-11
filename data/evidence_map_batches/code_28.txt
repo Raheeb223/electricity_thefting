@@ -1,0 +1,50 @@
+R00250|-|S|U|O|0|-|FedSTAFN federated learning; real-world datasets not named
+R00264|IND|H|-|C|0|-|Kerala electric-fence tapping; RCM/TDR/LSTM framework proposed, no results reported
+R00265|-|S|U|O|0|-|KAN-autoencoder-CNN; one-day and one-week datasets, source not stated
+R00269|CHN|S|N|O|0|-|SGCC with GIS coordinates; unsupervised clustering and streaming simulation
+R00272|-|S|N|O|0|-|XGBoost-RFE regression of deviation severity; public smart-meter data; no inspection outcomes
+R00281|-|S|U|O|0|-|Risk-based framework on 500 consumers 2020-2024; data origin and label source unclear
+R00288|GBR|S|Y|O|0|-|BiLSTM forecasting plus fuzzy confirmation on London data
+R00341|CHN?|S|R|O|0|-|Behaviour features on daily data of >42,000 consumers (probably SGCC); web implementation
+R00357|-|H|-|L|0|-|ESP32/PZEM transformer-to-consumer comparison; controlled proof-of-concept
+R00381|-|S|Y|O|0|-|CNN-BiLSTM on 25 customers half-hourly with simulated theft
+R00382|CHN|S|R|O|0|-|Leakage audit protocol on SGCC; reported PR-AUC inflation
+R00385|CHN+USA|S|R|O|0|-|Cheby-FENN on OEDI and SGCC
+R00396|-|S|Y|S|0|-|Decision tree on 20,000 simulated meter readings
+R00399|CHN|S|R|O|0|-|BO-TCN on SGCC
+R00405|-|S|U|O|0|-|KAN on low-voltage network data; source and labels not stated
+R00409|GBR|S|Y|O|0|-|Low Carbon London with injected abnormal templates
+R00411|-|U|U|O|0|-|Four classifiers on two-feature dataset; data origin unclear
+R00419|-|U|U|O|0|-|GRU-TCN multitask forecasting and theft; ~3,500 samples, source not stated
+R00446|CHN|S|R|O|0|-|Multi-Scale Transformer on 42,372 users (SGCC)
+R00480|IDN|M|R|F|0|-|PLN West Java monthly manual-reading data, 2.36M consumers; 12,407 field inspections 72.0% vs 15.3%
+R00540|-|H|-|L|0|-|ATmega328 overhead line fault and theft prototype
+R00541|-|H|-|L|0|-|ESP32 LoRa pole-home current comparison prototype
+R00544|-|H|-|L|0|-|STM32 TinyML smart meter prototype
+R00572|-|H|-|L|0|-|ESP32 dual-CT monitoring and billing prototype
+R00589|-|S|Y|S|0|-|Isolation Forest vs OC-SVM on synthetic dataset with injected anomalies
+R00591|-|S|Y|O|0|-|Feature selection for ABOD/KNN with FDIA attack types; dataset not stated
+R00608|-|H|-|L|0|-|Cardless prepaid/postpaid smart meter prototype and app
+R00614|-|S|U|O|0|-|ANFIS with cyber validation on residential smart-meter data; source not stated
+R00621|-|S|U|O|0|-|GAF/MODWT 2D-CNN fusion; dataset not stated
+R00630|-|S|U|O|0|-|STL-Net stacking ensemble; real-world smart-meter data not named
+R00653|-|S|U|O|0|-|Agentic TCN with context reasoning; real-world datasets not named
+R00678|-?|M|R|O|0|-|53 monthly kWh values, 4,000 customers, 864 inspection-confirmed thefts; emerging market, country to confirm in full text
+R00681|-|S|U|O|0|-|RF-XGBoost; dataset not stated
+R00703|-|S|U|O|0|-|Digital twin GAT-Transformer; dataset not stated
+R00711|SDN?|H|-|S|0|-|Arduino GSM disconnect/reconnect design; Proteus simulation only
+R00743|-|S|R?|O|0|-|PV generation fraud detection, federated; real PV dataset, label type unclear
+R00744|BRA|M?|R|O|0|-|33,850 inspection records from a Brazilian utility; RF/XGBoost with economic analysis
+R00787|-|H|-|L|0|-|Injected test signal with CT and edge SVM; offline and real-time lab evaluation
+R00800|NGA|S|U|O|0|-|Communication, vending and token models on 100 Nigerian prepaid AMI customers; label source unclear
+R00802|-|N|Y|S|0|-|Mosquito optimisation for dispatch with hidden theft load; IEEE 30-bus
+R00811|-|H|-|L|0|-|Optical encoder LoRa retrofit for electromechanical meters
+R00824|CHN|S|R|O|0|-|GRMC Mamba on SGCC daily data
+R00832|CHN|S|R|O|0|-|Optuna XGBoost on SGCC
+R00845|-|S|N|O|0|-|Extended Isolation Forest on two real-world datasets
+R00864|THA|M|R|O|0|-|PEA Khon Kaen monthly manually-read meters; three-class theft/defect
+R00865|-|S|R?|O|0|-|AMI phase-neutral current gap autoencoder; 11,767 MDMS records; cost-benefit threshold; country and label source to confirm
+R00867|CHN|S|R|O|0|-|SAGE-Net GAN ensemble on SGCC
+R00885|-|U|U|O|0|-|Quantum ML on Kaggle smart grid theft data
+R00899|-|U|U|O|0|-|GA neural architecture search on power audit theft dataset
+R00901|-|S|U|O|0|-|TRANS-DEEP VAE/GAN/BiLSTM/Transformer on three smart-meter datasets (SMD-I to III)

@@ -1,0 +1,50 @@
+R02354|CHN|S|U|C|0|-|ML abnormal detection system for smart grid privacy
+R02368|-|S|U|O|0|-|Hyperparameter-optimised ML for fraud detection
+R02395|IRN|U|R|O|0|-|Post hoc calibration and threshold optimisation for illicit crypto-mining, Mashhad distribution company data
+R02426|IDN|S|U|O|0|-|Isolation forest/OCSVM/autoencoder on PLN Banjarmasin AMR load profiles
+R02603|RUS|S|R|O|0|-|Stacking ensemble (RF, LightGBM, ANN) on daily AMI readings, ROC-AUC 0.88
+R02641|-|S|Y|O|0|-|Deterministic profiling framework calibrated on simulated fraud, real case study
+R02646|-|U|U|U|0|-|Artificial immunity-based theft detection; no abstract
+R02656|-|U|U|U|0|-|ADASYN-enhanced ML models; no abstract
+R02665|IND|H|-|U|0|-|IoT AMI real-time power theft monitoring; no abstract
+R02667|USA|S|Y|S|0|-|Benchmark of six ML models on TDD2022 synthetic theft scenarios
+R02671|-|H|-|U|0|-|IoT-based theft detection; no abstract
+R02677|-|U|U|U|0|-|DL theft detection with high PV penetration; no abstract
+R02679|TUR|U|U|U|0|-|Advanced ML for theft detection; no abstract
+R02683|-|U|U|U|0|-|DL theft framework in cloud computing; no abstract
+R02685|-|U|U|U|0|-|ARIMA and DL models; no abstract
+R02687|-|U|U|U|0|-|AI-explained optimised and active ML framework; no abstract
+R02705|-|U|U|U|0|-|Multimodal selective state space classification; no abstract
+R02706|-|U|U|U|0|-|Convolutional autoencoder + transformer; no abstract
+R02725|-|S|U|O|0|-|Prototype learning + differential privacy against gradient inversion
+R02729|-|H|-|U|0|-|Smart energy meter theft management; no abstract
+R02733|-|U|Y|U|0|-|Distributed PV theft vs adversarial evasion; no abstract
+R02746|-|U|U|U|0|-|Multi-temporal granularity convolutional ensemble; no abstract
+R02754|-|U|U|U|0|-|Temporal residual 3D CNN; no abstract
+R02759|-|N|U|U|0|-|Expert system with PSO and nested power flow for NTL; no abstract
+R02772|-|U|U|U|0|-|Dual-attention fusion transformer; no abstract
+R02795|-|S|U|U|0|-|Channel-correlation kernel networks with matrix completion; no abstract
+R02805|-|U|U|U|0|-|Weighted-average ensemble; no abstract
+R02806|-|S|U|U|0|-|MiniRocket/TCN small-sample detection; no abstract
+R02812|-|U|U|U|0|-|Clustering with supercapacitor control; no abstract
+R02815|-|N|U|U|0|-|LV network theft and data breach detection; no abstract
+R02817|-|U|U|U|0|-|Interpretable GAM neural network; no abstract
+R02818|-|H|-|L|0|-|Harmonic signature dual-end sensing with LoRa/GSM alerts; prototype
+R02826|-|S|U|U|0|-|Mamba time-frequency network; no abstract
+R02836|-|U|U|U|0|-|Decentralised access control with theft detection; no abstract
+R02883|IND?|U|U|O|0|-|RF-fed ELM/CatBoost; Indian Electricity Act framing; dataset not stated
+R02897|-|U|U|O|0|-|Stacking classifier 96% accuracy; dataset not stated
+R02955|-|S|Y|S|0|-|Fog-node detection incl. zero-day attacks; simulated attacks
+R03001|-|H|-|L|0|-|ACS712 Bluetooth prototype; experimental testing
+R03036|-|S|Y|S|0|-|Digital twin (GridLAB-D/HELICS) of a real grid with real consumption; injected anomalies
+X31|-|U|U|U|0|-|Anomaly and theft detection; no abstract
+R00115|IRL|S|Y|O|0|-|Three-day detection; Irish CER data with synthetic attacks
+R00118|-|S|Y|S|0|-|PhysGTT mini-grid inconsistencies; UCI proxy and IEEE 13-node; authors state field validation needed
+R00137|CHN|S|R|O|0|-|TWiDeCNN on SGCC
+R00138|CHN+IRL+USA|S|R|O|0|-|Comparison of 27 models on SGCC/OEDI/CER; abstract calls itself a review: RV? re-screen
+R00147|-|H|-|L|0|-|Dual-sensor IoT tamper alert prototype
+R00193|-|S|Y|O|0|-|SVM/CNN on one-year smart meter data with synthetic theft; country not stated
+R00214|MAR|S|Y|O|0|-|Moroccan smart-meter profiles with six synthetic attacks; compact 1D-CNN
+R00217|CHN|S|R|L|0|-|PrivEdge split-federated on SGCC; Raspberry Pi edge test
+R00224|-|S|Y|O|0|-|Meta-classifier on forecast residuals; two public datasets
+R00230|CHN|S|R|O|0|-|Self-supervised contrastive on SGCC plus synthetic

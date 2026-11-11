@@ -1,0 +1,15 @@
+Method family,C1,C2,C3,C4,C5,C6,C7,C8,Gate,Ready,E-any,E-BD,Distributional risk
+Geospatial and remote-sensing screening,3,3,3,2,2,2,3,2,pass,2.50,--,--,High
+Socio-economic risk mapping,3,3,3,3,3,2,1,2,pass,2.50,0,0,High
+Supervised ML on monthly billing data,3,3,3,1,2,2,1,3,pass,2.25,3,3,Medium
+Energy balance and correlation at transformer/master meters,2,1,2,3,2,2,3,3,pass,2.25,--,--,Low
+Smart prepaid metering,3,2,1,3,2,2,2,3,pass,2.25,3,3,Medium
+Cost-sensitive inspection targeting,2,3,3,1,2,2,1,3,pass,2.12,3,0,Low
+"Auto-rickshaw charging regularisation (licensed hubs, tariff, smart chargers)",3,2,2,3,3,1,1,1,pass,2.00,0,0,Low
+Multi-resolution models for mixed meter fleets,2,2,2,1,1,1,2,3,pass,1.75,--,--,Medium
+"Label-efficient learning (semi-supervised, active, transfer)",1,1,2,2,1,1,2,3,pass,1.62,--,--,Medium
+"Active prevention hardware (harmonics, low frequency, voltage)",3,2,0,3,3,1,3,0,fail,(1.88),1,1,High
+State estimation and load-flow methods,1,1,1,3,2,0,3,3,fail,(1.75),--,--,Low
+"Monitoring meters and sensors (IMM, zero-sequence, remote ID)",1,1,0,3,2,1,3,2,fail,(1.62),--,--,Low
+Deep learning on high-resolution AMI data,0,0,1,1,1,1,2,3,fail,(1.12),3,0,Medium
+Rule-based inspection targeting (baseline),3,3,3,3,3,3,0,3,fail,(2.62),3,3,Medium

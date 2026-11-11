@@ -1,0 +1,121 @@
+# batch_08 lines 1-125 (S1 2021-2022)
+DEFAULT,EXC,E1,,Not consumer electricity theft/NTL (generic smart metering, sensing, security, energy security, appliance classification)
+R02095,INC,I5b,DD,Autoencoder + RF theft identification
+R02115,EXC,E5,RV,Zenodo
+R02123,INC,I5b,DD,Clustering + LOF theft detection in AMI (IEEE Access)
+R02124,INC,I5b,DD,Transformer + K-means consumption anomaly (Frontiers)
+R02130,INC,I5b,DD,LSTM-GAN unsupervised anomaly for consumption fraud; check venue
+R02131,INC,I5b,DD,Stacking ensemble abnormal consumption
+R02132,INC,I5b,HW,STS meter with GSM tamper reporting (IOP)
+R02178,INC,I5b,DD,AdaBoost theft detection
+R02190,INC,I5b,DD,CNN + data augmentation for ETD (I&CPS)
+R02194,INC,I5b,DD,Human-in-the-loop explainability for NTL (ICDMW; Naturgy)
+R02198,INC,I5b,DD,SVM detection of EV charging-pile electricity stealing (Procedia CS) - E3W analogue
+R02211,INC,I5b,HW,Smart meter design presenting theft methods and protection
+R02235,INC,I5b,DD,Improved crow search + SVM (Majlesi)
+R02236,INC,I5b,DD,Deep autoencoder detection of stealth attacks
+R02253,INC,I5b,HW,Current differential principle in GSM single-phase meter; check venue
+R02292,EXC,E5,HW,No venue
+R02307,EXC,E1,HW,Meter conversion
+R02314,INC,I5b,HW,IoT + blockchain theft and fault detection
+R02316,INC,I5a,GV,Factors associated with losses in Colombia (IJEEP)
+R02360,INC,I5b,DD,ML + feature engineering for NTL (JESA)
+R02382,INC,I5b,DD,Filter-based time-series anomaly detection (crypto-mining and theft)
+R02396,INC,I5b,DD,DNN time-series classification for theft (EEEIC)
+R02488,INC,RV,RV,Yan 2022 overview (IEEE TIM) T1
+R02507,INC,I5b,DD,Clustering on daily curves for NTL (ISGT LA)
+R02526,INC,I5b,NW,Evaluation of energy losses using smart meter data
+R02537,INC,I5b,NW,Network-oriented smart metering approaches for NTL (PowerTech)
+R02538,INC,I5b,DD,Text CNN theft detection (IOP)
+R02558,INC,RV,RV,Comprehensive review and framework for energy theft (conference)
+R02570,EXC,E1,DD,Smart metering benefits general
+R02578,EXC,E6,DD,Extended abstract of R01874
+R02590,INC,I5b,HW,Self-calibrating smart meter with tamper detection
+R02607,EXC,E5,RV,Repository item
+R02609,EXC,E5,RV,Venue doubtful
+R02636,INC,I5b,DD,MLP-GRU NTL (LNNS)
+R02659,EXC,E6,DD,SSRN version of R01515
+R02662,EXC,E4,DD,MS thesis
+R02663,INC,RV,RV,Chuwa 2021 review (EPSR) T1
+R02676,INC,I5b,DD,Classification + IoT theft detection (AJSE)
+R02700,INC,I5b,HW,Online detection and prevention of direct hook-line activity (JIEI-B)
+R02720,INC,I5b,DD,Big data analytics for ETD in smart cities (Big Data Research)
+R02724,INC,I5b,DD,AlexNet-AdaBoost-ABC (LNNS)
+R02728,INC,I5b,NW,NTL detection in limited-data LV feeders (IJEPES) - BD-relevant
+R02765,INC,I5b,DD,Comparative data-driven ETD in microgrids (LNNS)
+R02777,INC,I5b,DD,Adaptive synthesis + deep siamese network (JPDC)
+R02789,INC,I5b,DD,Detecting stealing by replacing instrument transformer via daily load mining (AISC)
+R02793,INC,I5b,DD,BiGRU-BiLSTM (LNNS)
+R02797,INC,I5b,DD,Evaluation of classifiers for NTL identification (IJEPES)
+R02807,INC,I5b,DD,CNN with unbalanced data handling comparison (IJEPES)
+R02821,INC,I5b,DD,Synthetic theft attacks for balancing + GRU (LNNS)
+R02830,INC,I5b,DD,BP NN optimised by L-M (AISC)
+R02837,INC,I5b,DD,Contrastive predictive coding for frauds in LV networks (IJEPES)
+R02841,INC,I5b,HW,Electromagnetic field detection module against stealing (AISC)
+R02842,INC,I5b,DD,Clustering and correlation for marketing inspection and anti-stealing (AISC)
+R02847,INC,I5b,HW,LoRa/Wi-Fi metering with theft detection (LNNS)
+R02870,INC,I5b,HY,Consortium blockchain NTL detection (SCN)
+R02881,EXC,E4,HW,Retraction notice
+R02884,INC,I5b,DD,MLP for NTL quantification in LV systems (DYNA)
+R02922,EXC,E1,GV,Project risk management
+R02931,INC,I5c,HY,AT&C loss mitigation via smart metering strategy, Nigeria (Frontiers)
+R02941,EXC,E4,DD,Thesis (French)
+R02943,EXC,E1,NW,Phase identification
+R02956,EXC,E1,DD,Big data distribution
+R02998,INC,I5b,DD,Covert theft cyberattack against ML detectors (IEEE TII)
+R03027,INC,I5a,HW,Evolution of metering technologies in Nigeria (incl. tamper issues); check
+R03031,INC,I5b,HW,Double-connected data capture meter for theft monitoring (AFRICON)
+R03035,INC,I5b,DD,WGAN augmentation for distributed PV theft
+R03058,EXC,E1,RV,Measurement devices review
+R03064,EXC,E4,HW,Retraction notice
+R03072,INC,I5b,NW,Detaching TL from NTL (ISGT LA)
+R03086,INC,RV,HW,Study of energy meters and tampering attempts (IJAPE)
+R03124,EXC,E4,HW,No venue
+R03154,INC,I5b,DD,Semi-automatic labelling of smart meter data for ETD (SysCon); check
+R00013,EXC,E4,DD,Dissertation
+R00067,EXC,E5,GV,Venue not indexed
+R00172,EXC,E1,NW,Transmission loss CNN
+R00181,EXC,E4,DD,Dissertation
+R00199,EXC,E5,GV,ECG system losses; venue (SCIRP) not indexed
+R00344,INC,I5b,DD,Duffing-Holmes + 1D CNN NTL (IEEE Access)
+R00367,INC,I5b,NW,Edge computing theft detection for LV users via line loss (Frontiers)
+R00368,INC,I5b,DD,BiWGAN + 2DCNN-BiLSTM (IEEE Access)
+R00378,EXC,E4,DD,Preprint (prosumer theft)
+R00392,INC,I5b,DD,Risk analysis of stealing behaviour characteristics
+R00423,INC,I5b,DD,Rule-based theft prevention model in AMI (JESIT)
+R00427,INC,I5b,DD,Boosting stacking ensemble NTL (IEEE Access)
+R00468,INC,I5b,DD,Bayesian-optimised LSTM ETD
+R00504,INC,I5b,DD,Hybrid DL for electricity losses (Sustainability)
+R00518,INC,I5b,DD,DNN theft detection (IEEE Access)
+R00534,EXC,E5,HW,Venue not indexed
+R00571,INC,I5b,DD,Decentralised federated learning theft detector (Globecom)
+R00576,INC,I5b,DD,Theft detection and localisation for Industry 4.0 (IASC)
+R00638,INC,RV,RV,Xia 2022 survey (Proc IEEE) T1
+R00645,EXC,E5,RV,Venue not indexed
+R00698,EXC,E5,HW,Venue not indexed
+R00714,EXC,E4,DD,Portuguese regional conference
+R00720,INC,I5b,DD,DL with recurrent expansion (IECON)
+R00753,INC,I5b,HW,Tariff digitalisation for theft detection in lines
+R00769,INC,I5b,DD,Online ML algorithms for ETD (IJACSA)
+R00798,INC,I5b,DD,GA feature selection theft detection (CMC)
+R00830,INC,I5b,DD,Stacking with grey relation analysis (Energies)
+R00842,INC,I5b,DD,RFE + KNNOR + BiLSTM-LogitBoost (IEEE Access)
+R00844,INC,I5b,DD,Theft detection for change-and-transmit AMI (IEEE IoT J)
+R00857,INC,I5b,DD,Robust data-driven analysis for theft-resilient grid (IEEE TPWRS)
+R00889,INC,I5b,DD,Synthetic theft attacks + LSTM preprocessing + GRU (Energies)
+R00906,INC,I5b,DD,Multi-label co-occurrence for stealing type and forensics
+R00909,INC,I5b,DD,AlexNet-AdaBoost-ABC (IEEE Access)
+R00926,INC,I5b,DD,Hybrid BiGRU-BiLSTM (Sensors)
+R00937,INC,I5b,DD,Autoencoder + BiGRU (IEEE Access)
+R00938,INC,I5b,DD,Robust detection of adversarial evasion attacks (IEEE TSG)
+R00944,EXC,E4,DD,Portuguese regional conference
+R00948,INC,I5b,DD,Hybrid-order representation learning (IEEE TII)
+R00954,INC,I5b,DD,DRFD real-time false reading detection (SoutheastCon)
+R00963,INC,I5b,DD,Fine-tuned RNN for generation-domain theft (IEEE OJIES)
+R01009,INC,I5b,DD,Monitoring power stealing by bitcoin mining users (Energy Reports)
+R01011,INC,I5b,DD,Deep autoencoder anomaly detection of theft (IEEE Systems J)
+R01015,INC,I5b,DD,Typical and anomalous consumption patterns (Applied Sciences)
+R01022,INC,I5b,DD,Effect of sampling frequency on ETD performance (IET Signal Processing) - key BD granularity evidence
+R01024,EXC,E4,RV,Retracted survey
+R01028,INC,I5b,DD,GrAb DL analytics for theft (Sensors)
+R01050,INC,I5b,DD,FedDP federated privacy theft detection (Energies)

@@ -1,0 +1,50 @@
+R00531|-|S|U|O|0|-|DAFL-TD adaptive feature learning framework
+R00537|-|S|Y|S|0|-|Model-agnostic XAI for detection basis and theft occurrence time
+R00538|PAK|M|R|O|0|-|Siamese network with triplet loss on labelled MEPCO data
+R00546|-|S|U|O|0|-|Feature selection + Gauss-Markov assumptions for ETD model choice
+R00547|CHN|N|R|F|0|-|AI + digital substation theft monitoring; industrial park deployment: line loss 8.7% to 3.2%, 1.23M yuan recovered
+R00555|CHN|S|Y|S|0|-|Generalised robust distance + multi-class SVM in sensitive areas
+R00574|-|S|U|O|0|-|Transformer-meter zones + focal-loss model + transfer learning
+R00578|-|S|U|O|0|-|Graph transformer on dynamic graphs (TETA)
+R00580|CHN|S|U|C|0|-|AI + power anti-theft system concept (LSTM-GAN, transfer learning)
+R00581|-|S|U|O|0|-|RF/ExtraTrees + K-means + SMOTE for theft and defective meters
+R00586|IRN|S|U|O|0|-|Two-stage base classifiers + meta-learner pattern recognition
+R00596|CUB|M|R|O|0|-|XGBoost on monthly manually read residential consumption, Cuba; web app (labels probable ?)
+R00603|NGA|H|-|L|0|0|Microcontroller theft detection and prevention, 10 load scenarios
+R00637|CHN|S|U|O|0|-|Wavelet + SVM for PV theft by dedicated transformer users
+R00647|IDN|M|R|O|0|-|15 classifiers on PLN on-site inspection records 2019-2023 (6.7M rows) with consumption pattern and geography (monthly probable ?)
+R00658|-|N|Y|S|0|-|Two-step Kalman filter for partial meter bypass
+R00669|IND|N|Y|S|0|-|Power theft identification via network parameter deviation, WBSEB areas (simulation)
+R00672|CHN+IRL|S|Y|O|0|-|Information-fusion CNN/MLP on SGCC and CER (African utility motivation)
+R00684|IDN|U|U|O|0|-|XGBoost + SMOTE on load profiles
+R00695|-|S|Y|S|0|-|Prototype + ensemble one-class learning for zero-day theft
+R00704|CHN|S|R|O|0|-|DKGT-Net on SGCC
+R00710|-|S|Y|S|0|-|TabTransformer on TDD2022
+R00735|-|S|U|O|0|-|ElectroGuard Conv1D + multi-head attention
+R00747|-|S|N|O|0|-|Distribution-based residual analysis of load forecasts
+R00759|-|S|Y|S|0|-|Adversarial attack vulnerability of federated anomaly detection
+R00765|PER|M|R|O|0|-|Isolation forest + XGBoost on real Peruvian utility consumption with fraud labels
+R00777|IND|N|-|L|0|0|Cost-effective LoRa real-time LT distribution monitoring
+R00780|-|S|N|O|0|-|TransVAE-POT unsupervised anomaly detection
+R00808|CHN|S|R|O|0|-|Hybrid KNN-LSTM on SGCC
+R00821|-|N|Y|S|0|-|LSTM autoencoder on 19-bus simulated system
+R00826|-|U|U|O|0|-|ML + seven balancing techniques for NTL detection
+R00833|NGA|H|-|L|0|0|Fuzzy-logic smart meter for theft and fault detection
+R00837|-|S|U|O|0|-|Pearson correlation with line loss + SMOTE + SVM
+R00852|NGA|H|-|L|0|0|Smart metering system with field functionality test (device test, not theft outcomes)
+R00861|-|S|Y|S|0|-|Electricity, water and gas graphs with GCSC network
+R00870|CHN|S|U|O|0|-|RMT + ETD-SAC behaviour monitoring; suspected bypass identified
+R00877|-|S|Y|S|0|-|Optimised ConvLSTM against seven FDI attacks
+R00911|-|S|Y|S|0|-|CNN-AE-LSTM multi-user detector against evasion attacks
+R00928|-|H|-|L|0|0|IoT-cloud dual-meter discrepancy detection prototype
+R00934|-|S|U|O|0|-|CNN + Kalman filter joint detection
+R00940|-|S|Y|S|0|-|PE-DOCC periodicity-enhanced one-class classification
+R00942|-|S|R|O|0|-|GASF images + ConvNeXt on real-world dataset
+R00952|CHN|S|R|O|0|-|CNN-LSTM with LoRAS on SGCC
+R00970|CHN|S|R|Q|0|-|Exploratory signal analysis of two SGCC consumers
+R00973|CHN|N|U|O|0|-|IoT terminal sensing data density clustering + LM-BP for high-risk theft
+R00974|IDN|S|U|O|0|-|K-means and isolation forest on PLN CT-meter voltage/current data 2021-2023
+R00976|IND|H|-|L|0|0|IoT power theft prevention prototype
+R00986|NGA|M|U|O|0|-|CNN on 24 months of consumption of 2,400 metered customers, Southwestern Nigeria (labels unclear ?)
+R01003|-|S|U|O|0|-|Deep learning abnormal consumption detection system
+R01020|CHN|S|U|O|0|-|Supervised ML for line-loss anomaly and theft identification

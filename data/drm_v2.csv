@@ -1,0 +1,15 @@
+family,E_judged_v1,n_fulltext,E_any,E_any_from,E_bd,E_bd_from,E_bd_probable,C1,C2,C3,C4,C5,C6,C7,C8,passes_gate,readiness,failing_constraints
+Rule-based inspection targeting (baseline),2,2,3,haramaini2026hybrid,3,haramaini2026hybrid,False,3,3,3,3,3,3,0,3,False,2.62,C7
+Supervised ML on monthly billing data,3,8,3,haramaini2026hybrid,3,haramaini2026hybrid,False,3,3,3,1,2,2,1,3,True,2.25,
+Cost-sensitive inspection targeting,3,1,3,alharbi2021electricity,0,,False,2,3,3,1,2,2,1,3,True,2.12,
+Deep learning on high-resolution AMI data,2,1,3,hu2020understanding,0,,False,0,0,1,1,1,1,2,3,False,1.12,"C1, C2"
+"Label-efficient learning (semi-supervised, active, transfer)",2,0,-1,,-1,,False,1,1,2,2,1,1,2,3,True,1.62,
+Multi-resolution models for mixed meter fleets,2,0,-1,,-1,,False,2,2,2,1,1,1,2,3,True,1.75,
+Energy balance and correlation at transformer/master meters,2,0,-1,,-1,,False,2,1,2,3,2,2,3,3,True,2.25,
+State estimation and load-flow methods,1,0,-1,,-1,,False,1,1,1,3,2,0,3,3,False,1.75,C6
+"Monitoring meters and sensors (IMM, zero-sequence, remote ID)",1,0,-1,,-1,,False,1,1,0,3,2,1,3,2,False,1.62,C3
+"Active prevention hardware (harmonics, low frequency, voltage)",0,1,1,sayem2020reducing,1,sayem2020reducing,False,3,2,0,3,3,1,3,0,False,1.88,"C3, C8"
+Smart prepaid metering,3,1,3,odje2021aggregated,3,odje2021aggregated,False,3,2,1,3,2,2,2,3,True,2.25,
+Geospatial and remote-sensing screening,2,0,-1,,-1,,False,3,3,3,2,2,2,3,2,True,2.5,
+Socio-economic risk mapping,1,3,0,,0,,False,3,3,3,3,3,2,1,2,True,2.5,
+"Auto-rickshaw charging regularisation (licensed hubs, tariff, smart chargers)",0,1,0,,0,,False,3,2,2,3,3,1,1,1,True,2.0,

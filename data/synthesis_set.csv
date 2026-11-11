@@ -1,0 +1,31 @@
+record_id,CTY,GR,LB,VL,E3W,GOVM,note,code_file,code_source,ta_code,excluded_duplicate,probable_duplicate_of,is_review,C1_BGD,C2_E3W,C3_FIELD,C4_MON_REAL,C5_GOV_LMIC,C6_DRIVERS_LMIC,priority,needs_fulltext_check,venue_decision,has_pdf
+R02285,BGD,N,-,O,1,-,E3W charging effect on national load curve,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False,indexed (Scopus list),True
+R02485,BGD,Q,-,C,1,0,DSM proposal for easy-bike charging; survey,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False,indexed (Scopus list),True
+R00979,IND,X,-,C,1,0,E3W charging infrastructure India,code_01.txt,abstract,I4,,,False,,F,,,,,firm,False,indexed (Scopus list),True
+R01440,BGD,H,-,F,1,1,RFID-LoRa charging authentication; 12-day field trial at 3 stations,code_01.txt,full text,I4,,,False,F,F,F,,F,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R01968,BGD,N,-,S,1,-,E3W impact on Dhaka local grid,code_01.txt,abstract,I4,,,False,F,F,,,,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R00626,PAK,Q,-,Q,0,1,DISCO panel; effects of detection and fines estimated,code_01.txt,abstract,I5a,,,False,,,,,F,F,firm,False,indexed (Scopus list),True
+R00960,MULTI,Q,-,Q,0,-,91-country panel of loss factors,code_01.txt,abstract,I5a,,,False,,,,,,P,probable,True,indexed (Scopus list),True
+R03062,MULTI,Q,-,Q,0,-,Afrobarometer corruption and access,code_01.txt,abstract,I5a,,,False,,,,,,P,probable,True,indexed (Scopus list),True
+R00723,ZAF,Q,-,Q,0,0,Tshwane employee survey on loss causes,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R01618,ZAF,Q,-,Q,0,-,Umlazi self-connection ethnography,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R02316,COL,Q,-,Q,0,-,Colombia loss factors econometrics,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R00686,UGA,Q,-,Q,0,-,Kampala coping strategies fieldwork,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R00374,TZA,Q,-,Q,0,-,Dar es Salaam unruly access,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R03077,COD,Q,-,Q,0,-,Lubumbashi theft and service quality,code_02.txt,abstract,I5a,,,False,,,,,,F,firm,False,indexed (Scopus list),True
+R02232,ESP,M,R,F,0,-,Supervised fraud detection with field checks; improved over previous checks,code_05.txt,full text,I5b,,,False,,,F,,,,firm,False,indexed (Scopus list),True
+R00722,BRA,M,R,O,0,-,"Covariate shift in inspection data, 3.6M customers, 820K inspection results (same Brazilian dataset as R02958, monthly series; tail-scan)",code_05.txt,full text,I5b,,,False,,,,F,,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R00882,BRA,M,R,O,0,-,"Holographic visualisation of NTL predictions, 3.6M customers; being deployed in commercial software, no outcomes (tail-scan)",code_05.txt,full text,I5b,,,False,,,,F,,,firm,False,indexed (Scopus list),True
+R01899,ESP,M,R,F,0,-,Endesa inspection targeting; success rate x3,code_05.txt,full text,I5b,,,False,,,F,,,,firm,False,indexed (Scopus list),True
+R01782,BRA,M,R,F,0,-,CPFL customer-journey model; field test 2.2x inspection success; implemented,code_09.txt,full text,I5b,,,False,,,F,F,,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R02446,BGD,H,-,S,0,0,Low-frequency distribution scheme against hooking in Bangladesh,code_10.txt,full text,I5b,,,False,F,,,,,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R02556,CHN,S,R,F,0,-,"Multi-source hierarchical model; applied by State Grid in Hangzhou, 15% precision in on-site investigation",code_10.txt,full text,I5b,,,False,,,F,,,,firm,False,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R01489,CHN,S,U,F,0,-,HCM clustering for PV generation theft; applied in Haidong (outcome qualitative ?),code_11.txt,full text,I5b,,,False,,,F,,,,firm,True,"probably indexed (conference series indexed; edition after list date): keep, flag",True
+R01850,-,M,R,F,0,-,Cost-driven synthetic control on low-resolution data; utility test ~75% precision on new NTL cases,code_12.txt,full text,I5b,,,False,,,F,,,,firm,False,indexed (Scopus list),True
+R02997,TUN,M,R,O,0,-,SQL feature engineering on Tunisian conventional-meter fraud data,code_15.txt,full text,I5b,,,False,,,,F,,,firm,False,indexed (Scopus list),True
+R00595,BGD?,S,U,O,0,-,"Imbalanced classification on 56,618 records 2017-2020; Bangladesh motivation, data source unclear (check ?)",code_16.txt,full text,I5b,,,False,P,,,,,,probable,True,indexed (Scopus list),True
+R00472,THA,M,R,O,0,-,"PEA electrical profiles (kWh, electronic, TOU, AMR meters) + physical data; normal/risk/theft (granularity mixed ?)",code_19.txt,full text,I5b,,,False,,,,F,,,firm,True,indexed (Scopus list),True
+R00480,IDN,M,R,F,0,-,"PLN West Java monthly manual-reading data, 2.36M consumers; 12,407 field inspections 72.0% vs 15.3%",code_28.txt,full text,I5b,,,False,,,F,F,,,firm,False,indexed (Scopus list),True
+R00864,THA,M,R,O,0,-,PEA Khon Kaen monthly manually-read meters; three-class theft/defect,code_28.txt,full text,I5b,,,False,,,,F,,,firm,False,indexed (Scopus list),True
+R02931,NGA,X,-,Q,0,1,NERC Disco data 2015-2020: each 1% metering increase linked to 0.8% lower ATC&C loss,code_32.txt,abstract,I5c,,,False,,,,,F,,firm,False,indexed (Scopus list),True
+R00981,CHN,M?,R,O,0,0,Power supply company A marketing audit theft data 2020-2023; K-means and Apriori,code_32.txt,abstract,I5c,,,False,,,,P,,,probable,True,indexed (Scopus list),True

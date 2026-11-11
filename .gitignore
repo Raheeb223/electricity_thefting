@@ -1,0 +1,18 @@
+# Copyrighted full texts and text extracted from them: never commit
+data/fulltext/
+data/fulltext_pages/
+data/fulltext_text/
+data/fulltext_excerpts/
+# Third-party source list (download from Elsevier)
+data/venue_audit/*.xlsx
+# Manuscript and build outputs
+manuscript/
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+# Python
+__pycache__/
+*.pyc
+.venv/

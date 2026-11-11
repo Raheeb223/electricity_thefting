@@ -1,0 +1,50 @@
+R02557|MULTI|X|-|C|0|-|Review of NTL detection methods with regulatory questionnaire across ten countries
+R02619|-|X|-|C|0|-|Review of NTL detection solutions (RSER 2017); no abstract
+R02666|-|X|-|C|0|-|Review of theft modelling techniques (RSER 2017); no abstract
+R02734|IND|X|-|C|0|-|Review of energy theft in smart grids and VPPs, Indian context; no abstract
+R02046|-|X|-|C|0|-|Review of ML in NTL detection and privacy-preserving methods
+R00212|-|X|-|C|0|-|Systematic review of AI-based NTL detection
+R00636|-|X|-|C|0|-|Review of cloud-based anomaly detection for consumption
+R00682|IND|X|-|C|0|-|Review of LV power theft detection from Indian perspective
+R02342|BRA|X|-|C|0|-|NTL review with Brazilian regulatory calculation
+R02732|-|X|-|C|0|-|Survey of smart-meter theft detection; no abstract
+R00358|-|X|-|C|0|-|Review of AI for big-data services in distribution networks incl. fraud/NTL
+R00799|-|X|-|C|0|-|Survey of data-driven theft attack strategies and detection
+R01904|-|X|-|C|0|-|Survey of time-series anomaly detection in smart grids
+R02266|-|X|-|C|0|-|Bibliometric analysis of 392 NTL conference studies
+R02488|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02558|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02663|-|X|-|C|0|-|Review (read abstract); not a priority study
+R03086|-|X|-|C|0|-|Review (read abstract); not a priority study
+R00638|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01295|BRA|X|-|C|0|-|Review (read abstract); not a priority study
+R01518|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01529|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01619|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01766|-|X|-|C|0|-|Review (read abstract); not a priority study
+R00691|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01113|RUS|X|-|C|0|-|Review (read abstract); not a priority study
+R01427|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01509|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01524|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02245|-|X|-|C|0|-|Review (read abstract); not a priority study
+R00667|-|X|-|C|0|-|Review (read abstract); not a priority study
+R00860|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01186|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01805|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01918|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02409|ZAF+MULTI|X|-|C|0|-|Review (read abstract); not a priority study
+R00198|RUS|X|-|C|0|-|Review (read abstract); not a priority study
+R00221|-|X|-|C|0|-|Review (read abstract); not a priority study
+R00623|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01294|NGA|X|-|C|0|-|Review (read abstract); not a priority study
+R01329|-|X|-|C|0|-|Review (read abstract); not a priority study
+R01389|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02171|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02180|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02443|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02514|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02753|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02786|-|X|-|C|0|-|Review (read abstract); not a priority study
+R02840|-|X|-|C|0|-|Review (read abstract); not a priority study
+R03019|-|X|-|C|0|-|Review of 15 detection studies and applicability to conventional networks in emerging countries

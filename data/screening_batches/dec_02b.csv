@@ -1,0 +1,91 @@
+# batch_02 lines 126-250 (S2 regional 2011-2017)
+DEFAULT,EXC,E1,,Not electricity theft/NTL (water, energy access, generation, metering/billing convenience only)
+R02343,EXC,E5,GV,No indexed venue
+R02560,EXC,E2,HW,Architecture without evaluation
+R00070,EXC,E5,GV,Venue not indexed
+R00101,EXC,E4,GV,Conference abstract (IWMI, agriculture-energy nexus India); grey candidate
+R00438,EXC,E5,GV,Venue not indexed
+R00552,EXC,E2,DD,Project description
+R00566,INC,I5b,HW,Aerial infrared thermography to detect utility theft
+R00597,EXC,E5,NW,Venue not indexed
+R01356,EXC,E4,GV,World Bank document (electricity-groundwater nexus India); grey candidate
+R01856,INC,I5b,HW,GSM-based distribution monitoring against NTL (IJECE)
+R01987,INC,I5b,HY,Payback analysis of NTL identification/monitoring (cost evidence, Brazil)
+R02760,INC,I5b,DD,Inspection routine optimisation AES Eletropaulo; no abstract, check venue/full text
+R02824,INC,I5a,GV,Electricity theft as a relational issue: Zanzibar and Sunderbans (ESD 2012)
+R00001,EXC,E4,GV,Dissertation
+R00033,EXC,E5,HW,Venue not indexed (IOSR)
+R00527,EXC,E5,HW,No indexed venue
+R01006,INC,I5b,NW,Line-loss/theft location modelling, Pakistan
+R01552,EXC,E5,GV,Venue not indexed
+R02167,INC,I5b,DD,MLP trained by charged system search for NTL detection
+R02255,INC,I5a,GV,Econometric causes of electricity theft, Turkey; check indexing
+R02272,EXC,E5,HW,Venue not indexed
+R02403,INC,I5b,DD,ANN knowledge-discovery fraud detection; check venue
+R02408,EXC,E6,GV,Working-paper version of Pakistan theft econometrics (see R00626)
+R02567,INC,I5b,DD,NTL identification study Brazil; check venue
+R03172,EXC,E4,GV,No abstract/venue
+R00362,EXC,E5,HW,Venue not indexed
+R00626,INC,I5a,GV,Empirical study of theft from Pakistani distribution companies (PDR)
+R00773,EXC,E5,GV,Venue not indexed
+R00797,EXC,E4,GV,Dissertation
+R01086,INC,I5b,HY,Communication network for NTL control in smart grids
+R01091,EXC,E4,DD,Dissertation (Portuguese)
+R01130,EXC,E5,GV,Venue not indexed (GJRE)
+R01494,EXC,E2,HW,AMI model without theft evaluation
+R02208,EXC,E5,RV,No indexed venue
+R02358,INC,I5b,HY,TL/NTL reduction with cost-benefit analysis (India)
+R02848,EXC,E5,GV,Venue not indexed (SCIRP)
+R00038,EXC,E4,DD,Withdrawn: IEEE notice of violation of publication principles
+R00554,EXC,E5,GV,Venue not indexed
+R00927,INC,I5b,HW,Network design to prevent pilferage (Bangladesh)
+R00955,EXC,E5,GV,Transparency in Telangana distribution; venue doubtful
+R01351,INC,I5b,HW,Wireless power theft detection in microgrids (India)
+R01504,EXC,E5,HW,No indexed venue
+R01820,INC,I5b,HW,Anti-theft energy metering (India)
+R01995,INC,I5b,HW,ARM/GSM electricity theft control system
+R02061,INC,I5b,HY,Optimum-Path Forest plus state estimation for NTL
+R02092,INC,I5b,DD,Spatial-temporal estimation of NTL (IEEE TPWRD)
+R02106,EXC,E5,GV,Long-run determinants of theft Pakistan; venue not indexed
+R02852,INC,I5a,GV,Combating electricity theft in India (ERSS 2015)
+R03125,EXC,E4,HY,No abstract/venue (likely thesis)
+R00291,EXC,E5,HW,Venue not indexed
+R00370,EXC,E5,GV,Venue not indexed (SCIRP)
+R00503,EXC,E5,GV,Venue not indexed
+R00509,EXC,E4,DD,Repository abstract
+R00725,INC,I5b,NW,NTL in microgrids (ICCPS); check
+R00819,EXC,E6,DD,arXiv version of R00900
+R00900,INC,I5b,DD,Neighbourhood features for NTL detection on large Brazilian data
+R01122,EXC,E2,HW,Generic meter design
+R01397,INC,RV,RV,Review (Pakistan focus) for T1
+R01462,INC,I5a,GV,Power theft as major cause of NTL in India
+R01896,EXC,E4,GV,IMF working paper; grey candidate
+R01897,EXC,E6,GV,Duplicate of IMF working paper
+R03061,EXC,E6,GV,Duplicate of IMF working paper
+R01996,INC,I5b,HW,Design preventing theft from pole-mounted distribution boxes
+R02069,EXC,E5,HW,Venue not indexed
+R02365,INC,I5a,HW,Meter tampering as major cause of NTL in India
+R02736,INC,I5a,GV,Determinants of electricity theft across Indian states (Energy Policy)
+R02822,EXC,E4,GV,Research highlight, not original study
+R03094,EXC,E4,GV,Sri Lanka loss-target study; grey candidate
+R00011,EXC,E4,GV,Dissertation
+R00292,INC,I5b,HW,Anti-shunt terminal block, K-Electric Pakistan
+R00293,EXC,E5,HW,Venue not indexed
+R00294,EXC,E5,GV,NTL economic impact Pakistan; venue indexing doubtful
+R00722,INC,I5b,DD,Is big data sufficient for NTL detection (biased inspection labels)
+R01380,INC,I5b,HW,Arduino/GSM theft control prototype
+R01572,EXC,E5,HW,Venue not indexed
+R01574,EXC,E4,DD,Dissertation
+R01611,EXC,E4,DD,Repository item
+R02263,INC,I5b,DD,Deep RNN on AMI data for NTL
+R02338,INC,I5b,DD,Fraud detection with socio-economic indicators and billing profile (Brazil)
+R02377,INC,I5b,HW,Prevention of illegal line tapping (Jammu and Kashmir)
+R02398,INC,I5b,HW,RF-based theft detection (South Africa)
+R02440,INC,I5a,GV,GIS for distribution network and theft, Karachi; check
+R02447,EXC,E5,DD,Venue not indexed
+R02450,INC,I5b,HW,Intelligent meter with theft detection
+R02563,EXC,E5,GV,Venue not indexed
+R02734,INC,RV,RV,Review (India) for T1
+R02752,EXC,E5,HW,Venue not indexed
+R02916,EXC,E5,HW,No indexed venue
+R02919,EXC,E5,HW,No indexed venue

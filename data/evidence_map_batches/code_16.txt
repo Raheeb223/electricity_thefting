@@ -1,0 +1,50 @@
+R03066|LKA|H|-|L|0|0|Tamper-proof smart meter with PF correction (prepaid/postpaid)
+R03071|NGA|H|-|S|0|0|Matrix converter low-frequency anti-tapping (simulation)
+R03081|CHN|S|Y|S|0|-|Weather-based PV power theft coefficients
+R03088|CHN|N|U|O|0|-|Big-data line-loss mining for theft early warning; on-site data
+X52|-|U|U|U|0|-|K-means theft identification (PESA 2022); no abstract
+R00125|-|S|U|O|0|-|Stacked generalisation with SVM-SMOTE and PCA
+R00163|-|S|Y|S|0|-|Deep RL (DQN/DDQN) theft detection scenarios
+R00165|-|S|U|O|0|-|Ensemble time-series classifiers for NTL
+R00184|CHN|S|R|O|0|-|SSA-GCAE-CSLSTM on SGCC
+R00218|-|S|Y|S|0|-|Evasion attacks vs DRL detectors and adversarial training
+R00231|-|S|Y|S|0|-|Privacy-preserving CAT AMI theft detection
+R00251|-|S|Y|S|0|-|Evasion attacks on adversarially trained federated detectors
+R00273|CHN|H|U|O|0|-|Outlier mining on transformer metering parameters
+R00287|-|S|Y|S|0|-|FedEVCP federated anomaly detection for EV charging piles
+R00308|-|S|Y|S|0|-|Cluster-based ensemble against evasion attacks
+R00361|-|U|R|O|0|-|NTLCONVNET + SHAP with staff operational and customer data (sub-Saharan Africa)
+R00364|THA|S|R|O|0|-|PEA AMR recurrence-plot imaging DL for theft/defective meters
+R00379|-|S|U|O|0|-|RF-based ensemble of CNN and LSTM
+R00402|-|S|U|O|0|-|Federated ConvGRU theft detection
+R00428|CHN+IRL|S|R|O|0|-|Convolutional joint distribution adaptation across regions (ISET, SGCC)
+R00429|-|S|Y|S|0|-|GAN evasion attack on global detectors and cluster countermeasure
+R00459|-|S|U|O|0|-|Hybrid RF + weighted SVDD
+R00471|-|S|R|O|0|-|MV-REMR representation learning on realistic NTL data
+R00477|CHN|S|R|O|0|-|CNN + STN on SGCC
+R00479|-|S|Y|S|0|-|ETD-ConvLSTM with observer meters
+R00498|-|S|U|O|0|-|Extremely randomised trees with SMOTE-Tomek
+R00515|-|S|Y|S|0|-|Majority-voting ensemble on TDD2022 dataset
+R00519|-|S|Y|S|0|-|AttenLSTMInception with six FDI variants
+R00525|COL|U|R|F|0|-|Geospatial analytics fraud detection; implemented in a NATURAL GAS utility (re-screen: off-topic E1 ?)
+R00593|CHN|S|R|O|0|-|HOUBC sampling + fractal network + LightGBM on SGCC
+R00595|BGD?|U|U|O|0|-|Imbalanced classification on 56,618 records 2017-2020; Bangladesh motivation, data source unclear (check ?)
+R00613|-|U|U|O|0|-|Modified deep ANN comparison
+R00660|IDN|M|R|O|0|-|KNN/LR + SMOTE on PLN customer data (monthly probable ?)
+R00668|-|S|R|O|0|-|DNN with Bayesian optimiser (duplicate of R00518 content ?)
+R00680|IRL|S|Y|S|0|-|Combined unsupervised detection and loss estimation, Irish data
+R00697|ZAF|H|-|L|0|0|Real-time theft monitoring with double data capture prototype
+R00708|USA|S|Y|S|0|-|Active learning on OEDI theft dataset
+R00727|-|S|U|O|0|-|Wide & deep CNN on primary data
+R00754|-|S|U|O|0|-|ROBC sampling + DenseNet-GRU-LightGBM
+R00766|IND|H|-|C|0|0|Theft risk assessment with smart meter/IoT/AI and auto disconnection
+R00783|CHN|S|R|O|0|-|LM neural network, 138 users of State Grid Shanghai (4 months)
+R00786|-|S|Y|S|0|-|Energy-aware CNN with positive bias/focal loss
+R00801|IND|H|-|C|0|0|IoT smart meters to reduce urban theft
+R00838|CHN|S|U|O|0|-|Contrastive learning + NILM, public and practical datasets
+R00850|PAK|S|Y|S|0|-|Meta-learner on PRECON-type EC dataset (Energy Informatics Group Pakistan)
+R00875|PAK|H|-|F|0|0|Smart meter case study with PESCO over 15 km2 (theft outcomes not reported ?)
+R00880|-|S|U|O|0|-|Two-layer stacked classifier with ADASYN
+R00919|IND|H|-|L|0|0|IoT DSTATCOM theft compensation prototype
+R00930|-|N|Y|S|0|-|Feature/algorithm comparison with PV and net metering (OpenDSS)
+R00941|BRA|M|R|F|0|-|HyMOTree on CPFL monthly data; field inspections guided by model 76% accuracy

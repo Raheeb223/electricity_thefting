@@ -1,0 +1,15 @@
+# batch_01 lines 1-90 (S4 rickshaw string). Format: record_id,decision,code,family,note
+DEFAULT,EXC,E1,,Not about electricity theft or unmetered/illegal E3W charging (vehicle design, solar charger, transport)
+R00644,EXC,E5,E3W,Bangladesh E3W energy use; venue not Scopus/WoS indexed (DIU journal)
+R02285,INC,I4,E3W,E3W charging load on Bangladesh grid (statistical analysis)
+R02485,INC,I4,E3W,Easy-bike charging peak load and demand-side management survey
+R00347,INC,I4,E3W,Informal e-rickshaw sustainability issues and policies (developing-country streets)
+R01422,INC,I4,E3W,E-rickshaw charging stations Bangladesh; check current charging practice
+R00874,INC,I4,E3W,E3W in Bangladesh prospects/challenges; charging practice and policy
+R02400,INC,I4,E3W,Garage charging of easy-bikes; grid overload detection hardware at ~USD 2
+R01016,INC,I4,E3W,E3W charging load optimisation Bangladesh
+R00979,INC,I4,E3W,E3W charging infrastructure and policy India
+R02149,EXC,E5,E3W,India e-rickshaw charging/registration policy; venue indexing doubtful
+R00056,EXC,E4,E3W,Industry report (AEEE India); candidate grey literature
+R02598,EXC,E4,E3W,News item (IEEE Spectrum)
+R01522,EXC,E1,E3W,Mentions unauthorised charging only in passing; topic is aerodynamics

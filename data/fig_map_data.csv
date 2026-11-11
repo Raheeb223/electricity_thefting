@@ -1,0 +1,53 @@
+panel,granularity,validation,n,period,labels,share
+a,Smart-meter / interval,Field,12,,,
+a,Smart-meter / interval,"Offline, real data",490,,,
+a,Smart-meter / interval,Simu- lation,229,,,
+a,Smart-meter / interval,Labor- atory,1,,,
+a,Smart-meter / interval,Concept,8,,,
+a,Smart-meter / interval,Unclear,21,,,
+a,Monthly / conventional meter,Field,11,,,
+a,Monthly / conventional meter,"Offline, real data",73,,,
+a,Monthly / conventional meter,Simu- lation,1,,,
+a,Monthly / conventional meter,Labor- atory,0,,,
+a,Monthly / conventional meter,Concept,0,,,
+a,Monthly / conventional meter,Unclear,1,,,
+a,Network measurements,Field,2,,,
+a,Network measurements,"Offline, real data",21,,,
+a,Network measurements,Simu- lation,87,,,
+a,Network measurements,Labor- atory,5,,,
+a,Network measurements,Concept,9,,,
+a,Network measurements,Unclear,4,,,
+a,Hardware prototype,Field,1,,,
+a,Hardware prototype,"Offline, real data",4,,,
+a,Hardware prototype,Simu- lation,13,,,
+a,Hardware prototype,Labor- atory,163,,,
+a,Hardware prototype,Concept,18,,,
+a,Hardware prototype,Unclear,13,,,
+a,Unclear,Field,6,,,
+a,Unclear,"Offline, real data",89,,,
+a,Unclear,Simu- lation,0,,,
+a,Unclear,Labor- atory,2,,,
+a,Unclear,Concept,6,,,
+a,Unclear,Unclear,107,,,
+a,None (conceptual),Field,0,,,
+a,None (conceptual),"Offline, real data",5,,,
+a,None (conceptual),Simu- lation,7,,,
+a,None (conceptual),Labor- atory,0,,,
+a,None (conceptual),Concept,9,,,
+a,None (conceptual),Unclear,1,,,
+b,,,11,2010-2015,Real labels,0.216
+b,,,9,2010-2015,Synthetic theft,0.176
+b,,,0,2010-2015,Unlabelled,0.0
+b,,,31,2010-2015,Unclear,0.608
+b,,,41,2016-2020,Real labels,0.218
+b,,,68,2016-2020,Synthetic theft,0.362
+b,,,4,2016-2020,Unlabelled,0.021
+b,,,75,2016-2020,Unclear,0.399
+b,,,80,2021-2023,Real labels,0.242
+b,,,90,2021-2023,Synthetic theft,0.272
+b,,,9,2021-2023,Unlabelled,0.027
+b,,,152,2021-2023,Unclear,0.459
+b,,,115,2024-2026,Real labels,0.239
+b,,,106,2024-2026,Synthetic theft,0.22
+b,,,12,2024-2026,Unlabelled,0.025
+b,,,249,2024-2026,Unclear,0.517

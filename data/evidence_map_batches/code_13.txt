@@ -1,0 +1,50 @@
+R02777|-|U|U|U|0|-|Adaptive synthesis + deep siamese network; no abstract
+R02788|-|U|U|U|0|-|Data-driven approach to reduce theft in developing countries (Utilities Policy); no abstract
+R02789|CHN|S|U|U|0|-|Instrument-transformer replacement stealing via daily load mining; no abstract
+R02793|-|U|U|U|0|-|BiGRU-BiLSTM theft detection; no abstract
+R02797|-|U|U|U|0|-|Evaluation of classifiers for NTL; no abstract
+R02807|-|U|U|U|0|-|CNN with unbalanced data techniques; no abstract
+R02821|-|U|Y|U|0|-|Synthetic theft attacks + GRU; no abstract
+R02830|CHN|U|U|U|0|-|BP-LM theft behaviour detection; no abstract
+R02837|-|U|U|U|0|-|Contrastive predictive coding in LV networks; no abstract
+R02841|CHN|H|-|U|0|-|Electromagnetic field detection module; no abstract
+R02842|CHN|U|U|U|0|-|Marketing inspection clustering/correlation; no abstract
+R02847|-|H|-|U|0|-|LoRa/Wi-Fi metering and theft detection; no abstract
+R02870|CHN|X|Y|S|0|-|Power gateway consortium blockchain for NTL
+R02884|-|N|Y|S|0|-|BP MLP on current/voltage-drop profiles
+R02998|-|S|Y|S|0|-|Covert theft attack and deep detector
+R03031|-|H|-|S|0|0|Double-connected data capture meter (Proteus)
+R03035|CHN|S|Y|O|0|-|WGAN augmentation for PV electricity theft
+R03072|-|N|Y|S|0|-|Detaching TL from NTL (simulation)
+R03154|-|S|U|U|0|-|Semi-automatic labelling of smart meter data; no abstract
+X41|IRL|S|N|S|0|-|SR-CNN/martingale labelling + boosted trees on Irish trial
+R00344|-|S|Y|S|0|-|Duffing-Holmes + 1D CNN with simulated fraud
+R00367|CHN|S|Y|S|0|-|Edge-computing Granger causality detection (simulation)
+R00368|-|S|R|O|0|-|BiWGAN + 2DCNN-BiLSTM on realistic dataset
+R00392|CHN|S|Y|S|0|-|High-value stealing behaviour model (simulation)
+R00423|-|X|-|S|0|0|Fuzzy rule-based AMI theft prevention model
+R00427|-|S|U|O|0|-|Boosting stacking ensemble with ADASYN
+R00468|-|S|U|O|0|-|LSTM + Bayesian optimisation detector
+R00504|CHN|S|R|O|0|-|GRU-CNN with ADASYN/TomekLinks on SGCC
+R00518|CHN|S|R|O|0|-|Time/frequency features DNN on benchmark (SGCC)
+R00571|-|S|Y|S|0|-|Decentralised federated learning with functional encryption
+R00576|-|H|-|L|0|0|IoT theft detection and localisation with geolocation
+R00706|IND|H|-|L|0|0|IoT theft detection in three-phase line
+R00720|-|S|R|O|0|-|Recurrent expansion deep learning on realistic theft dataset
+R00753|IND|H|-|L|0|0|Tariff digitalisation prototype for theft location
+R00769|-|S|Y|S|0|-|Online ML algorithms on recently proposed theft dataset
+R00798|GBR|S|Y|S|0|-|GA-SVM feature selection on London smart meter data
+R00830|CHN|S|R|O|0|-|GRA-based stacking ensemble on SGCC
+R00842|CHN|S|R|O|0|-|RFE + KNNOR + BiLSTM-LogitBoost on SGCC
+R00844|-|S|Y|S|0|-|CAT AMI theft detection with transmission patterns
+R00857|-|S|U|O|0|-|iANN with hybrid class balancing on real usage data
+R00889|CHN|S|Y|O|0|-|TLGRU synthetic theft attacks on SGCC
+R00893|ZAF|N|-|C|0|0|Amended two-point measurement NTLD with temporary AMI for municipalities
+R00906|CHN|S|R|O|0|-|Multi-label GCN stealing-type detection and forensics rules
+R00909|-|S|R|O|0|-|AlexNet-AdaBoost-ABC on real smart meter data
+R00926|-|S|Y|S|0|-|BiGRU-BiLSTM with six synthetic theft variants
+R00937|CHN|S|R|O|0|-|AE-BiGRU on SGCC
+R00938|-|S|Y|S|0|-|Ensemble detector against adversarial evasion
+R00948|CHN|S|R|O|0|-|HORLN hybrid-order representation on benchmark (SGCC)
+R00954|-|S|Y|S|0|-|DRFD real-time false reading detection
+R00963|-|S|Y|S|0|-|Fine-tuned RNN for generation-domain theft

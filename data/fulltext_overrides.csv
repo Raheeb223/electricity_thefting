@@ -1,0 +1,17 @@
+record_id,CTY,GR,LB,VL,E3W,GOVM,page,evidence
+R00480,IDN,M,R,F,,,1,"Field validation across 12,407 consumer inspections confirmed a detection rate of 72.0%, compared to 15.3% under the incumbent rule-based system"
+R01782,BRA,M,R,F,,,1,"The proposed methodology was field tested, resulting in a 2.2 times greater fraud inspection success rate, and the model was effectively implemented on the internal processes of the company"
+R00957,HND,S,R,O,,,2,daily consumption data per meter ID ... a list of 199 verified cases of fraud within the 22 given months (smart metering system of ENEE)
+R00722,BRA,M,R,O,,,2,"It uses the average consumption of the previous 12 months ... 3.6M Brazilian customers and 820K inspection results (same monthly dataset as R00882, p3)"
+R00882,BRA,M,R,O,,,3,The available data per customer m is a complete time series of monthly meter readings of electricity consumption in kWh over the last N months before the most recent inspection
+R02232,ESP,M,R,F,,,8,"campaigns were conducted on three medium-size locations (population between 50,000 and 100,000) to experimentally test the efficiency of our methods"
+R01899,ESP,M,R,F,,,1,"With these modules, the success of the inspections is multiplied by 3."
+R01440,BGD,H,-,F,1,,1,"12-day field trial (three stations, one gateway; N=350), 96.8% of the authentication was successful"
+R02556,CHN,S,R,F,,,2,"During the monthly on-site investigation in August of 2019, we successfully caught electricity thieves in Hangzhou ... improvement in precision from 0% to 15%"
+R01489,CHN,S,U,F,,,6,22 cases were confirmed to be true through door-to-door inspection.
+R01850,-,M,R,F,,,1,Our proposed method was tested by the utility company and initial results show ~75% precision in detecting new NTL cases.
+R02446,BGD,H,-,S,,0,1,Reducing Electricity Theft by Low Frequency Control Scheme in Bangladesh (proposal with simulation; no field test)
+R02997,TUN,M,R,O,,,1,"In this paper, we obtain meaningful insights from fraud detection using real datasets of Tunisian electricity consumption metered by conventional meters."
+R00595,BGD?,S,U,O,,,2,The present study utilizes data obtained from prepaid electricity meters following their meter recharge. (country of data not stated; authors in Dhaka)
+R00472,THA,M,R,O,,,3,"The information used is specific to Southern Area 3 PEA, which EC obtains from automatic readings and from checker reading units every month ... recorded the results of the actual inspections on-site in 3 classes"
+R00864,THA,M,R,O,,,1,"in Thailand, over 90% of meters remain conventional mechanical units or digital meters with one-way communication that require manual monthly readings by field operators ... 36 monthly timesteps"

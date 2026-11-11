@@ -1,0 +1,18 @@
+# batch_01 lines 91-170 (S4 end; S3 Bangladesh 2010-2014 start)
+DEFAULT,EXC,E1,,Not about electricity theft/NTL or illegal E3W charging (renewables, transport, generation, rural electrification)
+R01440,INC,I4,E3W,Unauthorised e-rickshaw charging overloads feeders; RFID/LoRa authentication prototype
+R01968,INC,I4,E3W,Impact of battery 3W charging on Dhaka local grid
+R00240,INC,I4,E3W,Field measurements of chargers in 10 Dhaka garages
+R00590,INC,I4,E3W,Field socio-technical assessment of easy-bikes; clustered overnight charging, grid stress (ESD 2026)
+R00330,INC,I4,E3W,Economic impact of battery auto-rickshaws in Bangladesh; check charging/theft content
+R02859,INC,I4,E3W,Delhi e-rickshaw drivers' charging preferences and infrastructure
+R00108,EXC,E5,E3W,Zenodo upload, not peer reviewed
+R01307,EXC,E4,E3W,Scoping review protocol (preprint); note as related work
+R02991,EXC,E4,E3W,SSRN preprint (design standard)
+R02969,EXC,E4,E3W,SSRN preprint (LCA)
+R00027,EXC,E4,BD,World Bank book on rural energy; candidate grey literature
+R03033,EXC,E4,BD,No venue; mentions system loss and corruption
+R03174,EXC,E4,BD,Book chapter, no abstract
+R00177,EXC,E5,GV,BPDB organisational inefficiency; venue not indexed
+R02564,EXC,E5,BD,System loss reduction Bangladesh; venue not indexed
+R02032,INC,I5b,HW,Smart meter prototype for loss reduction in Bangladesh distribution

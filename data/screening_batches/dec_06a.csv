@@ -1,0 +1,107 @@
+# batch_06 lines 1-125 (S1 2017-2019)
+DEFAULT,EXC,E1,,Not consumer electricity theft/NTL (cyber/privacy/FDIA only, other domains, generic metering)
+R03149,EXC,E4,DD,No venue/abstract
+R03152,EXC,E4,HW,No venue
+R03163,EXC,E6,NW,Duplicate of R01890
+R03169,EXC,E4,HW,No venue
+R03173,EXC,E4,GV,No venue
+R00094,EXC,E4,GV,Indonesian legal article (non-English)
+R00490,EXC,E4,GV,Thesis (Indonesian)
+R00628,INC,I5b,DD,SVM NTL detection, Alexandria Electricity Distribution Company Egypt (RE&PQJ)
+R00649,EXC,E1,DD,Data falsification attacks (not consumer theft focus)
+R00664,INC,I5b,DD,ANN theft detection (ISGT Europe)
+R00858,INC,I5b,NW,GTHI malicious user detection (IEEE TNSE)
+R00972,INC,I5b,DD,Combined data-driven theft detection (IEEE TII 2018)
+R00993,EXC,E5,HW,Zenodo
+R01014,INC,I5b,DD,Wavelet-packet + RUSBoost NTL detection (IEEE TPWRS 2018)
+R01064,INC,I5b,DD,Analytics for theft and metering defects in AMI
+R01095,INC,I5b,NW,ABSI adaptive binary splitting meter inspection (IEEE TIFS)
+R01101,INC,I5b,DD,Intelligent NTL management, residential users, Colombia (Ing. e Inv.)
+R01176,EXC,E4,DD,Conference abstract (QF ARC)
+R01222,INC,I5b,DD,ML techniques for theft detection in AMI
+R01260,INC,I5b,DD,AdaBoost-SVM + GRNN stealing-period identification (IECON)
+R01505,INC,I5b,NW,Multi-timescale theft detection via state estimation and PMU (e-Energy)
+R01588,INC,I5b,DD,Outlier detection algorithms for theft
+R01621,INC,I5b,NW,State-estimation theft detection with privacy (ICC)
+R01627,EXC,E4,DD,Thesis
+R01634,INC,I5b,NW,NTL identification via state estimation and geometric tests (SBSE)
+R01684,INC,I5b,DD,Multi-view stacking ensemble for consumption anomaly (IEEE Access)
+R01701,INC,I5b,DD,NTL detection with smart meter data and supervised learning (IEEE TSG 2018; Endesa)
+R01780,INC,I5b,DD,Neighbourhood information in NTL detection (PES GM; Uruguay)
+R01789,INC,I5b,DD,Deep recurrent theft detection with random hyper-parameter tuning
+R01800,INC,I5b,HW,BPL-based detection of hook-style theft (Trends in Renewable Energy)
+R01815,INC,I5b,DD,Committee semi-supervised fraud detection (IJCNN) - label scarcity
+R01857,INC,I5b,DD,Reducing biases (imbalance, covariate shift) in NTL data sets
+R01876,EXC,E4,DD,Book chapter
+R01994,INC,I5b,DD,PCA reconstructed data theft detection (IET CPS)
+R02046,INC,RV,RV,Theories/applications of ML for NTL (conference survey)
+R02062,INC,I5b,DD,Unsupervised classification for NTL on DSO data (PSCC)
+R02064,EXC,E5,RV,Venue not indexed
+R02068,EXC,E5,RV,No venue
+R02087,INC,I5b,DD,Generative models for theft detection (ICTAI)
+R02122,INC,I5b,DD,Abnormal electricity mode detection (MATEC)
+R02158,EXC,E6,HW,Companion paper of R01800
+R02160,INC,I5b,DD,Detectors vs optimal attack vectors for theft and DER fraud (IEEE JSTSP)
+R02173,INC,I5b,DD,Multi-feature fusion anomaly detection
+R02206,EXC,E6,HW,Companion paper of R01800
+R02239,INC,I5b,DD,DNN theft detection in AMI (WCNC)
+R02250,EXC,E5,HW,Venue not indexed
+R02262,EXC,E4,GV,Thesis (Indonesian prepaid meters)
+R02301,INC,I5b,DD,Probabilistic OPF classifier for NTL (IEEE TSG)
+R02372,EXC,E5,HW,No venue
+R02380,INC,I5b,DD,Energy fraud detection in AMI
+R02397,EXC,E2,HW,Simulation only, weak
+R02449,EXC,E1,HW,AMI security simulation
+R02457,INC,I5b,DD,Distribution test system for NTL detection benchmarking (NAPS)
+R02469,INC,I5b,DD,Statistical distance theft detector (NCC)
+R02492,INC,I5b,DD,Ensemble decision tree anomaly detection
+R02493,INC,I5b,HW,Prepaid-postpaid meter with theft control (UPCON)
+R02532,INC,I5b,HW,Overload and theft detection (RTEICT)
+R02547,INC,I5c,HY,NTL detection and prepaid system, Cameroon; check venue
+R02562,INC,I5b,NW,Voltage-deviation NTL localisation radial networks (HJIC)
+R02571,INC,I5b,DD,Comparison of ML for theft detection
+R02575,INC,I5c,HY,Post-AMI-deployment lessons, Eastern Maine Electric Coop (REPC)
+R02599,EXC,E5,RV,Venue not indexed
+R02611,EXC,E4,DD,Tutorial slides
+R02628,INC,I5b,DD,Big data analytics for NTL (Computational Management Science)
+R02638,INC,I5b,DD,Anomaly framework for theft and defective meters (IJEPES)
+R02686,INC,I5b,DD,Multi-scale DenseNet theft detection (LNCS)
+R02689,INC,I5b,HY,Monitoring-based IDS for DIET attack in AMI (LNCS)
+R02749,EXC,E5,HW,Venue not indexed
+R02768,EXC,E4,HW,No venue
+R02774,EXC,E4,HW,No venue
+R02832,INC,I5b,HY,Detecting/mitigating theft in smart metering infrastructure (TESG)
+R02839,EXC,E4,DD,Retracted chapter
+R02845,INC,I5b,DD,SmartFD real big data fraud detection (LNCS)
+R02874,INC,I5a,GV,Theft and privatisation effects on Turkish distribution losses
+R02894,EXC,E5,HW,Venue not indexed
+R02899,EXC,E5,HW,Venue not indexed
+R02962,INC,I5b,NW,Coded grouping-based inspection algorithms (Computers & Security)
+R03029,INC,I5b,DD,Clustering-based novelty detection for NTL (IJEPES)
+R03042,INC,I5b,DD,Pattern classification + Levenberg-Marquardt for illegal consumers (IJEPES)
+R03068,INC,I5c,GV,Investment in anti-theft equipment and inspections in socioeconomic market model (EEM)
+R03078,INC,I5b,DD,Forecasting electricity loss, Thailand PEA (FP-ELM)
+R03085,EXC,E1,HW,AMI protection
+R03101,EXC,E4,HW,No venue
+R03105,EXC,E4,HW,No venue
+R03109,EXC,E4,DD,No venue
+R03110,EXC,E4,HW,No venue
+R03117,EXC,E4,NW,No venue
+R03121,EXC,E4,HW,No venue
+R03137,EXC,E4,HW,No venue
+R03142,EXC,E4,RV,No venue
+R03144,EXC,E4,HW,No venue
+R03153,EXC,E4,HW,No venue (silicone piping against hooking); find published version
+R03170,EXC,E4,DD,No venue
+R00046,EXC,E4,DD,Dissertation
+R00079,INC,I5c,GV,Legal comment on removal of illegal connections (Eskom v Masinda); check venue
+R00095,EXC,E4,DD,Dissertation (Glauner)
+R00192,INC,I5b,DD,PPETD privacy-preserving theft detection with billing (IEEE Access)
+R00335,EXC,E5,HW,Venue not indexed
+R00391,EXC,E5,HW,Zenodo
+R00470,INC,I5b,DD,Neural networks on smart meter data (ASTESJ)
+R00579,INC,I5b,DD,CNN-LSTM theft detection (Energies 2019)
+R00583,INC,I5b,NW,Fact, place and volume of losses in LV/MV networks
+R00594,INC,I5b,DD,SVM theft detection (ICASERT)
+R00609,INC,I5b,DD,AUD-MTS multi-step clustering abnormal users (Energies)
+R00617,INC,I5b,DD,Importance sampling for NTL with smart meters (CIRED)

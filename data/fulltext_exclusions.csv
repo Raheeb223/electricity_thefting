@@ -1,0 +1,4 @@
+record_id,code,reason,page,quote
+R00525,E1,natural gas utility: losses measured in cubic metres; electricity only discussed as background,7,Estimated lost monthly m3
+R02442,E6,"abstract-level duplicate: same platform, data and result (91.70%) as R02406 (bettiol2023detection); full text not available",,abstract
+R01544,E1,"theft of network equipment (wires, transformers), not theft of electricity or NTL; re-screen at abstract level",,abstract

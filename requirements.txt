@@ -1,0 +1,17 @@
+# HTTP and API access
+requests>=2.32
+# Data handling
+pandas>=2.2
+openpyxl>=3.1
+# Reference handling (BibTeX parsing/writing, RIS import)
+bibtexparser>=1.4,<2
+rispy>=0.9
+# Fuzzy title matching for deduplication and verification
+rapidfuzz>=3.9
+# Figures
+matplotlib>=3.9
+seaborn>=0.13
+# Progress bars for long searches
+tqdm>=4.66
+pypdf>=5.0
+textstat>=0.7

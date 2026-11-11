@@ -1,0 +1,50 @@
+R01535|CHN|S|Y|S|0|-|Dual clustering (improved K-means + curve similarity) residential theft model
+R01542|IND|H|-|C|0|0|Fault Sleuth IoT anomaly and theft mitigation architecture
+R01579|CHN|S|U|O|0|-|LSTM autoencoder with KDE threshold
+R01582|IND|H|U|L|0|0|IoT + DNN pilferage detection prototype
+R01591|CHN|S|U|O|0|-|APAA + DTW-LOF + AP clustering multi-time-scale theft in LV areas
+R01607|BRA|S|U|F|0|-|TCN with limited data; 2023 Sao Paulo pilot: 19% NTL reduction in 6 months (claims to verify ?)
+R01608|CHN|S|R|O|0|-|Classification vs anomaly detection on SGCC
+R01623|TUR|U|R|O|0|-|ML on >53 million samples, Turkish utility case study
+R01648|CHN|S|U|O|0|-|NILM + behaviour profiling + semi-supervised GNN theft identification
+R01651|IDN|M|R|O|0|-|BiLSTM on PLN consumption sequences vs traditional 4.16% precision (monthly probable ?)
+R01656|-|S|U|O|0|-|Adaptive deep architecture with graph, transformer and neural ODE
+R01664|USA|S|Y|S|0|-|FFNN for DG generation-side theft on synthetic California solar data
+R01686|CHN|S|U|O|0|-|Density clustering outlier scores + weighted broad learning
+R01692|-|S|U|O|0|-|Stacked ensemble + TCN with sigma outlier detection
+R01702|-|S|U|O|0|-|Federated vs distributed learning comparison for theft detection
+R01711|IND|H|-|L|0|0|Smart metering system with theft detection and prepaid recharge
+R01735|IND|H|-|S|0|0|Smart energy meter theft detection (Proteus simulation)
+R01743|BRA|M|R|O|0|-|GA-optimised inspection routes with moving-average theft energy estimates
+R01824|IND|H|U|L|0|0|IoT + ML theft detection system
+R01830|-|H|-|L|0|0|Power management system with theft detection prototype
+R01914|ESP|S|U|O|0|-|Fuzzy characterisation of consumption drops for fraud detection
+R01920|BGD?|M|-|O|0|-|Tariff category (residential vs commercial) misassignment classification from conventional-meter seasonal usage; venue ECCE (Chittagong?) - check country
+R01945|-|H|-|L|0|0|Arduino/ESP8266/Blynk threshold theft detection prototype
+R01954|-|S|U|O|0|-|FSL-ResTransNet few-shot learning
+R01970|IND|H|-|C|0|0|Zigbee monitoring with endangering high-voltage concept
+R01975|-|S|U|O|0|-|Dual-cloud BGN-encrypted SOM-CNN training
+R01984|-|S|R|O|0|-|Supervised contrastive ResNet on real smart meter datasets
+R02019|-|S|R|O|0|-|xAI feature selection for RF/CatBoost/VAE/LSTM-AE, daily readings of 40,000 customers over 3 years
+R02040|USA|S|Y|S|0|-|CNN-RF on public hourly OEDI-type dataset with 16 consumer categories
+R02063|TUR+CHN|U|R|O|0|-|Customer-level aggregation exposes leakage; AUC-PR falls >80% with customer split (Turkish utility, SGCC replication)
+R02078|IRL|S|Y|S|0|-|1D quantum CNN on Irish Smart Energy Trial
+R02080|-|S|U|O|0|-|LoadGuard transformer + dynamic-weight multi-head classifier
+R02101|BRA|M|R|O|0|-|RF/GB for defective meters with reading notes and registration data; 72% precision
+R02103|URY|S|R|F|0|-|DeepDAICE multimodal (low- and high-resolution) vs UTE deployed model; field inspections validate
+R02119|IND|H|-|L|0|0|GSM/IoT theft detection with voltage protection
+R02120|-|S|U|O|0|-|DNN fraud detection in smart grids
+R02152|BRA|N|Y|S|0|-|Anomaly Intensity Index from smart meter data for NTL and HIF
+R02156|-|S|U|O|0|-|Stacked RF/XGBoost/LR with ADASYN
+R02157|IND|M|U|O|0|-|Feature-based ML on monthly consumption statistics (labels unclear ?)
+R02159|-|S|R|O|0|-|Feature importance of smart meter time series with RF/XGBoost on large public dataset
+R02226|NGA|S|N|O|0|-|One-class SVM on one month of apartment real-time data
+R02256|COL|U|R|O|0|-|CNN-LSTM-DNN + XGBoost on 63,000 CENS users (Norte de Santander)
+R02267|BRA|N|Y|S|0|-|Top-down LV theft spot detection with thermal sensors and IoT data
+R02315|IND|H|-|L|0|0|Smart meter with tamper voice alert
+R02319|CHN|S|R|O|0|-|Dilated convolutions + multi-head attention on real consumption data
+R02320|-|H|-|L|0|0|IoT prepaid meter with theft monitoring and control
+R02327|-|S|R|O|0|-|Grad-CAM explainable theft detection
+R02334|IRL|S|Y|S|0|-|Paillier-encrypted federated transformer on Irish data
+R02345|CHN|S|Y|S|0|-|Group fixed-proportion theft detection (simulation)
+R02352|-|S|U|O|0|-|Theft and anomaly detection in 4G/5G base stations

@@ -1,0 +1,50 @@
+R03065|-|X|-|S|0|-|Loss estimation accounting for clandestine connections
+R03069|NGA|X|-|C|0|-|Review of losses in Nigeria
+R00723|ZAF|Q|-|Q|0|0|Tshwane employee survey on loss causes
+R00779|JAM|Q|-|Q|0|-|Remittances and power losses (VECM)
+R01618|ZAF|Q|-|Q|0|-|Umlazi self-connection ethnography
+R02316|COL|Q|-|Q|0|-|Colombia loss factors econometrics
+R03027|NGA|X|-|C|0|0|Metering evolution Nigeria
+R03050|IND|Q|-|Q|0|-|Conjoint experiment on theft acceptability UP
+R00485|NGA|Q|-|Q|0|-|Lagos household theft prevalence survey
+R00751|MULTI|X|-|C|0|0|NTL global perspective
+R01833|IND|Q|-|Q|0|-|Haryana customer attitude survey
+R02344|COD|Q|-|Q|0|-|Lubumbashi electricity market surveys
+R02823|MULTI|U|-|U|0|-|Smart metering in EU and theft; no abstract
+R02936|IND|Q|-|Q|0|-|Smart grid acceptance barriers India
+R03056|UGA|Q|-|Q|0|-|Kampala transgression and illegal connections
+R00219|ZAF|Q|-|Q|0|-|Energy justice informal settlements
+R00523|GHA|Q|-|Q|0|0|Prepaid meter failure impacts survey
+R00618|COD|Q|-|Q|0|-|Lubumbashi access mode mapping survey
+R00686|UGA|Q|-|Q|0|-|Kampala coping strategies fieldwork
+R01213|BRA|Q|-|O|0|-|Socio-economic variables vs NTL, southern Brazil city
+R01934|NGA|Q|-|Q|0|-|Electricity loss and GDP (VAR)
+R01973|ZAF|Q|-|Q|0|-|KwaXimba illegal connections interviews
+R02056|MULTI|Q|-|Q|0|-|Rule of law and T&D losses panel
+R02339|PAK|Q|-|Q|0|1|Service-quality effect on theft, 8 DISCO panel
+R02860|UKR|Q|-|C|0|-|Forensic characteristics of theft offences
+R02869|NGA|Q|-|Q|0|-|Edo State consumer survey
+R01456|BRA|Q|-|O|0|-|NTL spatial socio-economic index
+R01538|BRA|Q|R|O|0|-|Spatial correlation of irregular cases Florianopolis
+R01933|ZAF|X|-|C|0|0|Organised crime and theft chapter
+R02238|BRA|Q|-|Q|0|-|NTL vs socio-economic variables N/NE Brazil
+R00171|IND|Q|-|Q|0|-|Rural/urban surveys on theft and power quality
+R00225|THA|Q|-|C|0|0|Bitcoin-mining theft risk management MEA
+R00226|IND|Q|-|Q|0|0|Informal governance IAD Malihabad
+R00374|TZA|Q|-|Q|0|-|Dar es Salaam unruly access
+R00707|-|X|-|C|0|0|Theft challenges and solutions overview
+R00905|-|Q|-|Q|0|0|Community awareness survey with utility audit data
+R00953|BGD|N|-|S|0|0|Tongi DESCO substation loss reduction (ETAP)
+R00994|UGA|Q|-|Q|0|0|Kampala participatory action research solutions
+R01144|COD|Q|-|Q|0|-|Kinshasa household theft determinants (logit)
+R01180|PAK|Q|-|Q|0|-|Peshawar PESCO officials survey
+R02401|IND|Q|-|Q|0|-|Governance capacity and AT&C losses state panel
+R02722|-|U|-|U|0|-|Theft and payment habits ML; no abstract
+R03077|COD|Q|-|Q|0|-|Lubumbashi theft and service quality
+R00156|IND|Q|-|Q|0|-|Collectivism and household theft (national survey)
+R01423|KEN|Q|-|Q|0|-|Mathare electrical hazards from illegal connections
+R02871|TUR|N|-|O|0|-|Transformer AMR anomalies indicate NTL (Dicle)
+R00876|MYS|S|R|F|0|-|TNB large-consumer NTL detection; pilot onsite inspections 55% hit rate
+R01109|IND|X|-|S|0|-|Harmonic injection concept to punish theft
+R02210|-|U|U|O|0|-|Optimum-path forest NTL detection
+R02466|ESP|M|R|O|0|-|Endesa text mining + NN on consumption/contract data; real cases

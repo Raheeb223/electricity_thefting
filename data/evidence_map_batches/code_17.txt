@@ -1,0 +1,50 @@
+R00943|-|S|Y|S|0|-|DNN IDS on ~2,000 customers with injected attacks
+R00980|-|U|R|O|0|-|GAF + ResNet NTL detection on fraud/non-fraud subscriber data
+R01000|CHN|S|R|O|0|-|Transformer with synthesised anomalies on SGCC
+R01019|-|S|Y|S|0|-|XGBoost with six artificial theft attacks, region-specific features
+R01023|IRL|S|Y|S|0|-|Multi-task residual network for theft and time period, Irish data
+R01039|IND|H|-|L|0|0|Arduino theft detection and protection in distribution lines
+R01040|-|S|U|O|0|-|Federated CNN-BiGRU-Attention framework
+R01077|-|S|U|O|0|-|Blockchain privacy-preserving LSTM detection
+R01081|EGY|H|-|L|0|0|Microgrid EMS prototype with theft detection; field testing of prototype
+R01083|IND|H|-|L|0|0|IoT energy monitoring and theft detection (Blynk)
+R01094|IND|M|U|O|0|-|ML classifiers on prepaid users' monthly bill history (labels unclear ?)
+R01100|-|U|U|O|0|-|PSO/GWO balancing + classifiers for fraud prediction
+R01108|CHN|S|R|O|0|-|TimeGAN + multi-time-scale network + CatBoost on SGCC
+R01255|-|S|U|O|0|-|Hybrid CNN-Transformer (DSDB + GWT)
+R01259|-|S|Y|S|0|-|Semi-supervised outlier detection with 20 features under 8 FDI attacks
+R01270|BRA|X|-|S|0|-|U-net building segmentation in satellite images for NTL
+R01288|-|S|U|O|0|-|Supervised contrastive learning ETD
+R01303|BRA|M|R|F|0|-|AI tool for irrigant consumers; pilot area application, 63% accuracy, 78% search-area reduction
+R01310|CHN|S|U|O|0|-|Multi-self-attention dilated convolution anomaly detection
+R01346|CHN|S|U|O|0|-|DLMVI-VAE-rACGANs-RD in LV stations
+R01367|IND|H|-|L|0|0|IoT smart meter theft alert with functional encryption
+R01378|CAN|S|Y|S|0|-|Knowledge-based synthetic attacks on AMPds2 smart home data
+R01442|GRC|H|-|L|0|0|Islanding/neutral loss/tampering detection kit prototype
+R01454|DZA|M|R|O|0|-|Robust Holt-Winters fraud detection, ~2,000 Algerian clients, 14 years monthly (labels probable ?)
+R01475|CHN|S|R|O|0|-|Contrastive learning + cluster combination on SGCC (unsupervised)
+R01482|ROU|U|R|O|0|-|Data mining for high-risk fraud areas from real investigations
+R01491|CHN|S|U|O|0|-|Water-electricity usage correlation for zero-usage thieves; real-world experiments
+R01492|IRL|S|Y|S|0|-|Semi-supervised incremental ETD with hybrid replay, ISET
+R01541|GBR|S|Y|S|0|-|EDA techniques (PCC/FCM/DBSCAN) on UK Power Networks data with theft scenarios
+R01551|GBR|S|Y|S|0|-|Decentralised federated XGBoost across DSOs, Low Carbon London
+R01558|-|S|U|O|0|-|Autoencoder + PMU theft detection
+R01570|-|S|U|F|0|-|Cloud CNN theft detection system tested under real-life conditions (vague ?)
+R01578|CHN|S|U|O|0|-|Optimised deep learning on massive real consumer dataset
+R01584|THA|S|R|O|0|-|PEA AMR feature extraction (Prony) for theft/defective meters
+R01594|-|S|U|O|0|-|PCA + CNN theft detection
+R01600|CHN|U|U|O|0|-|Improved fuzzy C-means stealing detection
+R01640|CHN|S|R|O|0|-|Attention maps explainable detection on SGCC
+R01657|KOR|S|R|O|0|-|VAE-GAN augmentation + 1D CNN on practical dataset
+R01660|CHN|S|R|O|0|-|Deep active learning on SGCC
+R01672|-|S|Y|S|0|-|Unsupervised GMM + attention BLSTM with contaminated training data
+R01691|ROU|U|R|O|0|-|High-risk fraud area analysis from field inspection data, smart and non-smart grids
+R01698|-|S|Y|S|0|-|Multivariate detector with voltage and losses
+R01706|-|S|U|O|0|-|CNN-GRU hybrid
+R01728|IRN|N|-|S|0|-|Harmonic state estimation to locate illegal crypto-mining (IEEE 18-bus)
+R01732|-|S|U|O|0|-|Federated learning with differential privacy
+R01737|MLT|S|N|O|0|-|Clustering anomaly scores on Maltese smart meter data
+R01770|-|S|Y|S|0|-|Self-learning dual neural network for consumption and PV generation theft
+R01787|CHN|S|R|O|0|-|AlexNet feature extraction on Chinese smart meter data
+R01798|-|S|R|O|0|-|Simple data augmentation tricks on real-world dataset
+R01799|-|S|Y|S|0|-|Shewhart variance chart ranking of dishonest customers

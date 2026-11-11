@@ -1,0 +1,101 @@
+id,citation_key,rubric,items,score,band,read_level,provisional
+R00176,ariasmarin2025methodological,M,1 0.5 0.5 1 1 0 0.5 0.5,0.625,medium,abstract,yes
+R00311,altamimi2025how,M,1 1 0.5 0.5 1 0 0.5 1,0.688,medium,abstract,yes
+R00337,toledoorozco2021innovative,M,0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5,0.5,medium,abstract,yes
+R00365,taruna2025electricity,M,1 1 1 0.5 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R00430,arisona2025classification,M,1 1 1 0.5 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R00431,norouzi2025novel,M,1 1 0.5 0.5 0.5 0 0.5 0.5,0.562,medium,abstract,yes
+R00480,haramaini2026hybrid,M,1 1 1 1 1 1 0.5 1,0.938,high,full text,no
+R00678,orozcoceron2026comparing,M,1 1 1 1 1 0 0.5 1,0.812,high,abstract,yes
+R00854,binhalabi2019remote,M,1 0 0.5 0.5 0.5 0.5 0 1,0.5,medium,full text,no
+R01017,zheng2018wide,M,0.5 0.5 0.5 0.5 1 0 0.5 0.5,0.5,medium,abstract,yes
+R01022,soleimaninasab2022effect,M,0.5 0.5 0.5 0.5 1 0 0.5 1,0.562,medium,abstract,yes
+R01066,hu2019utilizing,M,0.5 1 0.5 0.5 0.5 0 0.5 0.5,0.5,medium,abstract,yes
+R01109,depuru2010conceptual,M,0.5 0 0 0.5 0 0 0 1,0.25,low,abstract,yes
+R01198,saeed2019ensemble,M,1 0.5 0 0.5 1 0.5 0.5 0.5,0.562,medium,abstract,yes
+R01224,massaferro2022fraud,M,1 1 0.5 0.5 1 0 0.5 0.5,0.625,medium,abstract,yes
+R01254,liao2024sample,M,0.5 0.5 1 1 1 0 0.5 0.5,0.625,medium,abstract,yes
+R01285,barros2022maximizing,M,1 1 0.5 1 1 1 0.5 1,0.875,high,abstract,yes
+R01414,massaferro2020fraud,M,1 1 1 0.5 1 0.5 0.5 1,0.812,high,abstract,yes
+R01432,yang2022detection,M,1 0 1 1 1 0 0.5 0.5,0.625,medium,full text,no
+R01449,punmiya2019energy,M,0.5 0 1 0.5 1 0 0.5 0.5,0.5,medium,abstract,yes
+R01562,leite2018detecting,M,0.5 0 0.5 0.5 0.5 0.5 0.5 0.5,0.438,low,abstract,yes
+R01569,huang2013non,M,1 0 0.5 0.5 0.5 0.5 0.5 0.5,0.5,medium,abstract,yes
+R01632,saqib2024deep,M,0.5 0.5 1 0.5 1 0 0.5 0.5,0.562,medium,abstract,yes
+R01647,menezes2026geospatial,M,1 1 0.5 0.5 0.5 1 0.5 1,0.75,high,abstract,yes
+R01660,zhu2024deep,M,1 0.5 0.5 0.5 1 0 0.5 1,0.625,medium,abstract,yes
+R01701,buzau2019detection,M,1 1 0.5 1 1 1 0.5 0.5,0.812,high,abstract,yes
+R01804,jokar2016electricity,M,1 0.5 0.5 0.5 0.5 0 0.5 1,0.562,medium,abstract,yes
+R02006,messinis2019hybrid,M,0.5 0 0.5 0.5 0.5 0 0.5 0.5,0.375,low,abstract,yes
+R02093,gremes2024ntl,M,1 0.5 0.5 1 0.5 0 0.5 0.5,0.562,medium,abstract,yes
+R02234,kim2019detection,M,1 0 0.5 0.5 0.5 0 0 0.5,0.375,low,full text,no
+R02370,khazaee2017distribution,M,1 1 0.5 0.5 0.5 1 0 0.5,0.625,medium,abstract,yes
+R02473,louw2019alternative,M,1 0.5 0.5 0.5 0.5 0.5 0 1,0.562,medium,full text,no
+R02632,henriques2020monitoring,M,0.5 0 0.5 0.5 0.5 0 0.5 0.5,0.375,low,abstract,yes
+R02645,aryanezhad2019novel,M,0.5 0 0.5 0.5 0.5 0.5 0 0.5,0.375,low,abstract,yes
+R02728,firoozi2022non,M,0.5 0 0.5 0.5 0.5 0 0.5 0.5,0.375,low,abstract,yes
+R03009,biswas2020electricity,M,1 0 0.5 0.5 1 0 0.5 1,0.562,medium,abstract,yes
+R00875,ali2023prevention,M,1 0.5 0.5 0.5 0.5 1 0 0.5,0.562,medium,abstract,yes
+R02446,sayem2020reducing,M,0 0 0 0.5 0 0 0 0.5,0.125,low,abstract,yes
+R00226,balani2025from,E,1 1 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R00240,hossain2026measuring,E,1 1 1 0.5 1 1,0.917,high,abstract,yes
+R00347,khan2020e,E,1 0.5 1 0.5 0.5 0.5,0.667,medium,abstract,yes
+R00590,chowdhury2026operational,E,1 1 1 0.5 0.5 1,0.833,high,abstract,yes
+R00626,jamil2014empirical,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R00633,arafat2022prospects,E,1 0.5 0.5 0.5 0 0.5,0.5,medium,abstract,yes
+R00686,yaguma2024don,E,1 1 1 0.5 0.5 1,0.833,high,abstract,yes
+R00874,hossain2022affordable,E,1 0.5 0.5 0.5 0.5 0.5,0.583,medium,abstract,yes
+R00953,alam2025optimizing,E,1 1 1 1 0.5 0.5,0.833,high,full text,no
+R00994,kersey2025then,E,1 1 1 0.5 0.5 1,0.833,high,abstract,yes
+R01144,kankonde2025bridging,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R01295,savian2022non,E,1 1 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R01422,hasan2020electric,E,1 1 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R01631,otchereappiah2021impact,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R01764,leite2020stochastic,E,1 1 1 1 0.5 0.5,0.833,high,abstract,yes
+R01790,rabbani2020does,E,1 1 1 1 0.5 0.5,0.833,high,abstract,yes
+R01924,purnota2026factors,E,1 1 0.5 0.5 0.5 0.5,0.667,medium,abstract,yes
+R01968,mdshatil2025impact,E,1 0.5 0.5 0.5 0.5 0.5,0.583,medium,abstract,yes
+R02285,rezaulawal2019energy,E,1 0.5 0.5 0.5 0.5 0.5,0.583,medium,abstract,yes
+R02339,mirza2023impact,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R02400,schloer2022how,E,1 0.5 0.5 0 0.5 1,0.583,medium,abstract,yes
+R02453,akand2019analytical,E,1 0.5 0.5 0.5 0 0.5,0.5,medium,abstract,yes
+R02485,awal2019bangladesh,E,1 0.5 0.5 0.5 0.5 0.5,0.583,medium,abstract,yes
+R02682,jamil2019policy,E,1 0.5 1 0.5 0.5 0.5,0.667,medium,abstract,yes
+R02801,razavi2019socio,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R02851,mimmi2010econometric,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R02931,odje2021aggregated,E,1 1 0.5 1 0.5 1,0.833,high,full text,no
+R02987,jamil2018electricity,E,1 1 1 0.5 0.5 0.5,0.75,high,abstract,yes
+R03050,wong2021perceptions,E,1 1 1 1 1 0.5,0.917,high,abstract,yes
+R03052,yakubu2018electricity,E,1 1 0.5 0.5 0.5 0.5,0.667,medium,abstract,yes
+R03062,cummins2020greasing,E,1 1 1 1 1 1,1.0,high,full text,no
+R00093,apata2026machine,not appraised (background review),,,,abstract,
+R00212,saeed2020detection,not appraised (background review),,,,abstract,
+R00638,xia2022detection,not appraised (background review),,,,abstract,
+R00667,kgaphola2024electricity,not appraised (background review),,,,abstract,
+R00682,gupta2020detection,not appraised (background review),,,,abstract,
+R00691,badr2023review,not appraised (background review),,,,abstract,
+R01524,stracqualursi2023systematic,not appraised (background review),,,,abstract,
+R01690,labate2026comprehensive,not appraised (background review),,,,abstract,
+R01918,kim2024data,not appraised (background review),,,,abstract,
+R02139,glauner2017challenge,not appraised (background review),,,,full text,
+R02266,desouzasavian2021non,not appraised (background review),,,,abstract,
+R02409,sibiya2024electricity,not appraised (background review),,,,abstract,
+R02488,yan2022performance,not appraised (background review),,,,abstract,
+R02557,papadimitriou2017non,not appraised (background review),,,,abstract,
+G01,islam2025banglatesla,G (AACODS),0.5 0.5 1 0.5 1 1,0.75,high,full text,no
+G02,tbs2026illegal,G (AACODS),1 0.5 0.5 0.5 1 1,0.75,high,full text,no
+G03,bhuiyan2026solar,G (AACODS),0.5 0 0.5 0 1 0.5,0.417,low,full text,no
+G04,bonikbarta2026battery,G (AACODS),0.5 0.5 1 0.5 1 1,0.75,high,full text,no
+G05,sakib2024banglateslas,G (AACODS),0.5 0.5 0.5 0.5 1 0.5,0.583,medium,full text,no
+G06,hossain2024transmission,G (AACODS),0.5 1 1 1 1 1,0.917,high,full text,no
+G07,bonikbarta2025power,G (AACODS),0.5 1 0.5 1 1 1,0.833,high,full text,no
+G08,mahmud2025integrating,G (AACODS),1 0.5 1 1 1 1,0.917,high,full text,no
+G09,bss2025dpdc,G (AACODS),1 0.5 0.5 0.5 1 1,0.75,high,full text,no
+G10,bss2025pdb,G (AACODS),1 0.5 0.5 0.5 1 1,0.75,high,full text,no
+G11,alam2024fixing,G (AACODS),1 1 1 1 1 1,1.0,high,full text (extracted locally),no
+G12,lovei2000costs,G (AACODS),1 0.5 0.5 1 0 1,0.667,medium,full text (extracted locally),no
+G13,adb2003cost,G (AACODS),1 1 1 1 0 1,0.833,high,full text (extracted locally),no
+G14,powercell2025systemloss,G (AACODS),1 0.5 1 1 1 1,0.92,high,full text (archived copy),no
+G15,powerdivision2022ev,G (AACODS),1 1 1 1 1 1,1.0,high,full text,no
+G16,cpd2024tariff,G (AACODS),1 0.5 0.5 0.5 1 1,0.75,high,full text,no
+G17,tbs2026berc,G (AACODS),0.5 0.5 0.5 0.5 1 1,0.67,medium,full text (via fetch tool),no

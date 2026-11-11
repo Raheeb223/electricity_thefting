@@ -1,0 +1,50 @@
+R01631|GHA|M|-|Q|0|1|Smart prepaid meter replacement programme 2019; customer billing panel, difference-in-differences; reported consumption +13.2%
+R02468|BRA|M?|R|O|0|0|Regulatory NTL evaluation using real inspection dataset with Kriging and power flow
+R02931|NGA|X|-|Q|0|1|NERC Disco data 2015-2020: each 1% metering increase linked to 0.8% lower ATC&C loss
+R00633|BGD|X|-|S|0|0|Smart metering cost-benefit analysis for Chittagong; BCR 1.36 (modelled)
+R03026|-?|S|-|F|0|0|Sectorisation with substation smart meters and efficiency audits; real studies over two years on distribution networks; country to confirm
+R00239|-|S|Y|O|0|0|Real-time revenue-assurance analytics on simulated meter and billing data
+R00388|IND|X|-|Q|0|0|Legal and critical study of smart meters against theft in India
+R00762|JOR|X|-|C|0|0|Cybersecurity risk management framework (NIST RMF) for NTL; pilot with EDCO, recommendations only
+R00920|BRA|X|-|Q|0|1?|Automatic model selection for ANEEL NTL target panel regressions, 62 utilities 2007-2017
+R01407|GHA|H|-|C|0|0|Programmable smart meter with service-line current sensor; proposal
+R01539|ZAF|N|-|S|0|0|Nottingham Road LV network metering upgrade modelling and return on investment
+R01555|IDN|S|-|Q|0|1|PLN Bali AMI rollout 2023: positive effect on NTL, insignificant on total losses; GHG conversion
+R02289|BGD|X|-|S|0|0|AMI cost-benefit (NPV) for Dhaka incl. NTL reduction; modelled
+R00463|BRA|X|-|Q|0|0|Fuzzy model for ANEEL default-rate targets; non-payment rather than theft
+R00814|-|H|-|L|0|0|Smartphone BLE prepaid meter feasibility
+R00981|CHN|M?|R|O|0|0|Power supply company A marketing audit theft data 2020-2023; K-means and Apriori
+R01115|IRQ|S|-|F|0|1|Akre district analogue-to-smart meter transition: losses -17.1%, theft incidents -96.4%
+R01763|IDN|Q|-|Q|0|0|PLN ULP Kabanjahe criminal policy: interviews on theft causes and P2TL countermeasures
+R02003|GHA|X|-|C|0|0|ECG/NEDCo smart-prepaid system examined; policy recommendations, no measured outcomes
+R02510|SRB|X|-|C|0|0|Elektrodistribucija Srbije AI methodology and challenges for NTL detection
+R03063|IND|N|-|F|0|1|RDSS evaluation: IEEE 33-bus plus Nehalpora feeder (J&K) ABC cables and smart meters, AT&C ~60% to ~15%
+R00043|-?|M?|R|O?|0|0|Inspection planning from >2M customer and inspection records; cluster hit-rate heatmaps deployed to area offices; outcome not quantified; country to confirm
+R00556|-|S|U|O|0|0|TCN-LightGBM on real smart-meter records; authors report low recall
+R00663|THA|M|R?|O|0|0|SVM NTL detection plus NPV for targeted smart-meter replacement, PEA Khon Kaen
+R01157|-|X|-|S|0|0|Contract-theory incentive mechanism for privacy-aware theft detection; simulation
+R01165|IDN|Q|-|Q|0|1?|PLN AMI programme since 2020: customer behaviour and satisfaction predictive model; NTL outcomes not measured
+R01334|NGA|H|-|S|0|0|Anti-theft third-harmonic injection scheme; Simulink
+R02090|KOR|S|R|F|0|0|KEPCO AMI algorithm shortlisting high-voltage customers with metering errors; validated by on-site inspections
+R02378|IDN|X|-|C|0|0|BARAKUDA prepaid meter asset data app at PLN UP3 Pematang Siantar; outcomes not reported
+R02434|PHL|Q|-|Q|0|0|AMI feasibility and community survey, Brgy Pooc Laguna
+R03013|BRA?|X|-|L|0|0|Exploratory testing of an illegal-connection detection information system; software QA report
+X18|-|H|-|U|0|-|Smart energy meter with theft detection; no abstract
+R00034|MMR|S|-|F|0|1|Yangon AMI deployment in 22 townships FY2023-24; revenue recovery MMK 13.38 billion; loss variation across townships
+R00158|IND|X|-|C|0|0|AT&C loss reduction strategy for smart cities; discussion
+R00342|IDN|M|R|Q|0|1|PLN ULP Tebing Tinggi monthly 2024-2025: prepaid share vs P2TL violations, no significant correlation
+R00447|NGA|Q|R|F|0|1|Project Network Comb field audit: 9,708 premises, 8,723 field loss points and 3,526 back-end infractions
+R00756|IDN|X|-|Q|0|0|Normative legal analysis of electricity theft as economic crime in Indonesia
+R00966|ZAF|X|-|Q|0|1?|Review of SA smart grid policy and regulation and revenue; NTL reduction stated, measurement basis unclear
+R00995|NGA|X|-|O|0|0|Optimised-consensus blockchain fraud response for energy supply chain; tested with EEDC grid import data
+R01137|BRA|S|-|F|0|1|Solar Pilar pilot, Rio de Janeiro low-income community: PV with storage and smart metering; bills -70%/-50%, NTL recovery
+R01924|BGD|Q|-|Q|0|0|Non-acceptance of prepaid meters: survey and WZPDCL/Faridpur PBS data; barriers
+R02432|NGA|S|U|C|0|0|Smart-meter analytics framework for ATCC loss reduction; roadmap
+R02957|ALB|X|-|Q|0|0|Albanian metering infrastructure and regulatory assessment; stakeholder consultations
+X20|-|H|-|U|0|-|Smart meter with load forecasting and theft detection app; no abstract
+R02624|-|X|-|C|0|-|Review: theft overview and smart-meter control (Energy Policy 2010); no abstract
+R01027|MULTI|X|-|C|0|-|Review of technical and NTL reduction technologies and international experience
+R01374|-|X|-|C|0|-|Review of AMI energy-theft detection schemes
+R01397|PAK|M|N|C|0|-|Review of NTL frauds with regression on monthly LV data
+R02623|-|X|-|C|0|-|Review of smart-meter NTL detection schemes
+R02139|-|X|-|C|0|-|Survey of AI for NTL detection

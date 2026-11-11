@@ -1,0 +1,50 @@
+R01615|CHN|S|R|O|0|-|HEAL nano CNN-LSTM on SGCC; AUC 0.778
+R01647|BRA|U|R|F|0|-|Satellite imagery plus computer vision for hook connections in Para; >10,000 inspected sites, 83% accuracy (GR: satellite imagery)
+R01682|-|S|Y|O|0|-|CNN-Transformer with FDI attack suite on public dataset
+R01685|-|S|Y|O|0|-|PCA-HDBSCAN on 26,230 AMI meters with simulated anomalies; country to confirm
+R01689|-|S|U|O|0|-|STM-Detector spatio-temporal graph; two real-world datasets
+R01715|PHL|M|R|O|0|-|Meralco monthly kWh, >8M accounts, >100,000 confirmed pilferage cases; DAG-IQR-SVM
+R01720|GHA|H|-|L|0|-|ACS712 dual-sensor bypass detector; Proteus and prototype
+R01750|BRA|U|U|O|0|-|Satellite imagery and GIS for clandestine connections, vegetation and PV; validated on Brazilian utility data
+R01762|-?|M|R|O|0|-|Monthly profiles; ranking index plus KNN-DTW on labelled customers for inspection selection; country to confirm
+R01777|CAN?|S|U|O|0|-|Quantum-classical hybrid; dataset not named
+R01793|RUS?|N|-|S|0|-|Measurement error effect on indirect NTL localisation from AMR; analytical
+R01835|-|S|Y|O|0|-|ConvLSTM multi-class with simulated attacks on public dataset
+R01849|-|H|-|L|0|-|ESP32 grid input vs expected consumption with relay disconnect
+R01882|-|S|Y?|O|0|-|CatBoost multi-class on appliance-level residential data with five theft patterns
+R01900|TUR|S|Y|O|0|-|Dicle AMR hourly, 951 subscribers; expert-rule risk labels; RF/LSTM/CNN
+R01909|-|H|-|L|0|-|NodeMCU main/submeter with RF classifier
+R01922|CHN|S?|R?|O|0|-|Stacking ensemble validated in Qingyuan low-voltage area; label source to confirm
+R01939|CHN?|S|U|O|0|-|CNN-LSTM on 15-min data from MV dedicated-transformer users, 30 days
+R01941|-|N|U|O|0|-|Topology-based optimisation to locate visible and invisible fraud; real LV network tests
+R01961|-|U|U|L|0|-|XGBoost web application; past usage data
+R01971|-|S|U|O|0|-|GRU with Pity Beetle Optimisation; dataset not stated
+R01991|-|H|-|L|0|-|RMS features with RF and IoT control
+R02042|-|U|-|C|0|-|Planned RF/XGBoost/Isolation Forest system; no results
+R02048|IDN?|S|R|O|0|-|Fuzzy inference on AMI voltage/current data, tested against field-check results; sensitivity 90%
+R02077|-|U|U|O|0|-|QLoRA-tuned LLMs for binary theft classification; dataset not stated
+R02192|-|U|U|O|0|-|SVM vs qualitative analysis; dataset not stated
+R02298|CHN|S|R|O|0|-|BiLSTM and CNN-LSTM on SGCC
+R02367|ZAF?|S|Y|O|0|-|ANN on smart-meter dataset with simulated seasonal behaviour; SAUPEC venue
+R02544|-|H|-|L|0|-|ESP32 Firebase app with auto cut-off and bill prediction
+R02553|-|U|U|U|0|-|Main-meter monitoring for automatic theft detection; abstract is conference boilerplate only
+R02559|-|H|-|L|0|-|IoT meter with tamper detection; simulated tamper events
+R02633|-|U|U|U|0|-|ML theft classification; no abstract
+R02637|-|S|U|U|0|-|Smart-meter detection and inspection decision support; no abstract
+R02640|-|S|U|U|0|-|Domain-aware LSTM in AMI; no abstract
+R02647|-|S|U|U|0|-|Adversarial attack on DL detector; no abstract
+R02650|-|U|-|C|0|-|Blockchain plus ML concept; no results
+R02658|-|S|R?|O|0|-|Hybrid voting ensembles on actual smart-meter data; dataset not named
+R02661|HND|U|U|U|0|-|Anomalous consumption patterns in Honduras with ML; no abstract
+R02669|-|U|U|U|0|-|Ensemble vs traditional ML comparison; no abstract
+R02703|-|S|Y|O|0|-|PCHIP imputation, synthetic theft samples, eight classifiers incl. ELM
+R02742|CHN|S|R|O|0|-|ECLAR-Net expert-guided contrastive learning on SGCC
+R02757|-|S|U|O|0|-|Federated temporal collaborative GAN; dataset not named
+R02762|IND?|U|U|U|0|-|AI power theft detection; no abstract
+R02764|-|U|U|U|0|-|Blockchain-based theft detection; no abstract
+R02771|-|S|U|U|0|-|Wide-deep Bi-GRU; no abstract
+R02780|-|S|U|U|0|-|Dynamic feature fusion with dual attention; no abstract
+R02782|-|S|U|U|0|-|CTGAN-ENN resampling; no abstract
+R02785|-|S|U|O|0|-|CNN-BiLSTM with temporal attention; dataset not stated
+R02790|-|S|U|U|0|-|Cloud-edge incremental multimodal detection; no abstract
+R02800|-|S|U|U|0|-|Cluster-enhanced constrained adversarial attacks on detectors; no abstract

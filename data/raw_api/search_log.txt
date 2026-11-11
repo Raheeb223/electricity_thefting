@@ -1,0 +1,81 @@
+Search date 2026-11-10; output E:\review journal\review-electricity-theft-bd\electricity-theft-review\electricity-theft-review\data\raw_api\search
+OpenAlex S1
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22detection%22+OR+%22prevention%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22classification%22+OR+%22anomaly+detection%22+OR+%22smart+meter%22+OR+%22advanced+metering%22+OR+%22state+estimation%22+OR+%22observer%22+OR+%22prepaid+meter%22+OR+%22prepayment%22+OR+%22governance%22+OR+%22policy%22+OR+%22regulation%22+OR+%22corruption%22+OR+%22enforcement%22+OR+%22inspection%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils0MC41NTEzODgsIDE0ODMyMjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzIyMDc4MTA5NyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22detection%22+OR+%22prevention%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22classification%22+OR+%22anomaly+detection%22+OR+%22smart+meter%22+OR+%22advanced+metering%22+OR+%22state+estimation%22+OR+%22observer%22+OR+%22prepaid+meter%22+OR+%22prepayment%22+OR+%22governance%22+OR+%22policy%22+OR+%22regulation%22+OR+%22corruption%22+OR+%22enforcement%22+OR+%22inspection%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils0MC41NTEzODgsIDE0ODMyMjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzIyMDc4MTA5NyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22detection%22+OR+%22prevention%22+OR+%22machine+learning%22+OR+%22deep+learning%22+OR+%22classification%22+OR+%22anomaly+detection%22+OR+%22smart+meter%22+OR+%22advanced+metering%22+OR+%22state+estimation%22+OR+%22observer%22+OR+%22prepaid+meter%22+OR+%22prepayment%22+OR+%22governance%22+OR+%22policy%22+OR+%22regulation%22+OR+%22corruption%22+OR+%22enforcement%22+OR+%22inspection%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils0MC41NTEzODgsIDE0ODMyMjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzIyMDc4MTA5NyddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+  OpenAlex failed; partial results NOT saved, re-run later
+OpenAlex S2
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22Bangladesh%22+OR+%22South+Asia%22+OR+%22India%22+OR+%22Pakistan%22+OR+%22Nepal%22+OR+%22Sri+Lanka%22+OR+%22Brazil%22+OR+%22Africa%22+OR+%22developing+countries%22+OR+%22developing+country%22+OR+%22low-income%22+OR+%22middle-income%22+OR+%22emerging+economies%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=IlsxNi42MzAyMSwgMTI3NTQzNjgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzkzNDY5OTYzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22Bangladesh%22+OR+%22South+Asia%22+OR+%22India%22+OR+%22Pakistan%22+OR+%22Nepal%22+OR+%22Sri+Lanka%22+OR+%22Brazil%22+OR+%22Africa%22+OR+%22developing+countries%22+OR+%22developing+country%22+OR+%22low-income%22+OR+%22middle-income%22+OR+%22emerging+economies%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=IlsxNi42MzAyMSwgMTI3NTQzNjgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzkzNDY5OTYzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%28%22electricity+theft%22+OR+%22energy+theft%22+OR+%22power+theft%22+OR+%22electricity+pilferage%22+OR+%22power+pilferage%22+OR+%22non-technical+loss%22+OR+%22non-technical+losses%22+OR+%22nontechnical+losses%22+OR+%22non+technical+losses%22+OR+%22meter+tampering%22+OR+%22meter+bypass%22+OR+%22illegal+connections%22+OR+%22illegal+electricity+connections%22+OR+%22electricity+fraud%22+OR+%22energy+fraud%22+OR+%22electricity+stealing%22+OR+%22theft+of+electricity%22%29+AND+%28%22Bangladesh%22+OR+%22South+Asia%22+OR+%22India%22+OR+%22Pakistan%22+OR+%22Nepal%22+OR+%22Sri+Lanka%22+OR+%22Brazil%22+OR+%22Africa%22+OR+%22developing+countries%22+OR+%22developing+country%22+OR+%22low-income%22+OR+%22middle-income%22+OR+%22emerging+economies%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=IlsxNi42MzAyMSwgMTI3NTQzNjgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzkzNDY5OTYzJ10i&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+  OpenAlex failed; partial results NOT saved, re-run later
+OpenAlex S3
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%22Bangladesh%22+AND+%28%22electricity%22+OR+%22power%22%29+AND+%28%22system+loss%22+OR+%22distribution+loss%22+OR+%22prepaid+meter%22+OR+%22smart+meter%22+OR+%22BPDB%22+OR+%22BREB%22+OR+%22DPDC%22+OR+%22DESCO%22+OR+%22WZPDCL%22+OR+%22NESCO%22+OR+%22BERC%22+OR+%22rural+electrification%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils3LjUzODIwMzIsIDE3NTEzMjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzEwNTI5MSddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%22Bangladesh%22+AND+%28%22electricity%22+OR+%22power%22%29+AND+%28%22system+loss%22+OR+%22distribution+loss%22+OR+%22prepaid+meter%22+OR+%22smart+meter%22+OR+%22BPDB%22+OR+%22BREB%22+OR+%22DPDC%22+OR+%22DESCO%22+OR+%22WZPDCL%22+OR+%22NESCO%22+OR+%22BERC%22+OR+%22rural+electrification%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils3LjUzODIwMzIsIDE3NTEzMjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzEwNTI5MSddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+    error: 401 Client Error: Unauthorized for url: https://api.openalex.org/works?filter=title_and_abstract.search%3A%22Bangladesh%22+AND+%28%22electricity%22+OR+%22power%22%29+AND+%28%22system+loss%22+OR+%22distribution+loss%22+OR+%22prepaid+meter%22+OR+%22smart+meter%22+OR+%22BPDB%22+OR+%22BREB%22+OR+%22DPDC%22+OR+%22DESCO%22+OR+%22WZPDCL%22+OR+%22NESCO%22+OR+%22BERC%22+OR+%22rural+electrification%22%29%2Cpublication_year%3A2010-2026&per-page=200&cursor=Ils3LjUzODIwMzIsIDE3NTEzMjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzEwNTI5MSddIg%3D%3D&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Ctype%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index%2Ccited_by_count%2Copen_access%2Ckeywords%2Cbest_oa_location
+  OpenAlex failed; partial results NOT saved, re-run later
+OpenAlex S4
+  saved openalex_S4.json: 154 records
+arXiv S1
+    429 rate limit, waiting 8 s
+    429 rate limit, waiting 16 s
+    429 rate limit, waiting 24 s
+Crossref 0: electricity theft detection
+  saved crossref_q00_electricity_theft_detection.json: 200 records
+Crossref 1: energy theft detection
+  saved crossref_q01_energy_theft_detection.json: 200 records
+Crossref 2: power theft detection
+  saved crossref_q02_power_theft_detection.json: 200 records
+Crossref 3: electricity pilferage detection
+  saved crossref_q03_electricity_pilferage_detection.json: 200 records
+Crossref 4: power pilferage detection
+  saved crossref_q04_power_pilferage_detection.json: 200 records
+Crossref 5: non-technical loss detection
+  saved crossref_q05_non_technical_loss_detection.json: 200 records
+Crossref 6: non-technical losses detection
+  saved crossref_q06_non_technical_losses_detection.json: 200 records
+Crossref 7: nontechnical losses detection
+  saved crossref_q07_nontechnical_losses_detection.json: 200 records
+Crossref 8: non technical losses detection
+  saved crossref_q08_non_technical_losses_detection.json: 200 records
+Crossref 9: meter tampering detection
+  saved crossref_q09_meter_tampering_detection.json: 200 records
+Crossref 10: electricity theft policy
+  saved crossref_q10_electricity_theft_policy.json: 200 records
+Crossref 11: energy theft policy
+  saved crossref_q11_energy_theft_policy.json: 200 records
+Crossref 12: power theft policy
+  saved crossref_q12_power_theft_policy.json: 200 records
+Crossref 13: electricity pilferage policy
+  saved crossref_q13_electricity_pilferage_policy.json: 200 records
+Crossref 14: electricity theft Bangladesh
+  saved crossref_q14_electricity_theft_bangladesh.json: 200 records
+Crossref 15: electricity theft India
+  saved crossref_q15_electricity_theft_india.json: 200 records
+Crossref 16: electricity theft Pakistan
+  saved crossref_q16_electricity_theft_pakistan.json: 200 records
+Crossref 17: electricity theft Africa
+  saved crossref_q17_electricity_theft_africa.json: 200 records
+Crossref 18: electricity theft Brazil
+  saved crossref_q18_electricity_theft_brazil.json: 200 records
+Crossref 19: electricity theft Nepal
+  saved crossref_q19_electricity_theft_nepal.json: 200 records
+Crossref 20: system loss electricity distribution Bangladesh
+  saved crossref_q20_system_loss_electricity_distribution_ban.json: 200 records
+Crossref 21: prepaid meter Bangladesh
+  saved crossref_q21_prepaid_meter_bangladesh.json: 200 records
+Crossref 22: easy bike charging Bangladesh electricity
+  saved crossref_q22_easy_bike_charging_bangladesh_electricit.json: 200 records
+Crossref 23: battery rickshaw charging electricity
+  saved crossref_q23_battery_rickshaw_charging_electricity.json: 200 records
+Crossref 24: e-rickshaw charging grid India
+  saved crossref_q24_e_rickshaw_charging_grid_india.json: 200 records
+Semantic Scholar S1
+  saved semanticscholar_S1.json: 2484 records
+Semantic Scholar S2
+  saved semanticscholar_S2.json: 567 records
+Semantic Scholar S3
+  saved semanticscholar_S3.json: 215 records
+Semantic Scholar S4
+    429 rate limit, waiting 15 s
+  saved semanticscholar_S4.json: 117 records

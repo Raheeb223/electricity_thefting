@@ -1,0 +1,127 @@
+record_id,status,url
+R00093,skipped blocked host www.mdpi.com,https://doi.org/10.3390/en19163877
+R00093,no usable open-access copy,
+R00176,skipped blocked host www.mdpi.com,https://doi.org/10.3390/app15073912
+R00176,no usable open-access copy,
+R00212,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/13/18/4727/pdf?version=1599784408
+R00212,no usable open-access copy,
+R00226,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.erss.2025.104056
+R00226,no usable open-access copy,
+R00240,no usable open-access copy,
+R00311,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.energy.2025.137763
+R00311,no usable open-access copy,
+R00337,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/14/4/958/pdf?version=1613978720
+R00337,no usable open-access copy,
+R00347,not a PDF (HTTP 401),https://researchonline.jcu.edu.au/76662/1/10-1108_IJSSP-07-2020-0315.pdf
+R00347,no usable open-access copy,
+R00365,not a PDF (HTTP 202),https://ieeexplore.ieee.org/document/10830511/
+R00365,no usable open-access copy,
+R00430,not a PDF (HTTP 202),https://ieeexplore.ieee.org/document/10840176/
+R00430,no usable open-access copy,
+R00431,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.rineng.2025.104478
+R00431,no usable open-access copy,
+R00590,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.esd.2026.102055
+R00590,no usable open-access copy,
+R00626,downloaded,http://www.pide.org.pk/pdf/PDR/2014/Volume3/239-254.pdf
+R00633,no usable open-access copy,
+R00638,no usable open-access copy,
+R00667,skipped blocked host www.mdpi.com,https://doi.org/10.3390/electricity5020017
+R00667,no usable open-access copy,
+R00678,skipped blocked host www.mdpi.com,https://doi.org/10.3390/technologies14090568
+R00678,no usable open-access copy,
+R00682,no usable open-access copy,
+R00686,downloaded,https://discovery.ucl.ac.uk/10185563/1/Jazuli_Heterogeneities%20and%20coping%20strategies%20for%20accessing%20and%20using%20electricity%20in%20the%20informal%20settlements%20of%20Kampala%2C%20Uganda_VoR.pdf
+R00691,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/16/6/2852/pdf?version=1679220124
+R00691,no usable open-access copy,
+R00874,skipped blocked host www.mdpi.com,https://www.mdpi.com/2071-1050/15/1/149/pdf?version=1672190441
+R00874,no usable open-access copy,
+R00875,skipped blocked host www.mdpi.com,https://www.mdpi.com/2071-1050/15/6/4868/pdf?version=1678351200
+R00875,no usable open-access copy,
+R00994,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.erss.2025.104143
+R00994,no usable open-access copy,
+R01017,no usable open-access copy,
+R01022,skipped blocked host onlinelibrary.wiley.com,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/sil2.12155
+R01022,no usable open-access copy,
+R01066,no usable open-access copy,
+R01109,no usable open-access copy,
+R01144,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/18/13/3566/pdf?version=1751868832
+R01144,no usable open-access copy,
+R01198,skipped blocked host www.mdpi.com,https://www.mdpi.com/2079-9292/8/8/860/pdf?version=1564992326
+R01198,no usable open-access copy,
+R01224,skipped blocked host www.colibri.udelar.edu.uy,https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/34465/1/MDF22.pdf
+R01224,no usable open-access copy,
+R01254,no usable open-access copy,
+R01285,no usable open-access copy,
+R01295,not a PDF (HTTP 200),https://econjournals.com/index.php/ijeep/article/view/12614
+R01295,downloaded,https://econjournals.com/index.php/ijeep/article/download/12614/6740
+R01414,no usable open-access copy,
+R01422,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/13/22/6119/pdf?version=1606037610
+R01422,no usable open-access copy,
+R01449,no usable open-access copy,
+R01524,STOP host iris.uniroma1.it HTTP 403; host now blocked,https://iris.uniroma1.it/bitstream/11573/1686169/1/Stracqualursi_Systematic_2023.pdf
+R01524,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.rser.2023.113544
+R01524,no usable open-access copy,
+R01562,not a PDF (HTTP 202),https://doi.org/10.1109/TSG.2016.2574714
+R01562,no usable open-access copy,
+R01569,no usable open-access copy,
+R01631,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/14/7/1852/pdf?version=1617937162
+R01631,no usable open-access copy,
+R01632,STOP host pmc.ncbi.nlm.nih.gov HTTP 200; host now blocked,https://pmc.ncbi.nlm.nih.gov/articles/PMC11334629/pdf/main.pdf
+R01632,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.heliyon.2024.e35167
+R01632,no usable open-access copy,
+R01647,skipped blocked host linkinghub.elsevier.com,https://doi.org/10.1016/j.epsr.2026.112769
+R01647,no usable open-access copy,
+R01660,no usable open-access copy,
+R01690,skipped blocked host www.mdpi.com,https://doi.org/10.3390/bdcc10090297
+R01690,no usable open-access copy,
+R01701,no usable open-access copy,
+R01764,skipped blocked host www.mdpi.com,https://www.mdpi.com/1996-1073/13/12/3227/pdf?version=1592820916
+R01764,no usable open-access copy,
+R01790,no usable open-access copy,
+R01804,no usable open-access copy,
+R01918,skipped blocked host www.mdpi.com,https://doi.org/10.3390/en17123057
+R01918,no usable open-access copy,
+R01924,no usable open-access copy,
+R01968,no usable open-access copy,
+R02006,no usable open-access copy,
+R02093,skipped blocked host www.mdpi.com,https://doi.org/10.3390/s24154924
+R02093,no usable open-access copy,
+R02266,no usable open-access copy,
+R02285,no usable open-access copy,
+R02339,not a PDF (HTTP 404),https://lahoreschoolofeconomics.edu.pk/assets/uploads/lje/Volume28/04_Iqra_Mushtaq_and_Faisal_Mehmood.pdf
+R02339,downloaded,https://lahoreschoolofeconomics.edu.pk/assets/uploads/lje/Volume28/04_LJE-2022-0019_(Edited)_Electricty_Theft_Reduction2.pdf
+R02370,STOP host digital-library.theiet.org HTTP 403; host now blocked,https://digital-library.theiet.org/content/journals/10.1049/oap-cired.2017.0500
+R02370,no usable open-access copy,
+R02400,no usable open-access copy,
+R02409,no usable open-access copy,
+R02446,no usable open-access copy,
+R02453,no usable open-access copy,
+R02485,no usable open-access copy,
+R02488,no usable open-access copy,
+R02557,skipped blocked host digital-library.theiet.org,https://doi.org/10.1049/oap-cired.2017.0825
+R02557,no usable open-access copy,
+R02619,downloaded,http://dspace.uevora.pt/rdpc/bitstream/10174/21871/1/RSER-D-16-01886-R1.pdf
+R02624,no usable open-access copy,
+R02632,no usable open-access copy,
+R02645,no usable open-access copy,
+R02649,no usable open-access copy,
+R02663,no usable open-access copy,
+R02666,no usable open-access copy,
+R02682,no usable open-access copy,
+R02728,not a PDF (HTTP 200),https://osuva.uwasa.fi/bitstreams/1cd64b71-a99d-4a7c-854c-b00e9d57c6ff/download
+R02728,no usable open-access copy,
+R02734,no usable open-access copy,
+R02736,no usable open-access copy,
+R02801,no usable open-access copy,
+R02824,no usable open-access copy,
+R02851,not a PDF (HTTP 200),http://hdl.handle.net/10986/4778
+R02851,no usable open-access copy,
+R02852,no usable open-access copy,
+R02859,no usable open-access copy,
+R02911,no usable open-access copy,
+R02987,no usable open-access copy,
+R03009,no usable open-access copy,
+R03050,not a PDF (HTTP 202),http://sro.sussex.ac.uk/id/eprint/109864/1/Theft_WBU%5B79%5D.pdf
+R03050,not a PDF (HTTP 202),https://figshare.com/articles/journal_contribution/Perceptions_and_acceptability_of_electricity_theft_towards_better_public_service_provision/23493884
+R03050,no usable open-access copy,
+R03052,no usable open-access copy,

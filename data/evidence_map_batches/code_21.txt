@@ -1,0 +1,50 @@
+R01365|-|S|Y|S|0|-|Cluster-based detectors against black-box evasion
+R01373|CHN|S|N|O|0|-|Multi-cluster feature selection + GMM, Anhui load data
+R01382|-|S|U|O|0|-|Ensemble + prototype learning under extreme imbalance
+R01387|-|S|Y|S|0|-|Deep RL (DQN/DDQN) cyber-attack detection
+R01403|CHN|S|Y|O|0|-|Anomaly-rule samples + classifiers on voltage/current/PF with line loss
+R01405|-|H|-|L|0|0|Secure and resilient LoRaWAN smart energy meter
+R01434|-|S|U|O|0|-|SVM-PSO hybrid on real smart grid dataset
+R01445|-|N|Y|S|0|-|GRNN-MRO parameter estimation theft detection (IEEE 13/37 bus)
+R01452|-|H|-|L|0|0|Multi-point power comparison with partial pilot hardware test
+R01453|-|S|Y|S|0|-|CNN-LSTM-Transformer for fraudulent PV generation
+R01457|-|U|U|O|0|-|Modified ReliefF + SVM bagging on developed dataset
+R01460|CHN|S|U|O|0|-|Feature extraction + logistic regression with check-feedback loop
+R01481|IND|H|-|L|0|0|Arduino/ESP8266 theft detection and load control
+R01498|-|S|U|O|0|-|FL2ETD few-shot learning framework
+R01501|CHN|S|Y|S|0|-|Transformer-CNN FDI attack theft detection with distillation
+R01526|CHN|S|U|O|0|-|Time series + regional abnormal consumption features
+R01560|-|H|-|L|0|0|Smart prepaid meter with two-sensor theft detection
+R01571|IND|H|U|L|0|-|Sensor-triggered theft events + ML classifiers
+R01576|-|S|U|O|0|-|Channel-independent attention network
+R01585|IRN|N|-|S|0|-|PQ meter placement for crypto-miner identification (IEEE 18-bus)
+R01593|-|S|U|O|0|-|RNN-BiLSTM with mRMR features
+R01596|-|S|Y|S|0|-|DWT + FCM + weighted logistic regression with partially observed anomalies
+R01597|CHN|S|R|O|0|-|AlexNet on Chinese smart meter data (overlaps R01787 ?)
+R01632|-|M|R|O|0|-|Lightweight deep model on monthly readings in non-smart grids; theft class labels
+R01652|IND|H|-|L|0|0|IoT prototype with DNN theft detection
+R01653|CHN|S|U|O|0|-|Segmented DTW between user usage and line loss, real high-loss line data
+R01666|CHN|S|R|O|0|-|Catch22-Conv-Transformer on SGCC three-phase power state data
+R01667|-|S|U|O|0|-|XGBoost + Optuna on real-world datasets
+R01668|BRA|X|-|O|0|-|Satellite buildings assigned to registered meters; simulated tests and real case (overlaps R03079)
+R01675|-|S|Y|S|0|-|Gas + electricity consumption frameworks for theft detection
+R01688|CHN|S|R|O|0|-|Parallel LSTM on SGCC
+R01744|-|S|R|O|0|-|Optimal sample selection to reduce annotation effort
+R01747|CHN|S|U|O|0|-|Knowledge distillation detection for edge environments
+R01749|CHN|U|U|O|0|-|SVM outlier-based suspected stealing degree
+R01753|-|S|U|O|0|-|Energy-aware federated CNN
+R01754|CHN|S|U|O|0|-|CNN-BiLSTM-Attention anomaly detection
+R01757|CHN|S|U|O|0|-|Multi-source heterogeneous time series GRU
+R01769|-|H|-|L|0|0|Home theft identification and prevention system with app
+R01774|CHN|S|R|O|0|-|Unsupervised + RF hybrid on SGCC
+R01778|IND|H|-|C|0|0|Smart meter with integrated camera and remote cut-off
+R01818|-|S|U|O|0|-|DNN for energy optimisation and fraud detection
+R01832|ZAF|M|U|O|0|-|ML anomaly detection on prepaid purchase records, 20,000 Msunduzi customers (labels unclear ?)
+R01834|-|U|U|O|0|-|PSO-optimised neural network on three risk-level datasets
+R01864|IND|U|U|O|0|-|ANN theft detection for single-phase meters, Maharashtra data
+R01879|IND|H|-|L|0|0|WSN remote monitoring of LV overhead lines with theft detection
+R01884|IND|S|U|O|0|-|Neural Turing machine hybrid for theft and loss prediction in metro cities
+R01889|IND|S|Y|S|0|-|CNN-LSTM vs Zigbee comparison with synthetic data
+R01912|-|S|U|O|0|-|ETDS regularised attention BiGRU
+R01917|BRA|X|-|O|0|-|Assignment of AI-detected lots to registered meters; validated with 2022 real data
+R01947|CHN|S|R|O|0|-|XGBoost with PSO/Jaya and LoRAS on SGCC

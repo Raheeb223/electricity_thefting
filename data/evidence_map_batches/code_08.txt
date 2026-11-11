@@ -1,0 +1,50 @@
+R02111|-|S|Y|S|0|-|PCA + mean shift for residential theft scenarios
+R02118|PHL|N|Y|S|0|-|OpenDSS linear regression theft estimation
+R02126|PER|H|-|L|0|0|Clandestine connection detector design, Lima North
+R02146|-|N|Y|S|0|-|Compressed sensing theft detection
+R02177|ESP|S|R|O|0|-|Hybrid LSTM-MLP on Endesa smart meter data
+R02191|-|S|Y|S|0|-|Unsupervised outage and theft identification
+R02222|-|S|Y|S|0|-|SVM fraud detection on real consumption dataset
+R02234|KOR|N|Y|S|0|-|Intermediate monitor meters LSE detection
+R02241|IND|H|-|L|0|0|IoT Raspberry Pi power theft detection
+R02286|CHN|S|U|O|0|-|Level-change detection on daily data, North Shanghai
+R02321|-|U|R|O|0|-|ML NTL detection with international distribution company
+R02326|CHN|N|U|O|0|-|Clustering for 10 kV NTL types
+R02351|-|N|Y|S|0|-|AMB-SE normalised residuals
+R02424|SWE|N|Y|S|0|-|NTL detection/localisation with future smart meters
+R02427|BRA|U|R|O|0|-|XGBoost and isolation forest with inspection history
+R02473|ZAF|N|Y|L|0|-|Zero-sequence current detection of ground-conductor connections
+R02482|PHL|S|Y|S|0|-|Anomaly coefficients with check meter
+R02634|BRA|H|-|U|0|-|No-neutral detector for tampered meters; no abstract
+R02645|IND|H|-|L|0|0|EPPS pilferage prevention by unsuitable voltage to illegal loads
+R02670|IRL|S|Y|S|0|-|Feature-engineering framework, 4,000 households, synthetic thefts
+R02758|-|U|U|U|0|-|Detecting and pricing NTL with utility meters; no abstract
+R02775|-|U|U|U|0|-|Edge computing NTL fraud detection; no abstract
+R02909|PHL|H|-|L|0|0|LoRaWAN meter with theft detection
+R02958|-|M|R|O|0|-|Importance-weighted FDA under dataset shift, monthly consumption (labels probable ?)
+R02959|KOR|S|U|O|0|-|SEPAD home power anomaly detection
+R02971|-|S|U|O|0|-|Drift-aware anomaly detection
+R02982|CHN|S|U|O|0|-|Smart meter data mining for LV line loss diagnosis
+R03018|-|N|Y|O|0|-|Voltage-phase localisation of unauthorised loads in microgrids
+R00081|-|S|R|O|0|-|Adasyn + VGG-16 + FA-XGBoost on real consumption data
+R00234|CHN|S|R|O|0|-|LSTM-UNet-Adaboost on SGCC
+R00317|-|S|R|O|0|-|RDAE-AG-TripleGAN semi-supervised, real smart meter data
+R00346|-|S|R|O|0|-|CNN-GRU-MRFO with SMOTE
+R00363|-|S|R|O|0|-|SOSTLink + BiGRU on real time series
+R00421|PAK|M|R|O|0|-|MEPCO monthly data, boosted C5.0 classification
+R00442|CHN|S|U|O|0|-|RF + CNN abnormal cause recognition, 15-min data
+R00460|-|U|U|O|0|-|Incremental feature selection on real NTL dataset
+R00489|-|S|Y|S|0|-|Functional-encryption privacy-preserving detection
+R00631|-|S|U|O|0|-|LSTM + bat-RUSBoost
+R00677|NGA|N|Y|S|0|-|Network analysis theft location, Eket street model
+R00687|NGA|M|-|O|0|-|Naive Bayes metering-eligibility from payment history
+R00689|-|U|U|O|0|-|Unbalanced data handling comparison
+R00742|-|X|Y|S|0|-|RSA cryptogram fraud detection
+R00873|-|S|U|O|0|-|BiWGAN + SVDD NTL detector
+R00890|CHN|S|R|O|0|-|DE-RUSBoost on SGCC
+R00956|-|S|Y|S|0|-|Robust detector against data poisoning
+R00958|IND|N|-|L|0|0|DT remote monitoring with PLC/SCADA theft alert
+R01036|CHN|S|R|O|0|-|CNN-GRU-PSO on SGCC
+R01099|GBR|S|Y|S|0|-|CVAE augmentation, London smart meter data with attack models
+R01129|-|S|Y|S|0|-|Deep recurrent vector embeddings, real benign + malicious readings
+R01139|-|S|U|O|0|-|GMM + ANN ensemble on smart meter data

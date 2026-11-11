@@ -1,0 +1,125 @@
+{
+ "countries": {
+  "Ecuador": 1,
+  "Not stated / benchmark": 9,
+  "Latin America (region)": 1,
+  "Indonesia": 3,
+  "Iran": 4,
+  "Saudi Arabia": 1,
+  "China": 4,
+  "India": 5,
+  "Pakistan": 6,
+  "Uruguay": 2,
+  "Brazil": 7,
+  "Taiwan": 1,
+  "Spain": 1,
+  "South Korea": 1,
+  "South Africa": 1,
+  "Bangladesh": 15,
+  "Uganda": 2,
+  "DR Congo": 1,
+  "Ghana": 2,
+  "Nigeria": 1,
+  "Multi-country Africa": 1
+ },
+ "method_studies": 38,
+ "granularity": {
+  "Monthly billing": 12,
+  "Not applicable (hardware, simulation)": 5,
+  "Hourly / sub-hourly": 13,
+  "Daily": 5,
+  "Mixed monthly + interval": 1,
+  "Satellite imagery": 2
+ },
+ "labels": {
+  "Real inspection labels": 17,
+  "None or synthetic only": 16,
+  "Partial / injected": 5
+ },
+ "validation": {
+  "Offline / simulation only": 24,
+  "Partial (real data, no yield)": 8,
+  "Field-validated or deployed": 6
+ },
+ "drm": [
+  [
+   "Geospatial and remote-sensing screening",
+   2.57,
+   2
+  ],
+  [
+   "Socio-economic risk mapping",
+   2.57,
+   1
+  ],
+  [
+   "Supervised ML on monthly billing data",
+   2.14,
+   3
+  ],
+  [
+   "Smart prepaid metering",
+   2.14,
+   3
+  ],
+  [
+   "Energy balance and correlation at transformer/master meters",
+   2.14,
+   2
+  ],
+  [
+   "Cost-sensitive inspection targeting",
+   2.0,
+   3
+  ],
+  [
+   "Active prevention hardware (harmonics, low frequency, voltage)",
+   2.14,
+   0
+  ],
+  [
+   "E3W charging regularisation (licensed hubs, tariff, smart chargers)",
+   2.14,
+   0
+  ],
+  [
+   "Multi-resolution models for mixed meter fleets",
+   1.57,
+   2
+  ],
+  [
+   "State estimation and load-flow methods",
+   1.57,
+   1
+  ],
+  [
+   "Monitoring meters and sensors (IMM, zero-sequence, remote ID)",
+   1.57,
+   1
+  ],
+  [
+   "Label-efficient learning (semi-supervised, active, transfer)",
+   1.43,
+   2
+  ],
+  [
+   "Deep learning on high-resolution AMI data",
+   0.86,
+   2
+  ],
+  [
+   "Rule-based inspection targeting (baseline)",
+   2.57,
+   2
+  ]
+ ],
+ "by_group": {
+  "Data-driven": 22,
+  "Governance & socio-economic": 15,
+  "Hardware & metering": 12,
+  "Bangladesh context & E3W": 11,
+  "Network-based": 7,
+  "Hybrid": 2
+ },
+ "years_2021_2026_included": 36
+}

@@ -1,0 +1,8 @@
+Modality,Typical setting,How it works,Detection difficulty,Evidence
+Direct hooking of LV lines and poles,Urban informal settlements; peri-urban; rural,Unmetered wires hooked onto overhead lines or poles,Medium: visible but quickly reconnected,hossain2024transmission;sayem2020reducing;lovei2000costs
+Tapping for E3W charging garages,Urban and peri-urban garages,Mains or streetlight lines tapped; cables from poles; overnight use,"High: night-time, temporary, protected",islam2025banglatesla;bonikbarta2026battery;mahmud2025integrating
+Off-meter charging behind an installed meter,Garages with token connections,Meter installed for compliance while most charging bypasses it,High: meter reads look normal,islam2025banglatesla
+Commercial use of residential connections,Urban homes and garages,Residential tariff used for commercial charging,Medium: tariff misclassification,tbs2026illegal;islam2025banglatesla;mahmud2025integrating
+Meter tampering and bypass,"Residential, commercial",Tampered or bypassed meters reduce recorded energy,High with monthly manual reads,bss2025dpdc;bss2025pdb
+Collusive meter reading and billing,All segments,Readers under-record or arrange connections for payment,Very high: corrupts records and labels,lovei2000costs;hossain2024transmission;islam2025banglatesla
+Non-payment and arrears (not theft),"Residential, public",Bills issued but not paid,Low: visible in accounts,adb2003cost

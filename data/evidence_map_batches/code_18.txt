@@ -1,0 +1,50 @@
+R01819|NGA|H|-|L|0|0|IoT smart grid theft detection and power redirection
+R01847|-|H|-|L|0|0|IoT smart meter with energy theft detection
+R01855|IND|H|-|L|0|0|Low-cost IoT smart meter with tamper alert
+R01863|-|S|U|O|0|-|Dynamic graph + graph attention network
+R01878|CHN|S|R|O|0|-|DCNN with theft-period dating on SGCC
+R01893|ESP|N|U|O|0|-|Dynamic data-driven NTL evaluation in LV networks
+R01925|IND|S|U|S|0|-|ETPS GRU/GWO/DDRCNN/LSTM system (network metrics)
+R01956|-|N|Y|S|0|-|Model-less voltage-sensitivity NTL estimation, IEEE European LV feeder
+R01982|ESP|U|R|O|0|-|Explainable AI in mature NTL system in production (electricity and gas)
+R02014|GBR|S|Y|S|0|-|Dirichlet process mixture clustering on UK Power Networks data
+R02024|-|S|U|O|0|-|Convolution/non-convolution parallel network
+R02044|CHN|H|-|L|0|-|Machine vision meter operation error detection
+R02049|IND|H|-|L|0|0|GPS/GSM power theft alert device
+R02057|GRC|S|U|O|0|-|Fuzzy-logic fraud detection tool for Xanthi
+R02066|PHL|H|-|L|0|0|LoRa RF pilferage detection
+R02088|-|S|U|O|0|-|TCN with self-attention theft detection
+R02094|-|S|Y|S|0|-|LSTM residuals + Wasserstein distance, six attack models
+R02100|IRL|S|Y|S|0|-|Federated deep learning on Irish data
+R02169|CHN|S|U|O|0|-|Multitask learning for intermittent theft
+R02183|DEU|N|Y|S|0|-|CNN detection/location with observer meters on SimBench
+R02185|-|H|Y|L|0|0|Modular AMI to reduce theft + cluster-based illegal load detection (experimental)
+R02246|IND|H|-|L|0|0|IoT theft and overload detection
+R02269|CHN|S|U|O|0|-|ISSA-DELM theft identification
+R02322|CHN|S|R|O|0|-|MLP-GRU on SGCC
+R02324|-|S|Y|S|0|-|SMOTE + logistic regression
+R02353|DOM|U|U|O|0|-|CNN+LSTM fraud classification for Dominican Republic distribution
+R02379|-|U|N|O|0|-|ML and NN comparison after labelling an unlabelled dataset
+R02387|IND|H|-|L|0|0|Particle Photon IoT theft and fault detection
+R02393|CHN|S|R|F|0|-|Granger causality in high-loss zones; validated by field inspection
+R02406|BRA|M|R|F|0|-|Isolation forest on monthly billing; preliminary field tests 91.7% assertiveness (inspection probable ?)
+R02420|-|S|U|O|0|-|1D/2D CNN fraud detection with missing-value filling
+R02433|CHN|S|U|O|0|-|Xavier initialisation neural network theft model
+R02442|BRA|M|R|F|0|-|DUPLICATE content of R02406 (same platform, 91.70%); possible E6 ?
+R02454|CHN|S|U|O|0|-|Improved CNN with holidays and periodicity
+R02458|IND|H|-|C|0|0|Cloud-based theft notification devices
+R02480|-|S|U|O|0|-|1D and 2D CNN thief detection (overlaps R02420 ?)
+R02491|IND|H|-|L|0|0|Energy meter and power theft monitoring
+R02495|CHN|S|U|O|0|-|Data mining anomaly thresholds on smart meter data
+R02504|-|N|-|O|0|-|TL and NTL assessment in LV networks with voltage drops
+R02522|COL|S|U|C|0|-|Industry 4.0 data analytics framework for NTL
+R02528|-|S|U|C|0|-|IoT theft detection with digital forensic evidence
+R02534|-|N|Y|S|0|-|Hybrid smart meter + grid data fraud flagging on synthetic grids (BD4OPEM)
+R02595|BRA|N|Y|S|0|-|Multi-agent NTL detection in HYPERSIM real-time simulation
+R02639|-|U|U|U|0|-|Two-stage DL theft detection in AMI; no abstract
+R02644|-|U|U|U|0|-|Intermittent theft attack detection framework; no abstract
+R02660|-|U|U|U|0|-|Hybrid adaptive sampling pipeline; no abstract
+R02672|IND|U|U|U|0|-|ML for power theft in distribution; no abstract
+R02693|-|U|U|U|0|-|Multi-view broad learning; no abstract
+R02695|-|U|U|U|0|-|Data-driven intelligent theft detection; no abstract
+R02709|-|U|U|U|0|-|Deep semi-supervised ETD in AMI; no abstract

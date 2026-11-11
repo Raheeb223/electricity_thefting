@@ -1,0 +1,11 @@
+Gap,Why it matters for Bangladesh,Concrete direction,Evidence
+No public labelled theft dataset from Bangladesh,Models cannot be trained or compared locally,Utility-academic data trust; anonymised monthly bills with inspection outcomes,ahammad2023electricity;glauner2017challenge
+Few controlled field evaluations of detectors in non-AMI grids,Offline accuracy does not show inspection yield; field designs lack controls,Randomised or stepped-wedge inspection pilots that report confirmed share and recovered energy,haramaini2026hybrid;guerrero2018non;gusmao2020customer
+Validation on synthetic theft,Synthetic theft overstates performance,Validate on inspection-confirmed cases; publish negative results,this;haramaini2026hybrid
+Label bias from inspection targeting and collusion,Models learn where inspectors went; bribed inspectors mislabel thieves,Random audit inspections; bias-aware learning,glauner2017is;glauner2017challenge;lovei2000costs
+Prepaid vend data rarely used for detection,Millions of prepaid meters produce recharge streams,Detection on recharge frequency and amount; tamper alarms,ahammad2023electricity;bss2025pdb;bss2025dpdc
+No measured E3W charging energy,Theft and demand estimates vary widely,Metered sampling of garages; charger efficiency standards,islam2025banglatesla;mahmud2025integrating
+E3W charging outside the regulatory frame,The 2022 charging guideline covers only BRTA-authorised vehicles,"Legal definition, licensed hubs, charging tariff, smart chargers",powerdivision2022ev;awal2019bangladesh
+No Bangladeshi evidence on theft drivers,Interventions cannot target causes,"District panel and household surveys on price, supply quality, trust",jamil2014empirical;kasumba2025electricity;monstadt2025power
+Loss reporting mixes technical and non-technical loss,NTL share is unknown,Transformer metering and energy audits per feeder,powercell2025systemloss
+Treatment of system loss in tariffs not publicly documented,Decides whether utilities or consumers pay for theft,Publish loss targets and their use in revenue requirements,tbs2026berc;cpd2024tariff

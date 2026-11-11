@@ -1,0 +1,18 @@
+record_id,group,doi,title,reason
+R02212,priority,,Prepayment Metering in Bangladesh,no DOI
+R00347,priority,10.1108/ijssp-07-2020-0315,E-rickshaws on urban streets: sustainability issues and policies,redirect to stopped host www.emerald.com
+R01422,priority,10.3390/en13226119,Electric Rickshaw Charging Stations as Distributed Energy Storages for Integrating Intermittent Renewable Energy Sources: A Case of Bangladesh,host www.mdpi.com stopped earlier; redirect to stopped host www.mdpi.com
+R00874,priority,10.3390/su15010149,"Affordable Electric Three-Wheeler in Bangladesh: Prospects, Challenges, and Sustainable Solutions",host www.mdpi.com stopped earlier; redirect to stopped host www.mdpi.com
+R02400,priority,10.1049/icp.2022.2717,How to charge Easy Bikes in Bangladesh the smart way,no PDF link on chooser.crossref.org
+R00979,priority,10.5109/7326929,Electric Three-weeler Charging Infrastructure & Safety Parameter for Sustainable Mobility in India,OA not PDF (200); network error ConnectTimeout; no PDF link on catalog.lib.kyushu-u.ac.jp
+R02859,priority,10.1016/j.cstp.2025.101485,"Electric rickshaw drivers’ charging preferences and charging infrastructure design: A case study of Delhi, India",no PDF link on linkinghub.elsevier.com
+R00240,priority,10.46610/ijreeps.2026.v02i02.004,Measuring What Matters: Field Data on E-Rickshaw Chargers in Greater Dhaka Expose a Measurement-Basis Gap and Bound Potential Energy Savings,publisher not PDF (200) matjournals.net
+R00590,priority,10.1016/j.esd.2026.102055,Operational challenges and energy consumption of informal electric tricycles (“Easy Bikes”) in Bangladesh: A field-based socio-technical assessment,OA not PDF (200); no PDF link on linkinghub.elsevier.com
+R02851,priority,10.1016/j.enpol.2010.04.037,"An econometric study of illegal electricity connections in the urban favelas of Belo Horizonte, Brazil",OA not PDF (200); no PDF link on linkinghub.elsevier.com
+R00876,priority,10.1109/scored.2010.5704002,NTL detection of electricity theft and abnormalities for large power consumers In TNB Malaysia,publisher not PDF (200) ieeexplore.ieee.org
+R02311,priority,10.1109/tpwrd.2010.2055670,Improving SVM-Based Nontechnical Loss Detection in Power Utility Using the Fuzzy Inference System,publisher not PDF (200) ieeexplore.ieee.org
+R02032,priority,10.1109/icaee.2013.6750334,A novel smart metering system for loss reduction and efficient load management in the power distribution sector of Bangladesh,publisher not PDF (200) ieeexplore.ieee.org
+R02189,priority,10.1109/iccic.2013.6724264,Detecting unusual customer consumption profiles in power distribution systems — APSPDCL,publisher not PDF (200) ieeexplore.ieee.org
+R00927,priority,10.1109/iceeict.2015.7307524,Design and fabrication of power consumption network to prevent energy pilferage,publisher not PDF (200) ieeexplore.ieee.org
+R02035,priority,10.1109/wiecon-ece.2015.7443967,Power pilferage in Bangladesh: A simple and economically affordable solution,publisher not PDF (200) ieeexplore.ieee.org
+R02300,priority,10.1109/isgt-la.2015.7381272,Abnormal consumption analysis for fraud detection: UTE-UDELAR joint efforts,publisher not PDF (200) ieeexplore.ieee.org

@@ -1,0 +1,50 @@
+R02814|-|N|U|U|0|-|Deterministic AI models for LV networks; no abstract
+R02819|-|S|U|U|0|-|Federated-split XAI framework; no abstract
+R02825|-|S|U|U|0|-|LLM-guided hyperparameter tuning ensemble; no abstract
+R02827|-|S|U|U|0|-|Quantum-inspired fractal network; no abstract
+R02828|-|S|U|U|0|-|Explainable fraud detection; no abstract
+R02833|-|S|U|U|0|-|Semi-supervised generative-discriminative; no abstract
+R02846|-|H|-|U|0|-|Current theft detection system; no abstract
+R02912|IDN|U|U|U|0|-|Explainable classifier for meter tampering in Indonesia; no abstract: full text needed
+R02948|-|S|Y|S|0|-|Digital twin with physics-constrained synthetic theft; 1D-CNN offline and LAN tests
+R02960|-?|H|-|L|0|-|Arduino GSM anti-theft transformer monitor for rural Africa; design
+R02979|IDN|S|R|F|0|-|PLN ULP Kupang AMR operating-hour and load-profile screening of 415-420 large customers with field inspection; 310,219.8 kWh recovered (anomalies were CT/VT faults)
+R03041|IND?|U|U|C|0|-|AI smart energy system for homes and EB offices; no results
+R03043|-|S|R|O|0|-|Self-supervised learning on 15-min AMI data from >1.6M service points; inspection labels downstream (probably UTE, URY? confirm)
+R03073|-|S|U|O|0|-|Integrated NTL detection and peak forecasting on hourly data of 16 consumer types
+X04|CHN+ZAF|S|R|O|0|-|Four models on SGCC (inspection labels) and Western Cape schools (injected attacks); dataset effect dominates
+X25|CHN|S|R|O|0|-|Adaptive differential-privacy accounting for federated detection on SGCC
+R01831|-|X|-|C|0|0|Measures and setbacks for controlling theft in developing countries; discussion
+R02251|BRA?|M|N|C|0|0|LM/LE from monthly data to rank feeders; proposal
+R01331|ITA|S|R?|F?|0|0|Enel AMI revenue protection experience since 2005 and SHAPE platform; track record described qualitatively
+R00599|IND|X|-|C|0|0|MAHADISCOM AMI and drone concept for hooking
+R01483|-|X|-|S|0|0|Bayesian inspection game valuing intrusion detection systems
+R02370|IRN|S|-|F|0|1|Mashhad residential and commercial AMI pilots; loss reduction from field measurements and simulation
+R02649|-|S|U|U|0|-|NTL analysis and prevention using smart meters (RSER); no abstract: probably a review, RV?
+R02802|-|U|U|U|0|-|Enterprise information system for theft detection; no abstract
+R02547|CMR|H|-|L|0|0|Prepaid Wi-Fi/GSM system and fraud detection tool design for Cameroon
+R02575|USA|S|-|O|0|0|Eastern Maine Electric Cooperative AMI lessons learned; theft identification with line sensors described, no outcomes
+R02587|BRA?|X|-|C|0|0|Distributed generation in low-income communities to reduce commercial losses; analysis proposal
+R03068|BRA?|X|-|S|0|0|Socioeconomic market model TAROT with anti-theft investment and inspections; regulatory tariff optimisation
+X27|-|H|-|U|0|-|Automated meter reading and theft detection framework; no abstract
+R00079|ZAF|X|-|Q|0|0|Legal comment on Eskom v Masinda spoliation case on illegal connections
+R00793|ARG|M|-|F?|0|1?|Edenor self-administered (prepaid) meters for low-income users, >150,000 installed; NTL outcomes not quantified in abstract
+R02015|ZAF|X|-|C|0|0|Argument for smart grid against theft in South Africa
+R02453|BGD|M|-|Q|0|1?|Impact of prepaid metering in Bangladesh distribution: revenue collection and system loss
+R02882|NGA|X|-|C|0|0|Smart grid as theft mitigation in Nigeria; discussion
+X32|-|H|-|L|0|-|Smart prepaid meter with dual current sensors and GSM
+R00565|ZAF|Q|-|Q|0|1?|Survey of 334 respondents on Eskom smart prepaid split meter effectiveness
+R01080|TCD|N|-|S|0|0|SNE N'Djamena sensor deployment algorithm; OMNeT++ simulation
+R01629|ZAF|X|-|Q|0|0|Legal analysis: electricity theft not a statutory offence; recommends criminalisation and Eskom prosecutions
+R01764|BRA|X|-|Q|0|1?|Stochastic frontier panel (41 utilities, 10 years) for ANEEL NTL targets; notes targets did not reduce NTL
+R01790|BGD|M|-|Q|0|1|Dhaka post- to prepaid switch: payment and recharge data over three years; delinquency reduced
+R02172|CHN|N|Y|S|0|0|High-loss station area governance with anti-theft edge device; simulation
+R02555|TCD|N|-|C|0|0|SNE N'Djamena AMI deployment design and consumption equations
+R02887|ROU?|S|-|F?|0|0|Metering error minimisation model tested at a distribution company; 4% improvement in own technological consumption
+R02890|MYS|X|-|Q|0|0|Legal analysis of landlord liability for tenant meter tampering
+R03000|-|X|-|C|0|0|Cost-estimation forced corrective penalty model in AMI
+R03017|RUS?|X|-|C|0|0|Software for planning raids on non-contractual consumption; benefits claimed, not measured
+R03051|MULTI|X|-|Q|0|1?|South American NTL solutions compared with World Bank-based indicator and supply-quality correlation
+R03095|-|X|-|C|0|0|AEA RCT registry entry on smart metering, revenue collection and supply in LMIC; registration only, no results
+X17|-|H|-|U|0|-|GSM theft detector with alarm; no abstract
+R01285|BRA|M?|R|F|0|0|Financial-return inspection targeting on 261,489 Brazilian consumers; 338 new field inspections; return up to 11.5x

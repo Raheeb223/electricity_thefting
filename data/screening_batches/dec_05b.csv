@@ -1,0 +1,112 @@
+# batch_05 lines 126-250 (S1 2016-2017)
+DEFAULT,EXC,E1,,Not consumer electricity theft/NTL (cyber/privacy/FDIA only, forecasting, generic metering, other domains)
+R01767,INC,I5b,HY,AMIDS + cryptographic protection for theft
+R01775,INC,I5b,DD,Large-scale NTL detection in imbalanced data (ISGT; Brazil/Choice Technologies)
+R01810,EXC,E4,NW,Dissertation (Portuguese)
+R01935,INC,I5b,NW,Fast NTL fraud detector (SCN)
+R01946,EXC,E2,DD,Conceptual proposal
+R02054,INC,I5b,DD,Spatial-temporal deep learning for NTL (ICMLA)
+R02104,EXC,E5,RV,Venue not indexed (IJCA)
+R02200,EXC,E1,HW,AMI development
+R02232,INC,I5b,DD,Supervised fraud detection in energy consumption (DSAA; Gas Natural Fenosa)
+R02248,INC,I5b,HW,Point-to-point voltage drop between smart meters (IFAC)
+R02306,INC,I5b,NW,Detection and localisation of NTL in LV grids with AMI (MedPower)
+R02407,INC,I5a,HW,Most frequent energy theft techniques and hazards; check venue
+R02416,EXC,E1,HW,Remote meter reading
+R02430,INC,I5b,HW,WSN line-temperature sensors for theft in microgrids (IEEE Sensors)
+R02439,EXC,E5,NW,Venue doubtful
+R02456,INC,I5b,DD,Multi-dimensional outlier analysis on remote metering data (CICED)
+R02512,EXC,E6,NW,FNFD variant of NFD family (see R02680)
+R02525,INC,I5b,DD,Privacy-preserving theft detection for DER generation fraud (ISC2)
+R02580,EXC,E5,DD,Venue not indexed
+R02623,INC,RV,RV,NTL detection in smart distribution networks review (AISC) T1 candidate
+R02643,EXC,E6,NW,LNCS precursor of R02680
+R02648,EXC,E5,DD,No venue (Palestine data mining)
+R02680,INC,I5b,NW,NFD: NTL fraud detection in smart grid (Computers & Security)
+R02784,INC,I5b,NW,Detector for colluded NTL frauds (Computer Networks)
+R02792,EXC,E5,HW,No venue
+R02803,EXC,E4,HW,Patent
+R02811,EXC,E6,NW,Conference precursor of R02784
+R03048,EXC,E1,NW,Technical losses only
+R03099,EXC,E4,DD,No venue/abstract
+R03118,EXC,E4,HW,No venue
+R03120,EXC,E4,RV,No venue
+R03128,EXC,E4,HW,No venue
+R03134,EXC,E4,HW,No venue
+R03139,EXC,E4,HW,No venue
+R03150,EXC,E4,RV,No venue
+R03168,EXC,E4,HW,No venue
+R00047,EXC,E4,GV,Master thesis (societal costs of fraud, Netherlands)
+R00133,EXC,E1,HW,Data-centre tenant theft
+R00298,INC,I5b,HW,Distribution-side load monitoring and theft detection (Korean journal); check
+R00323,EXC,E4,DD,Dissertation
+R00526,EXC,E1,HW,AMI GSM
+R00599,INC,I5c,HY,MAHADISCOM AMI + drones against direct hooking (India)
+R00606,EXC,E1,DD,Data falsification forensics (not consumer theft focus)
+R00737,INC,I5b,HW,GIS-based theft detector with field work on Nigerian feeder; check venue
+R00792,INC,I5b,HW,Automatic tamper detection and reporting single-phase meter (Nigeria)
+R00794,EXC,E4,DD,Dissertation
+R00812,INC,I5b,NW,Difference-comparison malicious meter inspection (Computer Journal)
+R00829,EXC,E1,DD,Pricing cyberattack in smart homes
+R00882,INC,I5b,DD,Holographic spatial visualisation of NTL predictions (ICDMW)
+R00957,INC,I5b,DD,Improved ML practice for NTL with imbalanced data (PES GM)
+R01017,INC,I5b,DD,Wide & Deep CNN on SGCC (IEEE TII 2018) - seminal, SGCC origin
+R01058,EXC,E1,DD,Consumption prediction
+R01082,EXC,E4,GV,Undergraduate abstract
+R01088,INC,I5b,DD,Characteristics for NTL detection, two Colombian companies
+R01134,INC,I5b,HW,4G intelligent video surveillance against stealing (China)
+R01206,EXC,E1,HW,Meter reading
+R01340,EXC,E1,HW,Meter monitoring
+R01360,INC,I5b,HW,Power theft detection algorithm for hooking in LV service lines (IECON)
+R01430,EXC,E5,NW,No venue
+R01483,INC,I5c,HY,Value of intrusion detection systems against fraud under limited inspection budgets (ACC)
+R01681,EXC,E5,HW,No venue
+R01696,INC,I5b,DD,CETD clustering-based theft detection (TENSYMP)
+R01700,EXC,E1,HW,Universal smart meter
+R01724,EXC,E5,HW,Venue not indexed
+R01848,EXC,E5,HW,Venue not indexed
+R01870,INC,I5b,HW,Cost-effective IoT theft detection/prevention (Nigeria)
+R01890,INC,I5b,NW,State estimator to identify theft in MV/LV with exogenous parameters (CIRED)
+R01894,INC,I5b,DD,Random matrix theory theft detector (IET GTD)
+R01899,INC,I5b,DD,Improving inspection accuracy at Endesa (IEEE TPWRS 2017) - real deployment
+R01903,INC,I5b,DD,Clustering-based novelty detection for theft (FUZZ-IEEE)
+R01929,INC,I5b,DD,Benford's law + Stackelberg game theft detection (RWS)
+R01940,INC,I5b,DD,Entropy-based theft detection in AMI (IET CPS)
+R01949,INC,I5b,NW,TL/NTL estimation with WLS state estimator (PES GM)
+R01997,EXC,E4,NW,Student congress
+R01999,INC,I5b,DD,Provider-independent data for NTL detection (PECI)
+R02013,INC,I5b,DD,Score-based NTL detection (Istanbul SGC)
+R02075,INC,I5b,NW,Switching reconfiguration for fraud detection (RWS)
+R02139,INC,RV,RV,Glauner 2017 survey (IJCIS) T1
+R02179,INC,I5b,DD,Theft and defective meters via linear regression (EEEIC)
+R02278,EXC,E1,HW,Arduino current sensor prevention (weak)
+R02357,EXC,E5,DD,Venue not indexed
+R02370,INC,I5c,HY,Distribution loss reduction pilots with AMI, Mashhad (CIRED) - deployment
+R02371,INC,I5b,DD,PCA theft detection in AMI (ICPS)
+R02474,INC,I5b,DD,Density-clustering theft detection (ISGT Asia)
+R02521,INC,I5b,DD,SVM on customer irregularities, Cameroon ENEO; check venue
+R02548,INC,I5b,HW,Tamper-proof distribution boxes for household connections (APPEEC)
+R02557,INC,RV,RV,Papadimitriou 2017 CIRED regulatory overview (T1)
+R02576,INC,I5b,DD,Interpolation and fraud detection on AMR data
+R02619,INC,RV,RV,Viegas 2017 RSER review (T1)
+R02620,INC,I5b,DD,Load curve profiling + time series NTL (Energy 2017)
+R02649,INC,I5c,HY,NTL analysis and prevention using smart meters (RSER 2017)
+R02666,INC,RV,RV,Ahmad 2018 RSER modelling review (T1)
+R02681,INC,I5b,DD,Theft and defective meters via linear regression (IJEPES)
+R02688,EXC,E5,HW,Venue not indexed
+R02707,EXC,E5,HW,Venue not indexed
+R02802,INC,I5c,HY,Enterprise information system automating theft detection in utilities (i-Society); check
+R02856,INC,I5a,GV,Theft impact on economy of a regulated company; check venue
+R02878,EXC,E1,DD,School consumption anomalies
+R02896,EXC,E4,HW,No abstract
+R02900,EXC,E5,HW,Venue not indexed
+R03075,EXC,E4,HY,No venue (AMI cost-benefit, Spanish)
+R03092,EXC,E4,HW,No venue
+R03106,EXC,E4,HW,No venue
+R03113,EXC,E4,HW,No venue
+R03114,EXC,E4,HW,Patent
+R03119,EXC,E4,HW,No venue
+R03122,EXC,E4,DD,No venue
+R03126,EXC,E4,HW,No venue
+R03141,EXC,E4,HW,No venue (zero-sequence detection in informal settlements); find published version
+R03146,EXC,E4,HW,No venue

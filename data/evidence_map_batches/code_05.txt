@@ -1,0 +1,50 @@
+R01767|-|S|Y|S|0|-|AMIDS + ECDSA in smart grid
+R01775|-|U|R|O|0|-|Large imbalanced NTL data, 100Ks customers; near deployment
+R01935|-|S|Y|S|0|-|FNFD recursive least squares detector
+R01996|IND|H|-|C|0|0|Theft-proof pole distribution box design
+R02054|-|N|Y|S|0|-|Spatio-temporal deep learning on IEEE 123-bus
+R02232|-|U|R|F|0|-|Supervised fraud detection with field checks; improved over previous checks
+R02248|-|S|Y|S|0|-|Voltage-drop between smart meters for unauthorised use
+R02306|-|S|Y|O|0|-|NTL detection/localisation on real LV network
+R02430|-|N|Y|L|0|-|WSN resistive sensors for microgrid theft
+R02456|CHN|S|R|O|0|-|Multi-dimensional outlier analysis, Shanghai estate case
+R02525|-|S|Y|S|0|-|Privacy-preserving DER generation manipulation detection
+R02680|-|U|U|U|0|-|NFD fraud detection; no abstract
+R02784|-|U|U|U|0|-|Colluded NTL fraud detector; no abstract
+R00292|PAK|H|-|L|0|0|Anti-shunt meter terminal block for K-Electric
+R00298|-|H|-|L|0|0|Distribution-side load monitoring and theft model
+R00722|BRA|M?|R|O|0|-|Covariate shift in inspection data, 3.6M customers, 820K inspection results (same Brazilian dataset as R02958, monthly series; tail-scan)
+R00737|NGA|H|-|L|0|0|GIS-based theft detector; field survey of Minna feeder customers
+R00792|NGA|H|-|L|0|0|Prepayment meter with tamper detection and GSM
+R00812|-|N|Y|S|0|-|Difference-comparison malicious meter inspection tree
+R00882|BRA|M?|R|O|0|-|Holographic visualisation of NTL predictions, 3.6M customers; being deployed in commercial software, no outcomes (tail-scan)
+R00957|HND|M|R|O|0|-|Class imbalance, 22 months, 3,400 industrial/commercial customers (labels probable ?)
+R01017|CHN|S|R|O|0|-|Wide and deep CNN on SGCC data
+R01088|COL|M|U|O|0|-|Benford/MDS/clusters on monthly kWh, two Colombian companies
+R01134|CHN|H|-|L|0|0|4G video surveillance anti-stealing terminal
+R01360|-|H|Y|L|0|-|High-frequency signal injection with LC traps
+R01380|IND|H|-|L|0|0|Arduino GSM theft control meter
+R01696|-|S|Y|S|0|-|CETD clustering-based theft detection
+R01870|NGA|H|-|L|0|0|IoT PIR-sensor theft detection meter
+R01890|BRA|N|-|O|0|-|State estimator demand adjustment to allocate theft
+R01894|CHN|N|Y|O|0|-|Random matrix theory on IEEE 34-bus and Chinese city data
+R01899|ESP|M|R|F|0|-|Endesa inspection targeting; success rate x3
+R01903|-|S|Y|S|0|-|Fuzzy clustering novelty detection
+R01929|USA|S|Y|O|0|-|Benford + Stackelberg on Florida utility interval data
+R01940|-|S|Y|S|0|-|Relative-entropy theft detection, real smart meter data with attacks
+R01949|-|N|U|O|0|-|WLS-SE technical and NTL estimation case study
+R01999|-|U|R|O|0|-|Provider-independent features for NTL detection (AUC)
+R02013|TUR|U|U|O|0|-|Score-based fuzzy NTL detection on real dataset
+R02075|-|N|Y|S|0|-|Switching reconfiguration to localise fraud
+R02179|MYS|H|Y|L|0|-|Lab AMI test rig, linear regression detection
+R02263|IND|S|U|U|0|-|LSTM on half-hourly data
+R02338|BRA|M|U|U|0|-|Billing profile + census indices for inspection targeting
+R02371|-|S|Y|S|0|-|PCA anomaly score with attack scenarios on real data
+R02377|IND|N|-|S|0|0|Signal encoding to prevent line tapping (Simulink)
+R02398|ZAF|H|-|L|0|0|RF current comparison theft detection
+R02450|IND|H|-|L|0|0|Intelligent energy meter prototype
+R02474|-|S|Y|S|0|-|Density clustering with synthetic theft types
+R02521|CMR|U|U|U|0|-|ENEO SVM fraud detection tool
+R02548|IND|H|-|L|0|0|Tamper-proof distribution block design
+R02576|TUR|S|U|O|0|-|AMR interpolation and fraud detection on real data
+R02620|ESP|S|Y|O|0|-|Load-curve profiling, Spanish utility data with emulated outliers

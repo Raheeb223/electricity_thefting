@@ -1,0 +1,50 @@
+R01826|IRL|S|Y|S|0|-|XGBoost on Irish CER with six FDI types
+R01850|-|M|R|F|0|-|Cost-driven synthetic control on low-resolution data; utility test ~75% precision on new NTL cases
+R01854|-|S|U|O|0|-|CNN features + SVM on real smart meter data
+R01871|CHN|S|U|O|0|-|Clustering + improved neural network
+R01874|ESP|U|R|O|0|-|Regression + SHAP NTL system for international utility (energy recovery)
+R01881|CHN|S|R|O|0|-|Gradient boosting comparison on SGCC
+R01901|-|S|U|O|0|-|FPETD privacy-preserving CNN
+R01966|CHN|S|R|O|0|-|Supervised learning comparison on SGCC
+R01974|IRL|S|Y|S|0|-|XGBoost on Irish data with six attack types
+R02007|IRL|S|Y|S|0|-|AdaBoost-CNN on Irish data
+R02022|BRA|M|-|O|0|-|Fuzzy/ANN/DL NTL indicators for irrigation consumers, rice crop 2011-2014
+R02045|IND|H|-|L|0|0|GSM smart meter with vibration-sensor theft detection
+R02047|-|X|-|C|0|-|Power theft risk model and review of detection classes
+R02055|-|N|Y|S|0|-|Time-skew mitigation for coding-based NTL correction
+R02070|BRA|U|R|O|0|-|Weather-consumption correlation, three inspected units
+R02074|CHN|H|U|O|0|-|CNN-LSTM charging-pile electricity stealing detection
+R02079|CHN|S|Y|O|0|-|NAS features + outlier detection; simulated thieves, industrial case
+R02095|CHN|S|U|O|0|-|Autoencoder + RF theft mode identification
+R02114|IND|M|U|O|0|-|ML NTL detection with traditional-meter data, 80%+ accuracy (labels unclear ?)
+R02123|-|S|Y|S|0|-|K-means + LOF outlier detection
+R02124|-|S|N|O|0|-|Transformer + K-means hourly anomaly detection
+R02130|KOR|S|U|O|0|-|WaDGAN-AD LSTM-GAN anomaly detection
+R02131|-|S|U|O|0|-|Stacking ensemble for abnormal consumption
+R02132|NGA|H|-|S|0|0|STS meter with GSM tamper reporting (Proteus)
+R02168|IND|H|-|L|0|0|IoT power theft monitoring and control
+R02178|CHN|S|U|O|0|-|AdaBoost theft identification with utility marketing/metering data
+R02190|-|S|U|O|0|-|KDE/Monte Carlo augmentation + CNN for LV residential
+R02194|ESP|U|R|O|0|-|Human-in-the-loop explainability in utility NTL system
+R02198|CHN|H|U|O|0|-|SVM charging-pile stealing detection
+R02211|-|H|-|S|0|0|Smart meter system design with theft detection and protection (simulation)
+R02235|-|S|U|O|0|-|Improved crow search + SVM
+R02236|-|S|Y|S|0|-|Deep autoencoder stealth attack detection
+R02253|NGA|H|-|L|0|0|GSM single-phase smart meter with current differential theft detection
+R02314|IND|N|-|C|0|0|IoT + blockchain power theft and fault detection
+R02360|-|U|U|O|0|-|ML + feature engineering NTL model
+R02382|IRN|S|N|O|0|-|Filter-based anomaly detection, 999 industrial users (crypto-mining)
+R02396|-|S|U|O|0|-|DNN single-day profile classification, industrial sites
+R02436|IND|H|-|L|0|0|Sensor-based theft detection and location system
+R02507|ECU|S|Y|S|0|-|Clustering on synthetic Guayaquil residential curves, 68% NTL detected
+R02526|BRA|N|-|O|0|-|Real-case loss evaluation with transformer and smart meter data
+R02537|-|N|Y|S|0|-|Power flow + state estimation NTL inspection zones
+R02538|CHN|S|U|O|0|-|Text CNN on realistic datasets
+R02590|-|H|-|L|0|0|Self-calibrating smart meter with tamper detection
+R02636|-|U|U|U|0|-|MLP-GRU NTL detection; no abstract
+R02676|-|U|U|U|0|-|Classification + IoT theft detection; no abstract
+R02700|IND|N|-|U|0|-|Online theft detection/prevention for hook-line; no abstract
+R02720|-|U|U|U|0|-|Big data analytics for theft detection; no abstract
+R02724|-|U|U|U|0|-|AlexNet-AdaBoost-ABC hybrid; no abstract
+R02728|IRN|N|-|S|0|-|NTL possibility index in limited-data LV feeders
+R02765|-|U|U|U|0|-|Data-driven approaches in microgrids; no abstract

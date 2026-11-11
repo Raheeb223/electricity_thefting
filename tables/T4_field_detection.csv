@@ -1,0 +1,8 @@
+Study,Country (utility),Data and labels,Field design,Reported field result
+haramaini2026hybrid,Indonesia (PLN West Java),"Monthly bills and token purchases, 2.36M consumers; inspection labels","12,407 inspections by utility officers",Confirmed theft 72.0% vs 15.3% under rules
+guerrero2018non,Spain (Endesa),"Monthly consumption, inspection history",Inspection campaigns,Inspection success about 3 times the ~5% baseline
+gusmao2020customer,Brazil (CPFL),Customer interaction and inspection records,"Field test, then adopted in operations",Inspection success 2.2 times higher
+comapuig2016fraud,Spain (Gas Natural Fenosa),Monthly readings (half smart meters); fraud history,"Campaigns in three towns of 50,000--100,000, same size as baseline",Precision notably better than baseline campaigns
+alharbi2021electricity,Not stated (utility serving >30M people),Low-resolution (monthly) consumption; cost-driven ranking,Initial testing by the utility,About 75% precision on new NTL cases
+hu2020understanding,"China (State Grid, Hangzhou)","Multi-source data; 4,501 inspection-confirmed labels","Monthly on-site investigation, Aug 2019",Precision 15% vs 0% for earlier models
+jing2021research,China (Qinghai),Photovoltaic generation curves,Door-to-door inspection,22 cases confirmed
